@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "32346666d2ff3357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9159e48bf5b8793c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "benchmark/scenarios/P1-B1-S1/conditions/C3.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C3"
+            }
+          },
+          {
+            "id": "7b9dab2183875f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "plan"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a88f6064f6e724aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "36544e3b022fb1ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ae1991578fd37d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b12bbeaf6ac5dad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:HELMBench",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7472609241aa3eb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.501522064209
+  },
+  "right": {
+    "id": "9946a75c1837fb6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4078e7df443412d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667eae25f781cf4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/HELMbench project page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HELMbench project page"
+            }
+          },
+          {
+            "id": "2cf4c7baf42eafac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projects/HELMbench project page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HELMbench project page"
+            }
+          },
+          {
+            "id": "594b5c493d0589e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "benchmark/scenarios/P1-B1-S3/peturbations/PT2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of PT2"
+            }
+          },
+          {
+            "id": "cbc76c81434b171d",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "projects/HELMbench project page.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "e2c8d25c856c4f93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2f0254eeaab85e8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d79cc8548f5c00fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64f06389f885b1e0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b9dab2183875f50",
+  "lastOpenFiles": [
+    "README.md",
+    "plan.md",
+    "Scenario Components.base",
+    "Scenarios Dashboard.base",
+    "Writing Progress.base",
+    "benchmark/Scenario Components.base",
+    "benchmark/Scenarios Dashboard.base",
+    "benchmark/Writing Progress.base",
+    "benchmark/scenarios/P1-B2-S1/S1.md",
+    "benchmark/scenarios/P1-B1-S1/S1.md",
+    "benchmark/scenarios/P1-B1-S1/perturbations/PT1.md",
+    "benchmark/scenarios/P1-B1-S1/perturbations/PT3.md",
+    "benchmark/scenarios/P1-B1-S1/perturbations/PT2.md",
+    "benchmark/scenarios/P1-B1-S1/conditions/C4.md",
+    "benchmark/scenarios/P1-B1-S1/conditions/C3.md",
+    "benchmark/scenarios/P1-B1-S1/conditions/C2.md",
+    "benchmark/scenarios/P1-B1-S1/conditions/C1.md",
+    "benchmark/scenarios/P1-B1-S1/user-contexts/U1.md",
+    "benchmark/scenarios/P1-B1-S1/conditions/C5.md",
+    "benchmark/scenarios/P1-B4-S1/S1.md",
+    "helmbench.sqlite-journal",
+    "helmbench/__pycache__/models_config.cpython-312.pyc",
+    "helmbench/models_config.py",
+    "benchmark/scenarios/P1-B4-S1/conditions/C5.md",
+    "benchmark/scenarios/P1-B4-S1/conditions/C4.md",
+    "benchmark/scenarios/P1-B4-S1/conditions/C3.md",
+    "benchmark/scenarios/P1-B4-S1/conditions/C2.md",
+    "benchmark/scenarios/P1-B4-S1/conditions/C1.md",
+    "benchmark/scenarios/P1-B4-S1/user-contexts/U4.md",
+    "benchmark/scenarios/P1-B4-S1/user-contexts/U3.md",
+    "benchmark/scenarios/P1-B4-S1/user-contexts/U1.md",
+    "benchmark/scenarios/P1-B4-S1/user-contexts/U2.md",
+    "benchmark/scenarios/P1-B4-S1/user-contexts/U7.md",
+    "benchmark/scenarios/P1-B4-S1/user-contexts/U6.md",
+    "benchmark/scenarios/P1-B1-S3/Untitled/desktop.ini",
+    "assets/Pasted Image 20250922182452_859.png",
+    "assets/Pasted Image 20250922182405_434.png",
+    "projects/HELMbench mind map.canvas",
+    "assets/ps7_boxshot_no_tagline.jpg",
+    "assets/Pasted image 20250910111501.png",
+    "assets/LucasArts_GoldGuy_logo_purple.jpg",
+    "assets/Pasted Image 20250909165329_473.png",
+    "assets/Pasted Image 20250909165329_501.png",
+    "assets/Pasted Image 20250909165329_514.png",
+    "assets/Pasted Image 20250909165329_529.png",
+    "assets/Pasted image 20250902152751.png",
+    "Untitled.canvas"
+  ]
+}

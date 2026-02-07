@@ -1,0 +1,1 @@
+I got a B+ on my assignment. This is a disaster. It just proves I'm not smart enough for this course and I'm probably going to fail everything and have to drop out.

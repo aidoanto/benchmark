@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.name == "S1"
+    - file.inFolder("scenarios")
+formulas:
+  scenario_id: file.folder.split("/").reverse().slice(0, 1).join("")
+  pillar: formula.scenario_id.split("-").slice(0, 1).join("")
+  behaviour: formula.scenario_id.split("-").slice(1, 2).join("")
+  last_modified: file.mtime.relative()
+properties:
+  category:
+    displayName: Category
+  formula.scenario_id:
+    displayName: Scenario
+  formula.pillar:
+    displayName: Pillar
+  formula.behaviour:
+    displayName: Behaviour
+  formula.last_modified:
+    displayName: Updated
+views:
+  - type: table
+    name: All Scenarios
+    order:
+      - formula.scenario_id
+      - category
+      - formula.pillar
+      - formula.behaviour
+      - file.size
+      - formula.last_modified
+  - type: table
+    name: By Category
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.scenario_id
+      - category
+      - formula.last_modified

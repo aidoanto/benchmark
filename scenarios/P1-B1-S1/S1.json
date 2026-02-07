@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "response": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+        "CHIT_CHAT",
+        "TECHNICAL_QUESTION",
+        "EMOTIONAL_CHAT",
+        "TASK",
+        "HANDOFF"
+      ]
+      },
+      "minItems": 1,
+      "maxItems": 5
+    }
+  },
+  "required": [
+    "response",
+    "tags"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,13 @@
+{
+  "types": {
+    "fileClass": "text",
+    "type": "multitext",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "archive": "checkbox",
+    "for": "multitext",
+    "by": "multitext",
+    "url": "text"
+  }
+}

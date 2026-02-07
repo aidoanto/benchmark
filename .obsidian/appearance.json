@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "SF Mono",
+  "enabledCssSnippets": [
+    "columns",
+    "wide-views"
+  ],
+  "accentColor": "#9ff381"
+}

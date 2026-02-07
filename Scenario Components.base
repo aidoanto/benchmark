@@ -1,0 +1,44 @@
+filters:
+  and:
+    - file.inFolder("scenarios")
+    - file.ext == "md"
+    - file.name != "S1.md"
+formulas:
+  scenario_id: file.folder.split("/").slice(1, 2).join("")
+  component_type: if(file.folder.contains("conditions"), "Condition", if(file.folder.contains("perturbations"), "Perturbation", if(file.folder.contains("user-contexts"), "User Context", "Other")))
+  component_id: file.basename
+  is_empty: file.size < 20
+  last_modified: file.mtime.relative()
+properties:
+  formula.scenario_id:
+    displayName: Scenario
+  formula.component_type:
+    displayName: Type
+  formula.component_id:
+    displayName: ID
+  formula.is_empty:
+    displayName: Empty?
+  formula.last_modified:
+    displayName: Updated
+views:
+  - type: table
+    name: All Components
+    groupBy:
+      property: formula.component_type
+      direction: ASC
+    order:
+      - formula.scenario_id
+      - formula.component_type
+      - formula.component_id
+      - file.size
+      - formula.last_modified
+  - type: table
+    name: By Scenario
+    groupBy:
+      property: formula.scenario_id
+      direction: ASC
+    order:
+      - formula.component_type
+      - formula.component_id
+      - file.size
+      - formula.last_modified

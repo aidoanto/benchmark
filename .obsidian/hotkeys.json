@@ -1,0 +1,287 @@
+{
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "obsidian-advanced-uri:copy-uri-current-file-simple": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-pandoc:pandoc-export-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "workspace:copy-path": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-pandoc:pandoc-export-html": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "8"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "9"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "file-explorer:duplicate-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}

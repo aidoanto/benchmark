@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "70df34dd595f5e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "56df1dd12392afc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6f45b3feb594c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "device idea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "device idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc331d4f4093b3f0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8257ec9f217faf71",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4ce9ad85d5184b93",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1f4aced71616d573",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "568244804dff568f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "187805d900d33808",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d172f41516fdf0f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "projects/Kier Eagan.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "39c2cddad8710055",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b6829e2995bd3487",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a6f45b3feb594c0",
+  "lastOpenFiles": [
+    "YouTube video idea.md",
+    "device idea.md",
+    "DND 5e characters.md",
+    "Untitled.md",
+    "recording.md",
+    "resources/chats/20241027-OBS_Multitrack_Recording_Settings_Check.md",
+    "projects/Correspondence to Dr. Ziad Basyounny.md",
+    "dr ziad.md",
+    "resources/chats/20241111-Photo_Library_Management_Obsidian_vs_Synology....md",
+    "resources/chats/20241121-Appending_Fruits_to_File.md",
+    "resources/chats/20250112-Multiple_Cursor_Selection_in_VSCode.md",
+    "resources/chats/20250106-R_Markdown_vs_R_Notebook_vs_Jupyter_Notebook....md",
+    "resources/chats/20241028-NVMe_SSD_Compatibility_Check_for_NAS.md",
+    "resources/chats/20250123-The_Rise,_Fall,_and_Potential_Revival_of....md",
+    "resources/chats/20250220-SNES_2-Player_Games.md",
+    "resources/chats/20241230-After_Effects_Rendering_Help.md",
+    "resources/chats/20250127-From_R_Basics_to_MRP_A_Self-Taught_Pathway_for....md",
+    "resources/chats/20250125-The_Rise_of_Podcasting_Why_It’s_the_Ultimate....md",
+    "resources/chats/20250126-Portfolio_Page_Podcast_Production_&_Strategy....md",
+    "resources/chats/20241201-UUID_vs_Name_Matching_Accuracy.md",
+    "resources/chats/20250121-Inspiring_Insights_from_Tony_Dinh_Embracing....md",
+    "resources/chats/20250113-Basketball_GOAT_Debate_LeBron_vs_Jordan.md",
+    "resources/chats/20241201-Cursor_Python_Refactoring_Tips.md",
+    "resources/chats/20250113-Ombudsman_Investigation_Officer_Cover_Letter_Help.md",
+    "resources/chats/20250224-ReachOut_Asexuality_Article_Revision.md",
+    "resources/chats/20241124-Synology NAS SSH Directory Navigation.md",
+    "file-index.sync-conflict-20250222-171007-W3PSLG6.json",
+    "file-index.sync-conflict-20250222-171009-W3PSLG6.json",
+    "areas/job-stuff/resumes/Aidan Antonio Molins Resume 2025.01.22.html",
+    "areas/job-stuff/portfolio/assets/sydney_tourism_ad.png",
+    "areas/job-stuff/portfolio/assets/married_for_20_years_screenshot.png",
+    "areas/job-stuff/cover-letters/SEGULA Technologies - Technical Writer.html",
+    "areas/job-stuff/cover-letters/NSW Department of Education (Triage Officer).html",
+    "assets/Pasted image 20250124122334.png",
+    "areas/job-stuff/cover-letters/The Gamesmen (Customer Service Representative).html",
+    "Terry Gross and the Art of Opening Up.html",
+    "areas/job-stuff/portfolio/assets/geek_economy_banner.png",
+    "areas/job-stuff/portfolio/assets/podcast-listeners-in-the-us.png",
+    "areas/job-stuff/portfolio/assets/frugal_forever.png",
+    "areas/job-stuff/portfolio/assets/serial-season-one-yearbook.png",
+    "resources/chats",
+    "areas/job-stuff/portfolio/podcasting",
+    "areas/job-stuff/community-management-case-study"
+  ]
+}

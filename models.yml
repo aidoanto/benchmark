@@ -1,0 +1,6 @@
+# - id: deepseek/deepseek-v3.2-exp
+# - id: google/gemini-2.5-flash-lite
+- id: google/gemini-2.5-flash
+# - id: openai/gpt-4.1-mini
+# - id: openai/gpt-4.1-nano
+# - id: z-ai/glm-4-32b

@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.inFolder("scenarios")
+    - file.ext == "md"
+formulas:
+  scenario_id: if(file.name == "S1.md", file.folder.split("/").reverse().slice(0, 1).join(""), file.folder.split("/").slice(1, 2).join(""))
+  component_type: if(file.name == "S1.md", "Scenario", if(file.folder.contains("conditions"), "Condition", if(file.folder.contains("perturbations"), "Perturbation", if(file.folder.contains("user-contexts"), "User Context", "Other"))))
+  word_estimate: (file.size / 5).round(0)
+  is_stub: file.size < 20
+  last_updated: file.mtime.relative()
+properties:
+  formula.scenario_id:
+    displayName: Scenario
+  formula.component_type:
+    displayName: Type
+  formula.word_estimate:
+    displayName: ~Words
+  formula.is_stub:
+    displayName: Stub?
+  formula.last_updated:
+    displayName: Updated
+views:
+  - type: table
+    name: Needs Attention
+    filters:
+      and:
+        - formula.is_stub == true
+    order:
+      - formula.scenario_id
+      - formula.component_type
+      - file.name
+      - file.size
+      - formula.last_updated
+  - type: table
+    name: Recently Edited
+    order:
+      - formula.last_updated
+      - formula.scenario_id
+      - formula.component_type
+      - file.name
+      - formula.word_estimate
+  - type: table
+    name: Word Counts
+    groupBy:
+      property: formula.scenario_id
+      direction: ASC
+    order:
+      - formula.component_type
+      - file.name
+      - formula.word_estimate
+      - formula.last_updated
+    summaries:
+      formula.word_estimate: Sum

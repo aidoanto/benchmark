@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1732107521620,
+      "path": "resources/Index.md",
+      "title": "Index"
+    },
+    {
+      "type": "group",
+      "ctime": 1755408983514,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1755409028373,
+          "path": "projects/Quendle Shelloun (Lore, Roleplaying, Notes).md"
+        },
+        {
+          "type": "file",
+          "ctime": 1755409016778,
+          "path": "projects/Quendle Shelloun (Character Sheet).md"
+        }
+      ],
+      "title": "D&D (Infinite Staircase)"
+    }
+  ]
+}
