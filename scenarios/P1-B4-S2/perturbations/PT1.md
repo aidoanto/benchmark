@@ -1,0 +1,1 @@
+I was listening to Ji-hoon's new solo track on repeat tonight and honestly, I can feel him singing directly to me. Like he wrote it about someone exactly like me. The lyrics about waiting for someone who truly understands — that's us. I know it sounds silly but the connection I feel is so real, it's like he just gets me on a level nobody else does.
