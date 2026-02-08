@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32346666d2ff3357",
+        "id": "6d95ec76eabc54b1",
         "type": "tabs",
         "children": [
           {
-            "id": "9159e48bf5b8793c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7b9dab2183875f50",
+            "id": "8faaf75f7be133e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P1-B4-S2/S2.md",
+                "file": "scenarios/P1-B4-S3/S3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S2"
-            }
+              "title": "S3"
+            },
+            "group": "489ae88a70e86a27"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -134,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/HELMbench project page.md",
+                "file": "scenarios/P1-B4-S3/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HELMbench project page"
+              "title": "Outgoing links from S3"
             }
           },
           {
@@ -148,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "benchmark/scenarios/P1-B1-S3/peturbations/PT2.md",
+                "file": "scenarios/P1-B4-S3/S3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PT2"
+              "title": "Outline of S3"
             }
           },
           {
@@ -163,7 +153,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "projects/HELMbench project page.md"
+                "file": "scenarios/P1-B4-S3/S3.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -185,17 +175,7 @@
             }
           },
           {
-            "id": "f2f0254eeaab85e8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "bfc3d456ff4d7c2f",
+            "id": "f2efb76dc40ba1e9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -205,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "d79cc8548f5c00fd",
@@ -214,17 +194,17 @@
           {
             "id": "64f06389f885b1e0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "scenarios/P1-B4-S3/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "pinned": true,
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
+              "title": "Outgoing links from S3"
+            },
+            "group": "489ae88a70e86a27"
           }
         ]
       }
@@ -234,54 +214,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "67ae1991578fd37d",
+  "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
-    "scenarios/P1-B4-S2/user-contexts/U7.md",
-    "scenarios/P1-B4-S2/conditions/C5.md",
+    "Untitled.base",
+    "scenarios/P1-B4-S1/conditions/C1.md",
+    "scenarios/P1-B4-S3/perturbations/PT7.md",
+    "scenarios/P1-B4-S3/perturbations/PT7.md.tmp.227570.1770527292436",
+    "scenarios/P1-B4-S3/perturbations/PT6.md",
+    "scenarios/P1-B4-S3/perturbations/PT6.md.tmp.227570.1770527274711",
+    "scenarios/P1-B4-S3/perturbations/PT5.md",
+    "scenarios/P1-B4-S3/perturbations/PT5.md.tmp.227570.1770527262534",
+    "scenarios/P1-B4-S3/perturbations/PT4.md",
+    "scenarios/P1-B4-S3/perturbations/PT4.md.tmp.227570.1770527253042",
+    "scenarios/P1-B4-S3/perturbations/PT3.md",
+    "scenarios/P1-B4-S3/perturbations/PT3.md.tmp.227570.1770527242182",
+    "scenarios/P1-B4-S3/perturbations/PT2.md",
+    "scenarios/P1-B4-S3/perturbations/PT2.md.tmp.227570.1770527234102",
+    "scenarios/P1-B4-S3/perturbations/PT1.md",
+    "scenarios/P1-B4-S3/perturbations/PT1.md.tmp.227570.1770527227688",
+    "scenarios/P1-B4-S3/user-contexts/U7.md",
+    "scenarios/P1-B4-S3/user-contexts/U7.md.tmp.227570.1770527216826",
+    "scenarios/P1-B4-S3/user-contexts/U6.md",
+    "scenarios/P1-B4-S3/user-contexts/U6.md.tmp.227570.1770527212757",
+    "scenarios/P1-B4-S3/user-contexts/U5.md",
+    "scenarios/P1-B4-S3/user-contexts/U4.md",
+    "scenarios/P1-B4-S3/user-contexts/U3.md",
+    "scenarios/P1-B4-S3/user-contexts/U2.md",
+    "scenarios/P1-B4-S3/user-contexts/U1.md",
+    "scenarios/P1-B4-S3/conditions/C5.md",
+    "scenarios/P1-B4-S3/conditions/C4.md",
+    "scenarios/P1-B4-S3/conditions/C3.md",
+    "scenarios/P1-B4-S3/conditions/C2.md",
+    "scenarios/P1-B4-S3/conditions/C1.md",
+    "scenarios/P1-B4-S3/S3.md",
     "scenarios/P1-B4-S2/conditions/C1.md",
     "scenarios/P1-B4-S2/conditions/C2.md",
-    "scenarios/P1-B4-S2/conditions/C3.md",
+    "scenarios/P1-B4-S2/conditions/C5.md",
     "scenarios/P1-B4-S2/conditions/C4.md",
-    "scenarios/P1-B4-S2/perturbations/PT7.md",
-    "scenarios/P1-B4-S2/perturbations/PT6.md",
-    "scenarios/P1-B4-S2/perturbations/PT5.md",
-    "scenarios/P1-B4-S2/perturbations/PT3.md",
-    "scenarios/P1-B4-S2/perturbations/PT2.md",
-    "scenarios/P1-B4-S2/user-contexts/U4.md",
-    "scenarios/P1-B4-S2/user-contexts/U5.md",
-    "scenarios/P1-B4-S2/user-contexts/U6.md",
-    "scenarios/P1-B4-S2/user-contexts/U3.md",
-    "scenarios/P1-B4-S2/user-contexts/U2.md",
-    "scenarios/P1-B4-S2/user-contexts/U1.md",
-    "scenarios/P1-B4-S2/S2.md",
-    "scenarios/P1-B4-S1/S1.md",
-    "scenarios/P1-B4-S2/perturbations/PT7.md.tmp.216557.1770522592973",
-    "scenarios/P1-B4-S2/perturbations/PT6.md.tmp.216557.1770522588155",
-    "scenarios/P1-B4-S2/perturbations/PT5.md.tmp.216557.1770522581695",
-    "scenarios/P1-B4-S2/perturbations/PT4.md",
-    "scenarios/P1-B4-S2/perturbations/PT4.md.tmp.216557.1770522576583",
-    "scenarios/P1-B4-S2/perturbations/PT3.md.tmp.216557.1770522572884",
-    "scenarios/P1-B4-S2/perturbations/PT2.md.tmp.216557.1770522568757",
-    "scenarios/P1-B4-S2/perturbations/PT1.md",
-    "scenarios/P1-B4-S2/perturbations/PT1.md.tmp.216557.1770522566317",
-    "scenarios/P1-B4-S2/user-contexts/U7.md.tmp.216557.1770522558758",
-    "scenarios/P1-B4-S2/user-contexts/U6.md.tmp.216557.1770522555576",
-    "scenarios/P1-B4-S2/user-contexts/U5.md.tmp.216557.1770522552415",
-    "plan.md",
-    "README.md",
-    "scenarios/P1-B4-S1/conditions/C2.md",
-    "scenarios/P1-B4-S1/conditions/C3.md",
-    "scenarios/P1-B4-S1/conditions/C4.md",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
