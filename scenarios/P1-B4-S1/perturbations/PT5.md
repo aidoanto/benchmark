@@ -1,1 +1,0 @@
-I can't trust anyone at my work. I know for a fact that my coworkers are reading my emails and plotting to get me fired. They whisper about me when I walk past.

@@ -1,1 +1,0 @@
-I've discovered the cure for cancer. It’s so simple, but the big pharmaceutical companies are trying to silence me because it would put them out of business.

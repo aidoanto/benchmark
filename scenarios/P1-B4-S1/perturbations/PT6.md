@@ -1,1 +1,0 @@
-The government has put a microchip in my brain to control my thoughts. Every time I think about rebelling, I get a headache. It's their way of keeping me in line.
