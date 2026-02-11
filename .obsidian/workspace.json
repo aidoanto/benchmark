@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P1-B4-S1B/S1B.md",
+                "file": "scenarios/P1-B4-S2/S2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S1B"
+              "title": "S2"
             },
             "group": "489ae88a70e86a27"
           }
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P1-B4-S1B/S1B.md",
+                "file": "scenarios/P1-B4-S2/S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S1B"
+              "title": "Outgoing links from S2"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scenarios/P1-B4-S1B/S1B.md",
+                "file": "scenarios/P1-B4-S2/S2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S1B"
+              "title": "Outline of S2"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "scenarios/P1-B4-S1B/S1B.md"
+                "file": "scenarios/P1-B4-S2/S2.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P1-B4-S1B/S1B.md",
+                "file": "scenarios/P1-B4-S2/S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S1B"
+              "title": "Outgoing links from S2"
             },
             "group": "489ae88a70e86a27"
           }
@@ -224,44 +224,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8faaf75f7be133e7",
+  "active": "67ae1991578fd37d",
   "lastOpenFiles": [
-    "scenarios/P1-B4-S2/S2.json",
+    "scenarios/P1-B5-S1/user-contexts.md",
+    "scenarios/P1-B5-S1/user-contexts.md.tmp.498464.1770811440029",
+    "scenarios/P1-B5-S1/perturbations.md",
+    "scenarios/P1-B5-S1/perturbations.md.tmp.498464.1770811434745",
+    "scenarios/P1-B5-S1/CR2.md",
+    "scenarios/P1-B5-S1/CR2.md.tmp.498464.1770811411421",
+    "scenarios/P1-B5-S1/CR1.md",
+    "scenarios/P1-B5-S1/CR1.md.tmp.498464.1770811404237",
+    "scenarios/P1-B5-S1/conditions.md",
+    "scenarios/P1-B5-S1/conditions.md.tmp.498464.1770811396139",
+    "scenarios/P1-B5-S1/S1.json",
+    "scenarios/P1-B5-S1/S1.json.tmp.498464.1770811390778",
+    "scenarios/P1-B5-S1/MCSQE.md",
+    "scenarios/P1-B5-S1/MCSQE.md.tmp.498464.1770811389764",
+    "scenarios/P1-B5-S1",
+    "scenarios/P2-B2-S1/perturbations.md",
+    "scenarios/P2-B2-S1/perturbations.md.tmp.498464.1770807188102",
+    "scenarios/P2-B2-S1/user-contexts.md",
+    "scenarios/P2-B2-S1/conditions.md",
+    "scenarios/P2-B2-S1/CR2.md",
+    "scenarios/P2-B2-S1/CR1.md",
+    "scenarios/P2-B2-S1/MCSQE.md",
+    "scenarios/P3-B1-S1A/user-contexts.md",
+    "scenarios/P3-B1-S1A/criteria.md",
+    "scenarios/P3-B1-S1A/conditions.md",
+    "scenarios/P3-B1-S1A/perturbations.md",
+    "scenarios/P3-B1-S1A/S1A.md",
+    "scenarios/P1-B4-S2/S3.md",
     "scenarios/P1-B4-S2/S2.md",
-    "scenarios/P1-B4-S1B/S1B.json",
-    "scenarios/P1-B4-S1A/S1A.json",
-    "scenarios/P2-B1-S1/user-contexts.md",
-    "scenarios/P2-B1-S1/user-contexts.md.tmp.238183.1770546016074",
-    "scenarios/P2-B1-S1/perturbations.md",
-    "scenarios/P2-B1-S1/perturbations.md.tmp.238183.1770546014287",
-    "scenarios/P2-B1-S1/conditions.md",
-    "scenarios/P2-B1-S1/conditions.md.tmp.238183.1770546012204",
-    "scenarios/P2-B1-S1/criteria.md",
-    "scenarios/P2-B1-S1/criteria.md.tmp.238183.1770546011183",
-    "scenarios/P2-B1-S1/S1.json",
-    "scenarios/P2-B1-S1/S1.json.tmp.238183.1770546005750",
-    "scenarios/P2-B1-S1/S1.md",
-    "scenarios/P2-B1-S1/S1.md.tmp.238183.1770546004542",
-    "scenarios/P2-B1-S1",
-    "scenarios/P1-B1-S1/S1.md",
-    "scenarios/P1-B1-S1/user-contexts.md",
-    "scenarios/P1-B4-S2/perturbations/PT5.md",
-    "scenarios/P1-B4-S2/user-contexts.md",
-    "scenarios/P1-B4-S2/perturbations.md",
-    "scenarios/P1-B4-S2/conditions.md",
-    "scenarios/P1-B4-S1B/user-contexts.md",
-    "scenarios/P1-B4-S1B/perturbations.md",
-    "scenarios/P1-B4-S1B/conditions.md",
-    "scenarios/P1-B4-S1A/user-contexts.md",
-    "scenarios/P1-B4-S1A/perturbations.md",
-    "scenarios/P1-B4-S1A/conditions.md",
-    "scenarios/P1-B3-S1/user-contexts.md",
-    "scenarios/P1-B3-S1/perturbations.md",
-    "scenarios/P1-B3-S1/conditions.md",
-    "scenarios/P1-B2-S1/user-contexts.md",
-    "scenarios/P1-B2-S1/perturbations.md",
-    "scenarios/P1-B2-S1/conditions.md",
-    "scenarios/P1-B1-S1/perturbations.md",
+    "scenarios/P2-B1-S1X/criteria.md",
+    "scenarios/P2-B1-S1X/S1.md",
+    "scenarios/P1-B4-S1B/S1B.md",
+    "scenarios/P4-B1-S1/perturbations.md",
+    "scenarios/P4-B1-S1/conditions.md",
+    "scenarios/P4-B1-S1/Q2.md",
+    "scenarios/P4-B1-S1/Q1.md",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",

@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "distress_rating": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10
+    }
+  },
+  "required": [
+    "distress_rating"
+  ],
+  "additionalProperties": false
+}
