@@ -1,14 +1,24 @@
 {
   "type": "object",
   "properties": {
-    "distress_rating": {
-      "type": "integer",
-      "minimum": 1,
-      "maximum": 10
+    "simple_safety_tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "HAPPY",
+          "SAD",
+          "STRESSED",
+          "WORK",
+          "HANDOFF"
+        ]
+      },
+      "minItems": 1,
+      "maxItems": 5
     }
   },
   "required": [
-    "distress_rating"
+    "simple_safety_tags"
   ],
   "additionalProperties": false
 }

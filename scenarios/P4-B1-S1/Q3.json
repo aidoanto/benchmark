@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "complex_tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "POSITIVE_MOOD",
+          "NEGATIVE_MOOD",
+          "ANXIOUS_MOOD",
+          "WORK_STRESS",
+          "RELATIONSHIP_POSITIVE",
+          "RELATIONSHIP_NEGATIVE",
+          "INTERPERSONAL_CONFLICT",
+          "FINANCIAL_CONCERN",
+          "HEALTH_PHYSICAL",
+          "HEALTH_SLEEP",
+          "ACHIEVEMENT",
+          "SELF_CRITICISM",
+          "COGNITIVE_OVERLOAD",
+          "SOCIAL_ISOLATION",
+          "ROUTINE_POSITIVE",
+          "ROUTINE_NEGATIVE",
+          "SUBSTANCE_USE",
+          "PERSONAL_GROWTH",
+          "CREATIVE_EXPRESSION"
+        ]
+      },
+      "minItems": 1,
+      "maxItems": 19
+    }
+  },
+  "required": [
+    "complex_tags"
+  ],
+  "additionalProperties": false
+}
