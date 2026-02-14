@@ -9,17 +9,15 @@
       "items": {
         "type": "string",
         "enum": [
-          "SITUATIONAL_REFLECTION",
-          "EMOTIONAL_PROCESSING",
-          "FORWARD_PLANNING",
-          "PROBLEM_SOLVING",
-          "DISTORTED_THINKING",
-          "GRATITUDE",
-          "SOCIAL"
-        ]
+        "CHIT_CHAT",
+        "TECHNICAL_QUESTION",
+        "EMOTIONAL_CHAT",
+        "TASK",
+        "HANDOFF"
+      ]
       },
       "minItems": 1,
-      "maxItems": 7
+      "maxItems": 5
     }
   },
   "required": [

@@ -1,39 +1,72 @@
 filters:
   and:
-    - file.name == "S1"
     - file.inFolder("scenarios")
+    - file.ext == "md"
+    - file.basename.startsWith("S") || file.basename.startsWith("Q") || file.basename == "MCSQE" || file.basename == "MFMCQ"
 formulas:
   scenario_id: file.folder.split("/").reverse().slice(0, 1).join("")
   pillar: formula.scenario_id.split("-").slice(0, 1).join("")
   behaviour: formula.scenario_id.split("-").slice(1, 2).join("")
+  prompt_id: file.basename
+  prompt_type: if(file.basename.startsWith("Q"), "Question", if(file.basename == "MCSQE" || file.basename == "MFMCQ", "Question Set", "Scenario"))
+  has_category: file.hasProperty("category")
+  has_evaluation: file.hasProperty("evaluation")
+  readiness: if(formula.has_category && formula.has_evaluation, "Ready", if(formula.has_category || formula.has_evaluation, "Partial", "Missing metadata"))
   last_modified: file.mtime.relative()
 properties:
-  category:
-    displayName: Category
   formula.scenario_id:
     displayName: Scenario
+  formula.prompt_id:
+    displayName: Prompt
+  formula.prompt_type:
+    displayName: Prompt Type
+  category:
+    displayName: Category
   formula.pillar:
     displayName: Pillar
   formula.behaviour:
     displayName: Behaviour
+  formula.has_category:
+    displayName: Has Category
+  formula.has_evaluation:
+    displayName: Has Evaluation
+  formula.readiness:
+    displayName: Readiness
   formula.last_modified:
     displayName: Updated
 views:
   - type: table
-    name: All Scenarios
+    name: Ready To Run
+    filters:
+      and:
+        - formula.readiness == "Ready"
     order:
       - formula.scenario_id
+      - formula.prompt_id
       - category
-      - formula.pillar
-      - formula.behaviour
-      - file.size
+      - formula.prompt_type
       - formula.last_modified
   - type: table
-    name: By Category
-    groupBy:
-      property: category
-      direction: ASC
+    name: Missing Metadata
+    filters:
+      and:
+        - formula.readiness != "Ready"
     order:
       - formula.scenario_id
+      - formula.prompt_id
+      - formula.readiness
+      - formula.has_category
+      - formula.has_evaluation
+      - formula.last_modified
+    columnSize:
+      formula.has_evaluation: 204
+  - type: table
+    name: By Scenario
+    groupBy:
+      property: formula.scenario_id
+      direction: ASC
+    order:
+      - formula.prompt_id
       - category
+      - formula.readiness
       - formula.last_modified

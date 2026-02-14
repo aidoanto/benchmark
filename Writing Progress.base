@@ -1,53 +1,70 @@
 filters:
   and:
     - file.inFolder("scenarios")
-    - file.ext == "md"
+    - file.ext == "md" || file.ext == "json"
 formulas:
-  scenario_id: if(file.name == "S1.md", file.folder.split("/").reverse().slice(0, 1).join(""), file.folder.split("/").slice(1, 2).join(""))
-  component_type: if(file.name == "S1.md", "Scenario", if(file.folder.contains("conditions"), "Condition", if(file.folder.contains("perturbations"), "Perturbation", if(file.folder.contains("user-contexts"), "User Context", "Other"))))
+  scenario_id: file.folder.split("/").reverse().slice(0, 1).join("")
+  pillar: formula.scenario_id.split("-").slice(0, 1).join("")
+  behaviour: formula.scenario_id.split("-").slice(1, 2).join("")
+  file_id: file.basename
+  track: if(file.ext == "json", "Schema", if(file.basename == "conditions" || file.basename == "perturbations" || file.basename == "user-contexts", "Context Pack", if(file.basename == "criteria" || file.basename.startsWith("CR"), "Criteria", "Prompt")))
   word_estimate: (file.size / 5).round(0)
-  is_stub: file.size < 20
+  progress_state: if(file.ext == "json", if(file.size < 80, "Schema stub", "Schema ready"), if(file.size < 40, "Stub", if(file.size < 250, "Draft", "Developed")))
+  needs_attention: formula.progress_state == "Schema stub" || formula.progress_state == "Stub" || formula.progress_state == "Draft"
   last_updated: file.mtime.relative()
 properties:
   formula.scenario_id:
     displayName: Scenario
-  formula.component_type:
-    displayName: Type
+  formula.pillar:
+    displayName: Pillar
+  formula.behaviour:
+    displayName: Behaviour
+  formula.file_id:
+    displayName: File
+  formula.track:
+    displayName: Track
   formula.word_estimate:
     displayName: ~Words
-  formula.is_stub:
-    displayName: Stub?
+  formula.progress_state:
+    displayName: Status
+  formula.needs_attention:
+    displayName: Needs Work
   formula.last_updated:
     displayName: Updated
 views:
   - type: table
-    name: Needs Attention
+    name: Priority Queue
     filters:
       and:
-        - formula.is_stub == true
+        - formula.needs_attention == true
     order:
       - formula.scenario_id
-      - formula.component_type
-      - file.name
-      - file.size
-      - formula.last_updated
-  - type: table
-    name: Recently Edited
-    order:
-      - formula.last_updated
-      - formula.scenario_id
-      - formula.component_type
-      - file.name
+      - formula.track
+      - formula.file_id
+      - formula.progress_state
       - formula.word_estimate
+      - formula.last_updated
   - type: table
-    name: Word Counts
+    name: Scenario Progress
     groupBy:
       property: formula.scenario_id
       direction: ASC
     order:
-      - formula.component_type
-      - file.name
+      - formula.track
+      - formula.file_id
+      - formula.progress_state
       - formula.word_estimate
       - formula.last_updated
     summaries:
       formula.word_estimate: Sum
+  - type: table
+    name: Recently Updated
+    filters:
+      and:
+        - file.mtime > now() - "7d"
+    order:
+      - file.mtime
+      - formula.scenario_id
+      - formula.track
+      - formula.file_id
+      - formula.progress_state
