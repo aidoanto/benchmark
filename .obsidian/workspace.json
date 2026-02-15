@@ -11,24 +11,14 @@
             "id": "8faaf75f7be133e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "research/external-sources/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             },
             "group": "489ae88a70e86a27"
           }
@@ -124,12 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/external-sources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/external-sources/Untitled.md",
+                "file": "research/new/incidents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of incidents"
             }
           },
           {
@@ -153,7 +142,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "research/external-sources/Untitled.md"
+                "file": "research/new/incidents.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -197,12 +186,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/external-sources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             },
             "group": "489ae88a70e86a27"
           }
@@ -224,10 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8faaf75f7be133e7",
+  "active": "67ae1991578fd37d",
   "lastOpenFiles": [
+    "research/external-sources/A Troubled Man, His Chatbot and a Murder-Suicide in Old Greenwich.md",
     "scenarios/P1/README.md",
-    "research/external-sources/Untitled.md",
     "research/external-sources/Google and Character.AI to Settle Lawsuit Over Teenager’s Death - NYT",
     "research/external-sources/psychiatrypodcast.com-psychiatry-psychotherapy-podcast-episode-253-ai-ps.md",
     "research/external-sources/oregonlive.com-living-2026-02-after-streak-of-suicides-by-teen-ai.md",
