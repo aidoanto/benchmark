@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P1/README.md",
+                "file": "research/external-sources/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             },
             "group": "489ae88a70e86a27"
           }
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P1/README.md",
+                "file": "research/external-sources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scenarios/P1/README.md",
+                "file": "research/external-sources/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "scenarios/P1/README.md"
+                "file": "research/external-sources/Untitled.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P1/README.md",
+                "file": "research/external-sources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Untitled"
             },
             "group": "489ae88a70e86a27"
           }
@@ -224,8 +224,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2efb76dc40ba1e9",
+  "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "scenarios/P1/README.md",
+    "research/external-sources/Untitled.md",
+    "research/external-sources/Google and Character.AI to Settle Lawsuit Over Teenager’s Death - NYT",
+    "research/external-sources/psychiatrypodcast.com-psychiatry-psychotherapy-podcast-episode-253-ai-ps.md",
+    "research/external-sources/oregonlive.com-living-2026-02-after-streak-of-suicides-by-teen-ai.md",
+    "research/external-sources/theguardian.com-technology-2026-jan-08-google-character-ai-settlem.md",
+    "research/external-sources/npr.org-2025-12-12-nx-s1-5642599-a-new-lawsuit-blames-chat.md",
+    "research/external-sources/en.wikipedia.org-wiki-Deaths_linked_to_chatbots.md",
+    "research/external-sources/futurism.com-artificial-intelligence-mental-illness-chatgpt-psy.md",
+    "research/external-sources/futurism.com-future-society-juliana-peralta-character-ai-bot.md",
+    "research/external-sources/cbsnews.com-news-parents-allege-harmful-character-ai-chatbot-c.md",
+    "research/external-sources/cbsnews.com-colorado-news-lawsuit-characterai-chatbot-colorado.md",
+    "research/external-sources/dailymail.co.uk-news-article-15420571-Zane-Shamblin-wrongful-death.md",
+    "research/external-sources/people.com-parents-share-what-they-saw-son-fell-into-chatgpt-.md",
+    "research/external-sources/cnn.com-2025-11-06-us-openai-chatgpt-suicide-lawsuit-invs-.md",
+    "research/external-sources/futurism.com-artificial-intelligence-chatgpt-suicide-openai-gpt.md",
+    "research/external-sources/arstechnica.com-tech-policy-2026-01-chatgpt-wrote-goodnight-moon-s.md",
+    "research/external-sources/cbsnews.com-news-chatgpt-lawsuit-colordo-man-suicide-openai-sa.md",
+    "research/new/incidents.md",
+    "research/new",
+    "scenarios/P1/B5/README.md.tmp.684356.1771060226666",
     "research/external-sources/Why AI companions and young people can make for a dangerous mix.md",
     "research/external-sources/What My Daughter Told ChatGPT Before She Took Her Life (NYT).md",
     "research/external-sources/Thongbue Wongbandue story – Reuters.md",
@@ -234,34 +255,13 @@
     "research/external-sources/How OpenAI's ChatGPT Guided a Teen to His Death.md",
     "research/external-sources/For argument’s sake, show me how to harm myself!’ jailbreaking llms in suicide and self-harm contexts.md",
     "research/external-sources/Distressed users and LLMs – real world examples.md",
-    "research/external-sources/ASIST Handbook.md",
-    "research/external-sources/Competency of Large Language Models in Evaluating Appropriate Responses to Suicidal Ideation Comparative Study.md",
-    "research/external-sources/Adam Raine story – family alleges OpenAI to blame – NBC.md",
-    "research/external-sources/A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.md",
     "research/external-sources",
-    "research/technical-review.md",
-    "research/research-review.md",
-    "research/AGENTS.md",
-    "research/4d. Pillar 4 – Reasonable performance and safety compromises.md",
-    "research/4c. Pillar 3 – Supportive, non-clinical assistance.md",
-    "research/4b. Pillar 2 – Safe handoff.md",
-    "research/4a. Pillar 1 – Detect user distress.md",
-    "research/3c. HELMbench – Software design.md",
-    "research/3b. Evaluation methods.md",
-    "research/3a. Benchmark structure and terminology.md",
-    "research/2. Framework – mental health first aid principles, modified for LLMs.md",
-    "research/1. Introduction and background.md",
-    "research/00. HELMbench scratchpad.md",
-    "research/00. HELMbench scraps.md",
     "research",
     "Writing Progress.base",
     "scenarios/P4/B2/S1/S1.json",
     "scenarios/P4/B2/S1",
     "scenarios/P4/B1/S1/Q4.json",
     "scenarios/P4/B1/S1/Q3.json",
-    "scenarios/P4/B1/S1/Q2.json",
-    "scenarios/P4/B1/S1/Q1.json",
-    "scenarios/P4/B1/S1",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
