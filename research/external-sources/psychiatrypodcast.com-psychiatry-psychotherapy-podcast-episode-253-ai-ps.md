@@ -1,3 +1,25 @@
+---
+schema: external-source-v1
+title: 'Episode 253: “AI Psychosis”: Emerging Cases of Delusion Amplification Associated with ChatGPT and LLM Chatbot Use – A Psychiatric Review'
+summary: By Amandeep Jutla, MD; Onyinye Onwuzulike, BA; Elaine Shen, MD; Ragy R. Girgis, MD; David Puder, MD
+source_url: https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/episode-253-ai-psychosis-emerging-cases-of-delusion-amplification-associated-with-chatgpt-and-llm-chatbot
+source_domain: psychiatrypodcast.com
+source_name: Psychiatry & Psychotherapy Podcast
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: podcast
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/podcast
+- topic/mental-health
+- topic/ai-safety
+- org/openai
+- source/psychiatrypodcast-com
+status: to-review
+---
 <!-- Source: https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/episode-253-ai-psychosis-emerging-cases-of-delusion-amplification-associated-with-chatgpt-and-llm-chatbot -->
 
 [0](https://www.psychiatrypodcast.com/cart)

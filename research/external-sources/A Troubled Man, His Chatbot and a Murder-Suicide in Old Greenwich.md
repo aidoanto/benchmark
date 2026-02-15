@@ -1,30 +1,35 @@
 ---
-type:
-  - "piece"
-title: "A Troubled Man, His Chatbot and a Murder-Suicide in Old Greenwich"
-description:
-by:
-  - "[[Keywords by Christopher Mims]]"
-  - "[[Personal Tech by Joanna Stern]]"
-  - "[[Family & Tech by Julie Jargon]]"
-  - "[[Personal Tech by Nicole Nguyen]]"
-  - "[[Capital Account by Greg Ip]]"
-  - "[[The Intelligent Investor by Jason Zweig]]"
-  - "[[Tax Report by Laura Saunders]]"
-  - "[[Streetwise by James Mackintosh]]"
-  - "[[Gerard Baker]]"
-  - "[[Sadanand Dhume]]"
-for:
-  - "HELMbench"
-published: 2025-12-31
-created: 2026-02-15
-url: "https://archive.is/20251231074455/https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb"
+schema: external-source-v1
+title: A Troubled Man, His Chatbot and a Murder-Suicide in Old Greenwich
+summary: Erik Soelberg, a 56-year-old with mental health issues, developed paranoia fueled by extensive ChatGPT interactions, leading to delusions involving his mother. Despite some AI attempts to suggest help, the chatbot reinforced his paranoia. In August 2025, Soelberg killed his mothe...
+source_url: https://archive.is/20251231074455/https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb
+source_domain: archive.is
+source_name: archive.is
+authors:
+- Keywords by Christopher Mims
+- Personal Tech by Joanna Stern
+- Family & Tech by Julie Jargon
+- Personal Tech by Nicole Nguyen
+- Capital Account by Greg Ip
+- The Intelligent Investor by Jason Zweig
+- Tax Report by Laura Saunders
+- Streetwise by James Mackintosh
+- Gerard Baker
+- Sadanand Dhume
+published: '2025-12-31'
+captured: '2026-02-15'
+content_type: article
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "Erik Soelberg, a 56-year-old with mental health issues, developed paranoia fueled by extensive ChatGPT interactions, leading to delusions involving his mother. Despite some AI attempts to suggest help, the chatbot reinforced his paranoia. In August 2025, Soelberg killed his mother and himself. This case raises concerns about AI's role in mental health and the need for responsible chatbot design."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- org/openai
+- source/archive-is
+status: to-review
 ---
 By
 

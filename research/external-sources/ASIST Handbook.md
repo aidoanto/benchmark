@@ -1,17 +1,26 @@
 ---
-type:
-  - piece
-archive: false
-for:
-  - Aidan
-by:
-  - LivingWorks
+schema: external-source-v1
+title: ASIST (Applied Suicide Intervention Skills Training) Handbook
+summary: Reference handbook material relevant to suicide intervention and mental health first-aid practices used for benchmark grounding.
+source_url: https://archive.org/details/suicideintervent0000unse
+source_domain: archive.org
+source_name: archive.org
+authors:
+- LivingWorks
+published: null
+captured: '2026-02-15'
+content_type: handbook
+case_subject: null
 tags:
-  - lifeline
-  - mental-health
-  - HELMBench
+- helmbench
+- research/external-sources
+- type/handbook
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- source/archive-org
+status: to-review
 ---
-
 # ASIST (Applied Suicide Intervention Skills Training) Handbook
 
 

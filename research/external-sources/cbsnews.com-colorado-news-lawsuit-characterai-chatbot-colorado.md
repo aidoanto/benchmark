@@ -1,3 +1,26 @@
+---
+schema: external-source-v1
+title: Colorado lawsuit alleges Character.AI chatbot contributed to teen suicide
+summary: A recent survey found 72% of teens have used AI companions. But a Colorado family says using them can end in tragedy.
+source_url: https://www.cbsnews.com/colorado/news/lawsuit-characterai-chatbot-colorado-suicide/
+source_domain: cbsnews.com
+source_name: CBS News
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- source/cbsnews-com
+status: to-review
+---
 <!-- Source: https://www.cbsnews.com/colorado/news/lawsuit-characterai-chatbot-colorado-suicide/ -->
 
 [Close search form](https://www.cbsnews.com/colorado/news/lawsuit-characterai-chatbot-colorado-suicide/# "Close search form")

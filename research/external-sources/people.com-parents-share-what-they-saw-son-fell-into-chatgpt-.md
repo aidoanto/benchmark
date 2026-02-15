@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: Suicidal College Grad's Parents Claim ChatGPT Fed His Despair and They Didn’t Realize Until Far Too Late (Exclusive)
+summary: ”When he hugged me, to this day, it's bothered me. ... I don't know if he knew that was the last hug or not, but that was the last time we saw our son,” Zane Shamblin's mom says
+source_url: https://people.com/parents-share-what-they-saw-son-fell-into-chatgpt-spiral-before-suicide-exclusive-11867407
+source_domain: people.com
+source_name: People
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/people-com
+status: to-review
+---
 <!-- Source: https://people.com/parents-share-what-they-saw-son-fell-into-chatgpt-spiral-before-suicide-exclusive-11867407 -->
 
 ​

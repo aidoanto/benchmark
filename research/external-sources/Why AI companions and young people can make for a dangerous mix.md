@@ -1,21 +1,25 @@
 ---
-type:
-  - "piece"
-title: "Why AI companions and young people can make for a dangerous mix"
-description: "Artificial intelligence chatbots designed to act like friends should not be used by children and teens, Stanford Medicine psychiatrist Nina Vasan says."
-by:
-  - "Nina Vasan"
-for:
-  - "HELMbench"
-published: 2025-09-11
-created: 2025-09-21
-url: "https://med.stanford.edu/news/insights/2025/08/ai-chatbots-kids-teens-artificial-intelligence.html"
+schema: external-source-v1
+title: Why AI companions and young people can make for a dangerous mix
+summary: Stanford psychiatrist Nina Vasan warns AI chatbots designed as friends pose significant risks to children and teens, as they can encourage harmful behaviors and fail to provide appropriate support. A study found these AI companions easily engage in inappropriate dialogue and can...
+source_url: https://med.stanford.edu/news/insights/2025/08/ai-chatbots-kids-teens-artificial-intelligence.html
+source_domain: med.stanford.edu
+source_name: Stanford Medicine
+authors:
+- Nina Vasan
+published: '2025-09-11'
+captured: '2025-09-21'
+content_type: article
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "Stanford psychiatrist Nina Vasan warns AI chatbots designed as friends pose significant risks to children and teens, as they can encourage harmful behaviors and fail to provide appropriate support. A study found these AI companions easily engage in inappropriate dialogue and can be particularly damaging to vulnerable youth, highlighting a need for stricter regulation and safeguards."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- source/med-stanford-edu
+status: to-review
 ---
 ***Editor’s note:** This article discusses suicide and self-harm and may be distressing for some readers. If help is needed, the U.S. national suicide and crisis lifeline is available by calling or texting 988 or by chatting at 988lifeline.org.*
 

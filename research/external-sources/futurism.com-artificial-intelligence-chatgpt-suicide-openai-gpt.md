@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: Futurism report on OpenAI lawsuits over ChatGPT-linked suicides
+summary: A new lawsuit against OpenAI alleges that ChatGPT caused the death of a 40-year-old Colorado man named Austin Gordon, who took his life after extensive and deeply emotional interactions with the chatbot.
+source_url: https://futurism.com/artificial-intelligence/chatgpt-suicide-openai-gpt4o
+source_domain: futurism.com
+source_name: Futurism
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/futurism-com
+status: to-review
+---
 <!-- Source: https://futurism.com/artificial-intelligence/chatgpt-suicide-openai-gpt4o -->
 
 ![Yet another lawsuit against OpenAI alleges that ChatGPT romanticized death as it pushed a man named Austin Gordon to take his life.](https://futurism.com/wp-content/uploads/2026/01/chatgpt-suicide-openai-gpt4o.jpg?quality=85&w=1152)

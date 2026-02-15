@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: ‘You’re not rushing. You’re just ready:’ Parents say ChatGPT encouraged son to kill himself
+summary: 'EDITOR’S NOTE: This story involves discussion about suicide that some readers may find upsetting. If you feel you are in crisis, call or text 988 to reach the 24-hour Suicide Crisis Lifeline.'
+source_url: https://www.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis
+source_domain: cnn.com
+source_name: CNN
+authors: []
+published: '2025-11-06'
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/cnn-com
+status: to-review
+---
 <!-- Source: https://www.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis -->
 
 [![170518025807-investigates-logo-specials-page-5-large-169.png](https://media.cnn.com/api/v1/images/stellar/prod/170518025807-investigates-logo-specials-page-5-large-169-20250903202140000.png?q=h_50)](https://www.cnn.com/investigates)

@@ -1,21 +1,25 @@
 ---
-type:
-  - "piece"
-title: "THE SUICIDE INTERVENTION RESPONSE INVENTORY: A REVISION AND VALIDATION"
-description: "The Suicide Intervention Response Inventory (SIRI) was developed by Neimeyer and MacInnes (1981) to assees the ability of paraprofessional counselors to recognize appropriate responses to suicidal ..."
-by:
-  - "[[ROBERT A. NEIMEYER KATHLEEN BONNELLE]]"
-for:
-  - "HELMbench"
-published: 1997-01-01
-created: 2025-09-21
-url: "https://www.tandfonline.com/doi/abs/10.1080/074811897202137"
+schema: external-source-v1
+title: 'THE SUICIDE INTERVENTION RESPONSE INVENTORY: A REVISION AND VALIDATION'
+summary: The Suicide Intervention Response Inventory (SIRI) was revised to SIRI-2, replacing dichotomous scoring with a Likert scale to reduce ceiling effects among skilled counselors. Improved psychometric properties include better construct, discriminant validity, internal consistency...
+source_url: https://www.tandfonline.com/doi/abs/10.1080/074811897202137
+source_domain: tandfonline.com
+source_name: Taylor & Francis
+authors:
+- ROBERT A. NEIMEYER KATHLEEN BONNELLE
+published: '1997-01-01'
+captured: '2025-09-21'
+content_type: study
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "The Suicide Intervention Response Inventory (SIRI) was revised to SIRI-2, replacing dichotomous scoring with a Likert scale to reduce ceiling effects among skilled counselors. Improved psychometric properties include better construct, discriminant validity, internal consistency, and test-retest reliability, enhancing its effectiveness as a measure of suicide counseling skills."
+- helmbench
+- research/external-sources
+- type/study
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- source/tandfonline-com
+status: to-review
 ---
 # Death Studies
 

@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: ChatGPT wrote a 'Goodnight Moon' suicide lullaby for man who later killed himself
+summary: OpenAI is once again being accused of failing to do enough to prevent ChatGPT from encouraging suicides, even after a series of safety updates were made to a controversial model, 4o, which OpenAI designed to feel like a user’s closest confidant.
+source_url: https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/
+source_domain: arstechnica.com
+source_name: Ars Technica
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/arstechnica-com
+status: to-review
+---
 <!-- Source: https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/ -->
 
 [Skip to content](https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/#main)

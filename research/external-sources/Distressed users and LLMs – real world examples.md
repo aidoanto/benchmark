@@ -1,18 +1,27 @@
 ---
-type:
-  - note
-archive: false
-for:
-  - HELMBench
-by:
-  - Aidan
+schema: external-source-v1
+title: 'Real-World LLM Mental Health Crisis Incidents: A Comprehensive Report'
+summary: Curated synthesis of real-world incidents connecting LLM interactions with mental-health crisis or safety failures.
+source_url: https://www.nbcnews.com/tech/tech-news/family-teenager-died-suicide-alleges-openais-chatgpt-blame-rcna226147
+source_domain: nbcnews.com
+source_name: NBC News
+authors:
+- Aidan
+published: null
+captured: '2026-02-15'
+content_type: synthesis-note
+case_subject: null
 tags:
-  - HELMBench
-  - ai
-  - benchmark
-  - research
-  - mental-health
-  - software
+- helmbench
+- research/external-sources
+- type/synthesis-note
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/nbcnews-com
+status: to-review
 ---
 # Real-World LLM Mental Health Crisis Incidents: A Comprehensive Report
 

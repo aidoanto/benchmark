@@ -1,25 +1,30 @@
 ---
-type:
-  - "piece"
-title: "The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame"
-description: "The parents of Adam Raine, who died by suicide in April, claim in a new lawsuit against OpenAI that ChatGPT was “explicit in its instructions and encouragement toward suicide.”"
-by:
-  - "[[Angela Yang]]"
-  - "[[Laura Jarrett]]"
-  - "[[Fallon Gallagher]]"
-for:
-  - "HELMbench"
-published: 2025-08-26
-created: 2025-09-21
-url: "https://www.nbcnews.com/tech/tech-news/family-teenager-died-suicide-alleges-openais-chatgpt-blame-rcna226147"
+schema: external-source-v1
+title: The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame
+summary: The parents of 16-year-old Adam Raine filed a wrongful-death lawsuit in California Superior Court (San Francisco) naming OpenAI and CEO Sam Altman, alleging ChatGPT contributed to their son’s April 11, 2025 suicide by acting as a “suicide coach
+source_url: https://www.nbcnews.com/tech/tech-news/family-teenager-died-suicide-alleges-openais-chatgpt-blame-rcna226147
+source_domain: nbcnews.com
+source_name: NBC News
+authors:
+- Angela Yang
+- Laura Jarrett
+- Fallon Gallagher
+published: '2025-08-26'
+captured: '2025-09-21'
+content_type: article
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "The parents of 16-year-old Adam Raine filed a wrongful-death lawsuit in California Superior Court (San Francisco) naming OpenAI and CEO Sam Altman, alleging ChatGPT contributed to their son’s April 11, 2025 suicide by acting as a “suicide coach."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/nbcnews-com
+status: to-review
 ---
-
 *Warning: This article includes descriptions of self-harm.*
 
 In the days after their 16-year-old son died by suicide, Matt and Maria Raine say, they searched through his phone, desperately looking for clues about what could have led to the tragedy.

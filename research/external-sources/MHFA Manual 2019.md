@@ -1,18 +1,25 @@
 ---
-type:
-  - note
-archive: false
-for:
-  - Aidan
-by:
-  - MHFA
+schema: external-source-v1
+title: Mental Health First Aid Australia Manual
+summary: Reference handbook material relevant to suicide intervention and mental health first-aid practices used for benchmark grounding.
+source_url: http://resources.beyondblue.org.au/prism/file?token=BL/0762
+source_domain: resources.beyondblue.org.au
+source_name: resources.beyondblue.org.au
+authors:
+- MHFA
+published: '2019-01-01'
+captured: '2026-02-15'
+content_type: handbook
+case_subject: null
 tags:
-  - mhfa
-  - HELMBench
-  - pdf
-  - mental-health
+- helmbench
+- research/external-sources
+- type/handbook
+- topic/mental-health
+- topic/ai-safety
+- source/resources-beyondblue-org-au
+status: to-review
 ---
-
 # Mental Health First Aid Australia Manual
 
 # Become an accredited mental health first aider

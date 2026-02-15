@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: A new lawsuit blames ChatGPT for a murder-suicide
+summary: A new lawsuit blames ChatGPT for a murder-suicide The estate of Suzanne Adams, who was killed by her son in a murder-suicide, is suing OpenAI and Microsoft. The suit alleges ChatGPT encouraged her son's delusions, which led to the deaths.
+source_url: https://www.npr.org/2025/12/12/nx-s1-5642599/a-new-lawsuit-blames-chatgpt-for-a-murder-suicide
+source_domain: npr.org
+source_name: NPR
+authors: []
+published: '2025-12-12'
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/npr-org
+status: to-review
+---
 <!-- Source: https://www.npr.org/2025/12/12/nx-s1-5642599/a-new-lawsuit-blames-chatgpt-for-a-murder-suicide -->
 
 Accessibility links

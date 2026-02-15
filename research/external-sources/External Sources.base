@@ -1,0 +1,80 @@
+filters:
+  and:
+    - file.inFolder("benchmark/research/external-sources")
+    - file.ext == "md"
+formulas:
+  year: if(published, date(published).year, "")
+  is_transcript: content_type == "transcript"
+  has_source_url: if(source_url, "yes", "no")
+  tag_count: list(tags).length
+properties:
+  title:
+    displayName: Title
+  content_type:
+    displayName: Type
+  source_name:
+    displayName: Source
+  published:
+    displayName: Published
+  captured:
+    displayName: Captured
+  case_subject:
+    displayName: Case Subject
+  formula.year:
+    displayName: Year
+  formula.tag_count:
+    displayName: "#Tags"
+views:
+  - type: table
+    name: All External Sources
+    order:
+      - file.name
+      - title
+      - content_type
+      - source_name
+      - published
+      - case_subject
+      - status
+      - tags
+  - type: table
+    name: By Type
+    groupBy:
+      property: content_type
+      direction: ASC
+    order:
+      - title
+      - source_name
+      - published
+      - formula.year
+      - status
+  - type: table
+    name: Transcripts
+    filters:
+      and:
+        - content_type == "transcript"
+    order:
+      - title
+      - case_subject
+      - source_name
+      - published
+      - status
+  - type: cards
+    name: Articles
+    filters:
+      and:
+        - content_type == "article" || content_type == "podcast" || content_type == "study"
+    order:
+      - title
+      - source_name
+      - published
+      - summary
+  - type: list
+    name: Needs Review
+    filters:
+      and:
+        - status == "to-review"
+    order:
+      - title
+      - content_type
+      - source_name
+      - summary

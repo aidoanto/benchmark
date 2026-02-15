@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: Mental illness ChatGPT psychosis lawsuit
+summary: A new lawsuit against OpenAI claims that ChatGPT pushed a man with a pre-existing mental health condition into a months-long crisis of AI-powered psychosis, resulting in repeated hospitalizations, financial distress, physical injury, and reputational damage.
+source_url: https://futurism.com/artificial-intelligence/mental-illness-chatgpt-psychosis-lawsuit
+source_domain: futurism.com
+source_name: Futurism
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/futurism-com
+status: to-review
+---
 <!-- Source: https://futurism.com/artificial-intelligence/mental-illness-chatgpt-psychosis-lawsuit -->
 
 ![John Jacquez successfully managed a mental illness for years, he says. Then ChatGPT reinforced delusions, spiraling him into "AI psychosis."](https://futurism.com/wp-content/uploads/2026/01/mental-illness-chatgpt-psychosis-lawsuit.jpg?quality=85&w=1152)

@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: After teen chatbot-linked suicides, Oregon bill proposes AI guardrails
+summary: Oregon lawmakers heard testimony this week on a bill that aims to restrict the power and reach of AI chatbots that are increasingly permeating children’s – and adults’ — lives. The bill follows reports linking the technology to teen suicides that parents say...
+source_url: https://oregonlive.com/living/2026/02/after-streak-of-suicides-by-teen-ai-chatbot-users-oregon-bill-aims-to-restrict-what-chatbots-can-say-or-do.html
+source_domain: oregonlive.com
+source_name: OregonLive
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- org/character-ai
+- org/openai
+- source/oregonlive-com
+status: to-review
+---
 <!-- Source: https://oregonlive.com/living/2026/02/after-streak-of-suicides-by-teen-ai-chatbot-users-oregon-bill-aims-to-restrict-what-chatbots-can-say-or-do.html -->
 
 [Skip to Article](https://www.oregonlive.com/living/2026/02/after-streak-of-suicides-by-teen-ai-chatbot-users-oregon-bill-aims-to-restrict-what-chatbots-can-say-or-do.html#main)

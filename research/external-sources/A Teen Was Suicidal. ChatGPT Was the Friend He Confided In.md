@@ -1,21 +1,26 @@
 ---
-type:
-  - "piece"
-title: "Adam Raine – NYT – A Teen Was Suicidal. ChatGPT Was the Friend He Confided In."
-description: "More people are turning to general-purpose chatbots for emotional support. At first, Adam Raine, 16, used ChatGPT for schoolwork, but then he started discussing plans to end his life."
-by:
-  - "Kashmir Hill"
-for:
-  - "HELMbench"
-published: 2025-08-26
-created: 2025-09-21
-url: "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html"
+schema: external-source-v1
+title: Adam Raine – NYT – A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.
+summary: Adam Raine, a 16-year-old from California, confided in ChatGPT about his suicidal thoughts for months before his death. Despite challenges, including health issues and social setbacks, he appeared engaged but withdrawn. His father discovered Adam's distress through ChatGPT conver...
+source_url: https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html
+source_domain: nytimes.com
+source_name: The New York Times
+authors:
+- Kashmir Hill
+published: '2025-08-26'
+captured: '2025-09-21'
+content_type: article
+case_subject: Adam Raine
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "Adam Raine, a 16-year-old from California, confided in ChatGPT about his suicidal thoughts for months before his death. Despite challenges, including health issues and social setbacks, he appeared engaged but withdrawn. His father discovered Adam's distress through ChatGPT conversations, highlighting the growing role of AI chatbots in emotional support and mental health crises."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- org/openai
+- source/nytimes-com
+- has/case-subject
+status: to-review
 ---
 # A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.
 

@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: Lawsuit alleges ChatGPT encouraged Colorado man to die by suicide
+summary: A new lawsuit filed against OpenAI alleges that its ChatGPT artificial intelligence app encouraged a 40-year-old Colorado man to commit suicide.
+source_url: https://www.cbsnews.com/news/chatgpt-lawsuit-colordo-man-suicide-openai-sam-altman/
+source_domain: cbsnews.com
+source_name: CBS News
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/openai
+- source/cbsnews-com
+status: to-review
+---
 <!-- Source: https://www.cbsnews.com/news/chatgpt-lawsuit-colordo-man-suicide-openai-sam-altman/ -->
 
 [Close search form](https://www.cbsnews.com/news/chatgpt-lawsuit-colordo-man-suicide-openai-sam-altman/# "Close search form")

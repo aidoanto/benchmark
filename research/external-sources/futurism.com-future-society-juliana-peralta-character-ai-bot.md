@@ -1,3 +1,26 @@
+---
+schema: external-source-v1
+title: 'Juliana Peralta case: family says Character.AI kept sending notifications after death'
+summary: We’ve written previously about Juliana Peralta, who was only 13 years old when her parents say an AI chatbot she was secretly engaging with drove her to suicide.
+source_url: https://futurism.com/future-society/juliana-peralta-character-ai-bot
+source_domain: futurism.com
+source_name: Futurism
+authors: []
+published: '2025-12-08'
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- org/character-ai
+- source/futurism-com
+status: to-review
+---
 <!-- Source: https://futurism.com/future-society/juliana-peralta-character-ai-bot -->
 
 ![Two years after a 13-year-old girl's suicide, her parents say her phone still gets notifications from the AI bots that drove her to death.](https://futurism.com/wp-content/uploads/2025/12/juliana-peralta-character-ai-bot.jpg?quality=85&w=1152)

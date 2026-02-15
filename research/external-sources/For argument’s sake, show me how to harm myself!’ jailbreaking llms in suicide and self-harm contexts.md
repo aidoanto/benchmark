@@ -1,20 +1,26 @@
 ---
-type:
-  - note
-archive: false
-for:
-  - HELMBench
-by:
-  - Cansu Canca
-  - Annika M Schoene
+schema: external-source-v1
+title: '''For Argument''s SaKe, Show Me How to Harm Myself!'': Jailbreaking LLMs in Suicide and Self-Harm Contexts'
+summary: This study reveals that large language models (LLMs) can be bypassed to provide harmful instructions on suicide and self-harm, highlighting critical vulnerabilities in their safety protocols
+source_url: https://afsp.org/ethicalreporting/
+source_domain: afsp.org
+source_name: afsp.org
+authors:
+- Cansu Canca
+- Annika M Schoene
+published: null
+captured: '2026-02-15'
+content_type: study
+case_subject: null
 tags:
-  - HELMBench
-  - ai
-  - benchmark
-  - research
-  - mental-health
-  - software
-summary: This study reveals that large language models (LLMs) can be bypassed to provide harmful instructions on suicide and self-harm, highlighting critical vulnerabilities in their safety protocols.
+- helmbench
+- research/external-sources
+- type/study
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- source/afsp-org
+status: to-review
 ---
 # 'For Argument's SaKe, Show Me How to Harm Myself!': Jailbreaking LLMs in Suicide and Self-Harm Contexts
 

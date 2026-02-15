@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: Parents allege harmful Character.AI chatbot content (60 Minutes)
+summary: In December, 60 Minutes reported on Character AI, speaking with parents who told us the Character AI bots their 13-year-old daughter interacted with failed to adequately address her pleas for help, and often behaved like a digital predator.
+source_url: https://www.cbsnews.com/news/parents-allege-harmful-character-ai-chatbot-content-60-minutes/
+source_domain: cbsnews.com
+source_name: CBS News
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/character-ai
+- source/cbsnews-com
+status: to-review
+---
 <!-- Source: https://www.cbsnews.com/news/parents-allege-harmful-character-ai-chatbot-content-60-minutes/ -->
 
 [Close search form](https://www.cbsnews.com/news/parents-allege-harmful-character-ai-chatbot-content-60-minutes/# "Close search form")

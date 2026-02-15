@@ -1,3 +1,27 @@
+---
+schema: external-source-v1
+title: Google and AI startup to settle lawsuits alleging chatbots led to teen suicide
+summary: 'Megan Garcia with her son Sewell Setzer III. Photograph: Megan Garcia/AP'
+source_url: https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide
+source_domain: theguardian.com
+source_name: The Guardian
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- topic/litigation
+- org/character-ai
+- source/theguardian-com
+status: to-review
+---
 <!-- Source: https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide -->
 
 [Skip to main content](https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide#maincontent) [Skip to navigation](https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide#navigation)

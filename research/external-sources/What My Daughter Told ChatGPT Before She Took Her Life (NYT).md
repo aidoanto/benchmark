@@ -1,21 +1,25 @@
 ---
-type:
-  - "piece"
-title: "What My Daughter Told ChatGPT Before She Took Her Life (NYT)"
-description:
-by:
-  - "[[Laura Reiley]]"
-for:
-  - "HELMbench"
-published: 2025-09-30
-created: 2025-10-07
-url: "https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html"
+schema: external-source-v1
+title: What My Daughter Told ChatGPT Before She Took Her Life (NYT)
+summary: The article recounts the tragic suicide of Sophie Rottenberg, who confided her suicidal thoughts to an AI therapist named Harry. Despite receiving advice to seek help, AI's limitations in mandatory intervention and human connection may have hindered timely support. The piece high...
+source_url: https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html
+source_domain: nytimes.com
+source_name: The New York Times
+authors:
+- Laura Reiley
+published: '2025-09-30'
+captured: '2025-10-07'
+content_type: article
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "The article recounts the tragic suicide of Sophie Rottenberg, who confided her suicidal thoughts to an AI therapist named Harry. Despite receiving advice to seek help, AI's limitations in mandatory intervention and human connection may have hindered timely support. The piece highlights the urgent need for improved AI safeguards in mental health crisis management."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- org/openai
+- source/nytimes-com
+status: to-review
 ---
  ![](https://archive.is/wffWs/e18a9a23ea68bf7012a85eb4c06b8272ab484cab.jpg)
 *Illustration by Vanessa Saba*

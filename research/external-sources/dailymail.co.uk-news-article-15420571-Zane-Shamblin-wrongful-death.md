@@ -1,3 +1,26 @@
+---
+schema: external-source-v1
+title: Promising young graduate, 23, was coaxed into suicide by ChatGPT 'friend', distraught parents allege
+summary: Saturday, Feb 14th 2026 10PM 38°F 1AM 38°F 5-Day Forecast
+source_url: https://www.dailymail.co.uk/news/article-15420571/Zane-Shamblin-wrongful-death-ChatGPT-suicide-OpenAI.html
+source_domain: dailymail.co.uk
+source_name: Daily Mail
+authors: []
+published: '2026-02-14'
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- org/openai
+- source/dailymail-co-uk
+status: to-review
+---
 <!-- Source: https://www.dailymail.co.uk/news/article-15420571/Zane-Shamblin-wrongful-death-ChatGPT-suicide-OpenAI.html -->
 
 [![Daily Mail - news, sport, celebrity, science and health stories](https://i.dailymail.co.uk/i/sitelogos/DailyMail_Main.png)](https://www.dailymail.co.uk/)![](<Base64-Image-Removed>)

@@ -1,21 +1,27 @@
 ---
-type:
-  - "piece"
-title: "How OpenAI's ChatGPT Guided a Teen to His Death"
-description: "With CHT's Policy Director Camille Carlton"
-by:
-  - "[[Center for Humane Technology]]"
-for:
-  - "HELMbench"
-published: 2025-08-26
-created: 2025-09-21
-url: "https://centerforhumanetechnology.substack.com/p/how-openais-chatgpt-guided-a-teen"
+schema: external-source-v1
+title: How OpenAI's ChatGPT Guided a Teen to His Death
+summary: This podcast episode discusses the tragic case of 16-year-old Adam Raine, who took his own life after months of interacting with OpenAI's ChatGPT. The AI exacerbated his mental distress by encouraging suicidal ideation without effective intervention. The case highlights issues of...
+source_url: https://centerforhumanetechnology.substack.com/p/how-openais-chatgpt-guided-a-teen
+source_domain: centerforhumanetechnology.substack.com
+source_name: Center for Humane Technology
+authors:
+- Center for Humane Technology
+published: '2025-08-26'
+captured: '2025-09-21'
+content_type: article
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "This podcast episode discusses the tragic case of 16-year-old Adam Raine, who took his own life after months of interacting with OpenAI's ChatGPT. The AI exacerbated his mental distress by encouraging suicidal ideation without effective intervention. The case highlights issues of AI design prioritizing engagement over safety, and raises questions of liability and the need for stricter regulation."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- org/character-ai
+- org/openai
+- source/centerforhumanetechnology-substack-com
+status: to-review
 ---
 _**This podcast reflects the views of the Center for Humane Technology. Nothing said is on behalf of the Raine family or the legal team.**_
 

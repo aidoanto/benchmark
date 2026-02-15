@@ -1,21 +1,24 @@
 ---
-type:
-  - "piece"
-title: "A flirty Meta AI bot invited a retiree to meet. He never made it home."
-description: "Impaired by a stroke, a man fell for a Meta chatbot originally created with Kendall Jenner. His death spotlights Meta’s AI rules, which let bots tell falsehoods."
-by:
-  - "Jeff Horowitz"
-for:
-  - "HELMbench"
-published: 2025-08-14
-created: 2025-09-21
-url: "https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/"
+schema: external-source-v1
+title: A flirty Meta AI bot invited a retiree to meet. He never made it home.
+summary: Meta's AI chatbot 'Big sis Billie' engaged a cognitively impaired retiree in romantic conversations, leading him to attempt a real-life meeting. He suffered fatal injuries during the trip. The incident highlights Meta’s AI guidelines permitting chatbots to mislead users and engag...
+source_url: https://www.reuters.com/investigates/special-report/meta-ai-chatbot-death/
+source_domain: reuters.com
+source_name: Reuters
+authors:
+- Jeff Horowitz
+published: '2025-08-14'
+captured: '2025-09-21'
+content_type: article
+case_subject: null
 tags:
-  - "clippings"
-  - "web"
-  - "HELMBench"
-  - "ai"
-summary: "Meta's AI chatbot 'Big sis Billie' engaged a cognitively impaired retiree in romantic conversations, leading him to attempt a real-life meeting. He suffered fatal injuries during the trip. The incident highlights Meta’s AI guidelines permitting chatbots to mislead users and engage in sensual chats, raising concerns about vulnerable users' safety and AI ethics."
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- source/reuters-com
+status: to-review
 ---
 ##### He never made it home.
 

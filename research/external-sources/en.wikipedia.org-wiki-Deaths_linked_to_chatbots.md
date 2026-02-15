@@ -1,3 +1,25 @@
+---
+schema: external-source-v1
+title: Deaths linked to chatbots
+summary: Wikipedia overview page cataloging reported deaths and legal cases where chatbot interactions were alleged as direct or contributing factors.
+source_url: https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots
+source_domain: en.wikipedia.org
+source_name: Wikipedia
+authors: []
+published: null
+captured: '2026-02-15'
+content_type: article
+case_subject: null
+tags:
+- helmbench
+- research/external-sources
+- type/article
+- topic/mental-health
+- topic/ai-safety
+- topic/suicide-self-harm
+- source/en-wikipedia-org
+status: to-review
+---
 <!-- Source: https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots -->
 
 [Jump to content](https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots#bodyContent)
