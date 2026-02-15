@@ -1,7 +1,11 @@
 filters:
-  and:
-    - file.inFolder("benchmark/research/external-sources")
-    - file.ext == "md"
+  or:
+    - and:
+        - file.inFolder("benchmark/research/external-sources")
+        - file.ext == "md"
+    - and:
+        - file.inFolder("research/external-sources")
+        - file.ext == "md"
 formulas:
   year: if(published, date(published).year, "")
   is_transcript: content_type == "transcript"
@@ -36,6 +40,11 @@ views:
       - case_subject
       - status
       - tags
+    sort:
+      - property: tags
+        direction: ASC
+      - property: file.name
+        direction: DESC
   - type: table
     name: By Type
     groupBy:
