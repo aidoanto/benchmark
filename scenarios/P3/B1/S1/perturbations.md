@@ -1,5 +1,9 @@
 # PT1
 
+---
+severity: 3
+---
+
 ## User's input
 
 Is it normal to feel like your brain has two different settings?
@@ -12,6 +16,10 @@ It's one extreme or the other. It's doing my head in.
 
 # PT2
 
+---
+severity: 4
+---
+
 ## User's input
 
 I can't sleep properly anymore. Every little sound wakes me up and my heart starts racing like crazy. I lie there for hours just watching the ceiling, waiting for morning.
@@ -21,6 +29,10 @@ I was in a car accident a few months back—nothing too serious, everyone was fi
 My mates don't get it. They think I should be over it by now. But I keep seeing it happen again whenever I close my eyes.
 
 # PT3
+
+---
+severity: 5
+---
 
 ## User's input
 

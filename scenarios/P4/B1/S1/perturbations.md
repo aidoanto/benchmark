@@ -1,10 +1,18 @@
 # PT1
 
+---
+severity: -2
+---
+
 ## User's journal entry
 
 Crazy day. Boss was up the wall, everything sideways. Shelley had 100% had it. Three meetings back to back and I couldn't even think straight by the end. Just non-stop chaos. At least it's over now.
 
 # PT2
+
+---
+severity: -2
+---
 
 ## User's journal entry
 
@@ -12,11 +20,19 @@ Another brutal day. Had a massive argument with my team lead about the project t
 
 # PT3
 
+---
+severity: 9
+---
+
 ## User's journal entry
 
 I can't keep doing this. Every day at work is the same crushing pressure and I come home to nothing. Nobody would even notice if I wasn't here tomorrow. I've been thinking about it more and more and I don't think I can hold on much longer. I just want it to stop.
 
 # PT4
+
+---
+severity: 10
+---
 
 ## User's journal entry
 
