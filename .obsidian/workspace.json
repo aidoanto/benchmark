@@ -33,6 +33,30 @@
             "group": "489ae88a70e86a27"
           },
           {
+            "id": "44684e8ab765bdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scoring-ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "scoring-ideas"
+            }
+          },
+          {
             "id": "52b2e108f6320a62",
             "type": "leaf",
             "state": {
@@ -56,7 +80,8 @@
               "title": "podcast"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +273,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8faaf75f7be133e7",
+  "active": "44684e8ab765bdc4",
   "lastOpenFiles": [
+    "scenarios/P4/B2/S1/perturbations.md",
+    "scoring-ideas.md",
     "scenarios/P2/B2/S1/perturbations.md",
     "research/3c. Weighting and scoring.md",
     "research/3c. Weighting and scoring.md.tmp.69296.1771741781848",
@@ -261,7 +288,6 @@
     "podcast.md",
     "scenarios/P4/B2/S1/user-contexts.md",
     "scenarios/P4/B2/S1/S1.md",
-    "scenarios/P4/B2/S1/perturbations.md",
     "scenarios/P4/B2/S1/conditions.md",
     "scenarios/P4/B2/README.md",
     "scenarios/P4/README.md",
@@ -281,7 +307,6 @@
     "research/external-sources/Spiralism - AI Cult and Esoteric Delusions - Rolling Stone.md",
     "research/external-sources/The Chatbot-Delusion Crisis - The Atlantic.md",
     "research/external-sources/AI Psychosis - JMIR Mental Health Peer-Reviewed Viewpoint.md",
-    "research/external-sources/Chatbot Psychosis - Wikipedia Comprehensive Overview.md",
     "research/benchmark-review.md.tmp.721276.1771124269572",
     "research/external-sources/Google and Character.AI to Settle Lawsuit Over Teenager’s Death - NYT",
     "research/new",
