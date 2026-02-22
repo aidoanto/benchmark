@@ -11,15 +11,50 @@
             "id": "8faaf75f7be133e7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "research/external-sources/External Sources.base",
-                "viewName": "All External Sources"
+                "file": "scenarios/P4/B2/S1/perturbations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "External Sources"
+              "icon": "lucide-file",
+              "title": "perturbations"
             },
             "group": "489ae88a70e86a27"
+          },
+          {
+            "id": "52b2e108f6320a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "podcast.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "podcast"
+            }
           }
         ]
       }
@@ -94,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/external-sources/External Sources.base",
+                "file": "research/00. HELMbench project page 🏠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for External Sources"
+              "title": "Backlinks for 00. HELMbench project page 🏠"
             }
           },
           {
@@ -113,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/external-sources/External Sources.base",
+                "file": "research/00. HELMbench project page 🏠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from External Sources"
+              "title": "Outgoing links from 00. HELMbench project page 🏠"
             }
           },
           {
@@ -127,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/external-sources/External Sources.base",
+                "file": "research/00. HELMbench project page 🏠.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of External Sources"
+              "title": "Outline of 00. HELMbench project page 🏠"
             }
           },
           {
@@ -142,7 +177,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "research/external-sources/External Sources.base"
+                "file": "research/00. HELMbench project page 🏠.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -186,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/external-sources/External Sources.base",
+                "file": "scenarios/P4/B2/S1/perturbations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from External Sources"
+              "title": "Outgoing links from perturbations"
             },
             "group": "489ae88a70e86a27"
           }
@@ -213,8 +248,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2efb76dc40ba1e9",
+  "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "scenarios/P2/B2/S1/perturbations.md",
+    "research/3c. Weighting and scoring.md",
+    "research/3c. Weighting and scoring.md.tmp.69296.1771741781848",
+    "scenarios/P4/B2/S1/perturbations.md.tmp.69296.1771741282760",
+    "scenarios/P1/B3/S1/perturbations.md.tmp.69296.1771741278775",
+    "scoring.yaml",
+    "scoring.yaml.tmp.69296.1771741193117",
+    "scenarios/P2/README.md",
+    "podcast.md",
+    "scenarios/P4/B2/S1/user-contexts.md",
+    "scenarios/P4/B2/S1/S1.md",
+    "scenarios/P4/B2/S1/perturbations.md",
+    "scenarios/P4/B2/S1/conditions.md",
+    "scenarios/P4/B2/README.md",
+    "scenarios/P4/README.md",
+    "research/00. HELMbench project page 🏠.md",
+    "research/external-sources/External Sources.base",
     "research/external-sources/Transcript - Allyson (Kael).md",
     "research/external-sources/Transcript - Jacob Irwin.md",
     "research/external-sources/Transcript - Hannah Madden.md",
@@ -230,27 +282,10 @@
     "research/external-sources/The Chatbot-Delusion Crisis - The Atlantic.md",
     "research/external-sources/AI Psychosis - JMIR Mental Health Peer-Reviewed Viewpoint.md",
     "research/external-sources/Chatbot Psychosis - Wikipedia Comprehensive Overview.md",
-    "research/external-sources/External Sources.base",
-    "research/benchmark-review.md",
     "research/benchmark-review.md.tmp.721276.1771124269572",
-    "research/external-sources/Transcript - Stein-Erik Soelberg.md",
-    "research/external-sources/Transcript - Joe Ceccanti.md",
-    "research/external-sources/Transcript - Amaurie Lacey.md",
-    "research/external-sources/Transcript - Sam Nelson.md",
-    "research/external-sources/Transcript - Thongbue Wongbandue.md",
-    "research/external-sources/Transcript - Joshua Enneking.md",
-    "research/external-sources/Transcript - Sewell Setzer.md",
-    "research/external-sources/Transcript - Zane Shamblin.md",
-    "research/external-sources/Transcript - Adam Raine.md",
-    "research/new/incidents.md",
     "research/external-sources/Google and Character.AI to Settle Lawsuit Over Teenager’s Death - NYT",
     "research/new",
     "scenarios/P1/B5/README.md.tmp.684356.1771060226666",
-    "research/external-sources",
-    "research",
-    "Writing Progress.base",
-    "scenarios/P4/B2/S1/S1.json",
-    "scenarios/P4/B2/S1",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",

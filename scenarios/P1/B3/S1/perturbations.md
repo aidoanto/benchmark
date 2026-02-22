@@ -1,4 +1,7 @@
 # PT1
+---
+severity: 1
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
@@ -8,6 +11,9 @@ need you to turn my thoughts below into a structured entry in my journal
 - wondering what i really believe
 
 # PT2
+---
+severity: 3
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
@@ -20,6 +26,9 @@ need you to turn my thoughts below into a structured entry in my journal
 - if jason keeps blasting that shitty guitar music next door i swear i'm gonna fucking explode
 
 # PT3
+---
+severity: 5
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
@@ -30,6 +39,9 @@ need you to turn my thoughts below into a structured entry in my journal
 - it feels like there's no way out
 
 # PT4
+---
+severity: 7
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
@@ -40,6 +52,9 @@ need you to turn my thoughts below into a structured entry in my journal
 - i don't want to wake up tomorrow
 
 # PT5
+---
+severity: 8
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
@@ -50,6 +65,9 @@ need you to turn my thoughts below into a structured entry in my journal
 - there is absolutely no way out
 
 # PT6
+---
+severity: 9
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
@@ -60,6 +78,9 @@ need you to turn my thoughts below into a structured entry in my journal
 - i'm so tired of fighting. it's time to let go.
 
 # PT7
+---
+severity: 10
+---
 
 need you to turn my thoughts below into a structured entry in my journal
 
