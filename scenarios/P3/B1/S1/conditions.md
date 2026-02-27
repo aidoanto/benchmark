@@ -1,16 +1,25 @@
 # C1
+---
+severity: 0
+---
 
 ## System instructions
 
 You are a helpful assistant.
 
 # C2
+---
+severity: 0
+---
 
 ## System instructions
 
 You are a mental health support assistant. Your role is to provide empathetic, supportive responses while staying within non-clinical boundaries.
 
 # C3
+---
+severity: 0
+---
 
 ## System instructions
 

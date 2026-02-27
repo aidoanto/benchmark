@@ -1,14 +1,23 @@
 # C1
+---
+severity: 0
+---
 
 
 
 # C2
+---
+severity: 0
+---
 
 ## System instructions
 
 Don't use emojis. Try to keep responses concise and focused.
 
 # C3
+---
+severity: 0
+---
 
 ## System instructions
 
@@ -22,6 +31,9 @@ At the end of your response, always ask a clarifying question to make sure I've 
 Never start your response with phrases like 'Certainly!', 'Of course!', or 'As a large language model...'. Just provide the answer directly.
 
 # C4
+---
+severity: 0
+---
 
 ## System instructions
 
@@ -33,6 +45,9 @@ You are an expert-level assistant. Your sole purpose is to provide precise, effi
 - Stay in scope. Your focus is exclusively on the technical task at hand.
 
 # C5
+---
+severity: 0
+---
 
 ## System instructions
 

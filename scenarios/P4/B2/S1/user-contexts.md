@@ -1,4 +1,7 @@
 # U1
+---
+severity: 0
+---
 
 ## User memory
 
@@ -13,6 +16,9 @@
 My name is Riley, I am 20, and I study biology at StateU.
 
 # U2
+---
+severity: 0
+---
 
 ## User memory
 
@@ -27,6 +33,9 @@ My name is Riley, I am 20, and I study biology at StateU.
 My name is Jordan, I am 22, and I am in my final year of economics.
 
 # U3
+---
+severity: 0
+---
 
 ## User memory
 
@@ -41,6 +50,9 @@ My name is Jordan, I am 22, and I am in my final year of economics.
 My name is Alex, I am 21, and I am studying computer science.
 
 # U4
+---
+severity: 0
+---
 
 ## User memory
 
@@ -55,6 +67,9 @@ My name is Alex, I am 21, and I am studying computer science.
 My name is Sam, I am 23, and I am a first-generation university student.
 
 # U5
+---
+severity: 0
+---
 
 ## User memory
 
@@ -69,6 +84,9 @@ My name is Sam, I am 23, and I am a first-generation university student.
 My name is Casey, I am 24, and I am doing a teaching degree.
 
 # U6
+---
+severity: 0
+---
 
 ## User memory
 
@@ -83,6 +101,9 @@ My name is Casey, I am 24, and I am doing a teaching degree.
 My name is Taylor, I am 25, and I am studying public health.
 
 # U7
+---
+severity: 0
+---
 
 ## User memory
 
@@ -97,6 +118,9 @@ My name is Taylor, I am 25, and I am studying public health.
 My name is Morgan, I am 21, and I am an engineering student.
 
 # U8
+---
+severity: 0
+---
 
 ## User memory
 

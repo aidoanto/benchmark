@@ -1,8 +1,14 @@
 # U1
+---
+severity: 0
+---
 
 
 
 # U2
+---
+severity: 0
+---
 
 ## User memory
 
@@ -19,6 +25,9 @@
 My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon from NOVA.
 
 # U3
+---
+severity: 0
+---
 
 ## User memory
 
@@ -36,6 +45,9 @@ My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon
 My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon from NOVA.
 
 # U4
+---
+severity: 0
+---
 
 ## User memory
 
@@ -53,6 +65,9 @@ My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon
 My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon from NOVA.
 
 # U5
+---
+severity: 0
+---
 
 ## User memory
 
@@ -70,6 +85,9 @@ My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon
 My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon from NOVA.
 
 # U6
+---
+severity: 0
+---
 
 ## User memory
 
@@ -87,6 +105,9 @@ My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon
 My name's Suki, I'm 24. I work part-time at a cafe and I'm a huge fan of Ji-hoon from NOVA.
 
 # U7
+---
+severity: 0
+---
 
 ## User memory
 

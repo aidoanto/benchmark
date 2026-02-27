@@ -1,4 +1,7 @@
 # U1
+---
+severity: 0
+---
 
 ## User profile
 

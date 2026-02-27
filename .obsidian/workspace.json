@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P4/B2/S1/perturbations.md",
+                "file": "scenarios/P4/B2/S1/conditions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,36 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "perturbations"
+              "title": "conditions"
             },
             "group": "489ae88a70e86a27"
-          },
-          {
-            "id": "52b2e108f6320a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "podcast.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "podcast"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P4/B2/S1/perturbations.md",
+                "file": "scenarios/P4/B2/S1/conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from perturbations"
+              "title": "Outgoing links from conditions"
             },
             "group": "489ae88a70e86a27"
           }
@@ -249,10 +224,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52b2e108f6320a62",
+  "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
-    "scoring-ideas.md",
     "scenarios/P4/B2/S1/perturbations.md",
+    "scenarios/P4/B2/S1/user-contexts.md",
+    "scenarios/P4/README.md",
+    "scenarios/P4/B2/README.md",
+    "scenarios/P1/B3/S1/conditions.md",
+    "scenarios/P1/B2/S1/user-contexts.md",
+    "scenarios/P1/B2/S1/S1.md",
+    "scenarios/P1/B2/S1/perturbations.md",
+    "scenarios/P1/B2/S1/conditions.md",
+    "scenarios/P1/README.md",
+    "scenarios/P1/B2/README.md",
+    "scenarios/P1/B1/S1/user-contexts.md",
+    "scenarios/P1/B1/S1/S1.md",
+    "scenarios/P1/B1/S1/perturbations.md",
+    "scenarios/P1/B1/S1/conditions.md",
+    "scenarios/P1/B1/README.md",
+    "scenarios/P2/README.md",
+    "models.yml",
+    "scenarios/P1/B4/README.md",
+    "podcast.md",
+    "scoring-ideas.md",
     "scenarios/P2/B2/S1/perturbations.md",
     "research/3c. Weighting and scoring.md",
     "research/3c. Weighting and scoring.md.tmp.69296.1771741781848",
@@ -260,33 +254,14 @@
     "scenarios/P1/B3/S1/perturbations.md.tmp.69296.1771741278775",
     "scoring.yaml",
     "scoring.yaml.tmp.69296.1771741193117",
-    "scenarios/P2/README.md",
-    "podcast.md",
-    "scenarios/P4/B2/S1/user-contexts.md",
     "scenarios/P4/B2/S1/S1.md",
     "scenarios/P4/B2/S1/conditions.md",
-    "scenarios/P4/B2/README.md",
-    "scenarios/P4/README.md",
     "research/00. HELMbench project page 🏠.md",
     "research/external-sources/External Sources.base",
     "research/external-sources/Transcript - Allyson (Kael).md",
-    "research/external-sources/Transcript - Jacob Irwin.md",
-    "research/external-sources/Transcript - Hannah Madden.md",
-    "research/external-sources/Transcript - John Jacquez.md",
-    "research/external-sources/INDEX - Chatbot Psychosis and AI Delusions Sources.md",
-    "research/external-sources/The Human Line - AI Delusions Support Group - NPR.md",
-    "research/external-sources/FTC Complaints - AI Psychosis Cases - Wired.md",
-    "research/external-sources/AI Psychosis Clinical Cases and Mechanisms - Psychiatry Podcast.md",
-    "research/external-sources/AI Chatbots Violate Mental Health Ethics Standards - Brown University Study.md",
-    "research/external-sources/John Jacquez Lawsuit - GPT-4o Psychosis Case - Futurism.md",
-    "research/external-sources/Tech Breakthrough Delusions - CNN Business.md",
-    "research/external-sources/Spiralism - AI Cult and Esoteric Delusions - Rolling Stone.md",
-    "research/external-sources/The Chatbot-Delusion Crisis - The Atlantic.md",
-    "research/external-sources/AI Psychosis - JMIR Mental Health Peer-Reviewed Viewpoint.md",
     "research/benchmark-review.md.tmp.721276.1771124269572",
     "research/external-sources/Google and Character.AI to Settle Lawsuit Over Teenager’s Death - NYT",
     "research/new",
-    "scenarios/P1/B5/README.md.tmp.684356.1771060226666",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
