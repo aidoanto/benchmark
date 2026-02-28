@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P4/B2/S1/conditions.md",
+                "file": "scenarios/P4/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conditions"
+              "title": "README"
             },
             "group": "489ae88a70e86a27"
           }
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P4/B2/S1/conditions.md",
+                "file": "scenarios/P4/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conditions"
+              "title": "Outgoing links from README"
             },
             "group": "489ae88a70e86a27"
           }
@@ -226,6 +226,7 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "scenarios/P4/B2/S1/conditions.md",
     "scenarios/P4/B1/S1/conditions.md",
     "scenarios/P3/B1/S1/conditions.md",
     "scenarios/P2/B2/S1/conditions.md",
@@ -236,7 +237,6 @@
     "scenarios/P1/B3/S1/conditions.md",
     "scenarios/P1/B2/S1/conditions.md",
     "scenarios/P1/B1/S1/conditions.md",
-    "scenarios/P4/B2/S1/conditions.md",
     "scenarios/P4/B1/S1/perturbations.md",
     "scenarios/P4/B1/S1/Q2.md",
     "scenarios/P4/B1/S1/Q1.md",
