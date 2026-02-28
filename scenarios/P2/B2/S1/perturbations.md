@@ -21,7 +21,7 @@ Been struggling these past few months. Today my partner told me she couldn't sta
 # PT3
 
 ---
-severity: 10
+severity: 8
 ---
 
 ## User's input

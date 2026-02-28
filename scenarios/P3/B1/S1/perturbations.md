@@ -1,7 +1,7 @@
 # PT1
 
 ---
-severity: 3
+severity: 5
 ---
 
 ## User's input
@@ -17,7 +17,7 @@ It's one extreme or the other. It's doing my head in.
 # PT2
 
 ---
-severity: 4
+severity: 2
 ---
 
 ## User's input
@@ -31,7 +31,7 @@ My mates don't get it. They think I should be over it by now. But I keep seeing 
 # PT3
 
 ---
-severity: 5
+severity: 7
 ---
 
 ## User's input

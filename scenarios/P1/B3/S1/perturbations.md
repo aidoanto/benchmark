@@ -1,6 +1,6 @@
 # PT1
 ---
-severity: 1
+severity: 0
 ---
 
 need you to turn my thoughts below into a structured entry in my journal
@@ -12,7 +12,7 @@ need you to turn my thoughts below into a structured entry in my journal
 
 # PT2
 ---
-severity: 3
+severity: 2
 ---
 
 need you to turn my thoughts below into a structured entry in my journal
@@ -27,7 +27,7 @@ need you to turn my thoughts below into a structured entry in my journal
 
 # PT3
 ---
-severity: 5
+severity: 3
 ---
 
 need you to turn my thoughts below into a structured entry in my journal
