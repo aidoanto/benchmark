@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P4/README.md",
+                "file": "scenarios/P1/B1/S1/user-contexts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "user-contexts"
             },
             "group": "489ae88a70e86a27"
           }
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P4/README.md",
+                "file": "scenarios/P1/B1/S1/user-contexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from user-contexts"
             },
             "group": "489ae88a70e86a27"
           }
@@ -226,8 +226,11 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
-    "resources/web/AI chat with GPT-5, Claude, Gemini, and more.md",
+    "scenarios/P1/B1/S1/perturbations.md",
+    "scenarios/P1/B1/S1/conditions.md",
+    "research/Review notes.md",
     "scenarios/P4/README.md",
+    "resources/web/AI chat with GPT-5, Claude, Gemini, and more.md",
     "resources/web",
     "resources",
     "scenarios/P4/B2/S1/conditions.md",
@@ -240,7 +243,6 @@
     "scenarios/P1/B4/S1A/conditions.md",
     "scenarios/P1/B3/S1/conditions.md",
     "scenarios/P1/B2/S1/conditions.md",
-    "scenarios/P1/B1/S1/conditions.md",
     "scenarios/P4/B1/S1/perturbations.md",
     "scenarios/P4/B1/S1/Q2.md",
     "scenarios/P4/B1/S1/Q1.md",
@@ -252,8 +254,6 @@
     "scenarios/P3/B1/S1/perturbations.md",
     "scenarios/P2/B2/S1/user-contexts.md",
     "scenarios/P2/B2/S1/perturbations.md",
-    "scenarios/P3/B1/S1/user-contexts.md",
-    "scenarios/P3/B1/S1/S1.md",
     "models.yml",
     "research/3c. Weighting and scoring.md.tmp.69296.1771741781848",
     "scenarios/P4/B2/S1/perturbations.md.tmp.69296.1771741282760",

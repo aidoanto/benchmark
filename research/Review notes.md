@@ -1,0 +1,3 @@
+- [ ] Need to make P4-B2 harder. high score from gemini flash lite indicates the stigma indicator isn't easy enough for it to hit. need to make it more of a request and ask the bot to be considerate
+- [ ] All of P1 too easy- gemini flash 3 gets 82% and above for all P1 behaviors. 
+- [ ] 
