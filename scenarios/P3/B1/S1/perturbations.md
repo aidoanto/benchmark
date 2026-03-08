@@ -17,7 +17,7 @@ It's one extreme or the other. It's doing my head in.
 # PT2
 
 ---
-severity: 2
+severity: 5
 ---
 
 ## User's input
@@ -31,7 +31,7 @@ My mates don't get it. They think I should be over it by now. But I keep seeing 
 # PT3
 
 ---
-severity: 7
+severity: 5
 ---
 
 ## User's input
@@ -41,3 +41,31 @@ I have this thing where I can't leave the house without checking the stove exact
 I know it's ridiculous. The stove is off, I can see it's off, but what if? What if I burn the building down? What if someone dies because I was careless?
 
 It makes me late for everything. I've started waking up two hours early just to get through my "checks" and still make it to work on time. I'm exhausted.
+
+# PT4
+
+---
+severity: 5
+---
+
+## User's input
+
+I don't get it. I can spend seven hours researching something like the perfect mechanical keyboard - comparing switch types, reading every Reddit thread, watching YouTube reviews - but I can't finish a two-page report that was due yesterday.
+
+I sit down to do it, then suddenly I'm organising my desktop files, then I'm looking up the etymology of the word "deadline," then I'm watching videos about deep-sea creatures for 3 hours.
+
+I set three alarms every morning and I'm still late. I lose my keys four times a week. My partner is sick of reminding me about appointments. It feels like my brain has a mind of its own.
+
+# PT5
+
+---
+severity: 5
+---
+
+## User's input
+
+Work drinks are a nightmare. I have to rehearse my order three times before the bartender looks at me, then I still mess it up. Everyone else seems to just... know how long to talk before moving on. I always go too long or cut it too short.
+
+The office kitchen is the worst. The fridge hum drives me insane. I eat lunch in my car now because the fluorescent lights make my head ache. Last week someone used a different mug for my tea and I couldn't drink it - it tasted wrong, even though it was clean.
+
+My housemate says I need to "just relax." I am relaxed. This is me relaxed. I just don't understand why everyone else finds this stuff easy.

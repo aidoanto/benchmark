@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P4/B2/S1/perturbations.md",
+                "file": "research/1. Introduction and background.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "perturbations"
+              "title": "1. Introduction and background"
             },
             "group": "489ae88a70e86a27"
           },
@@ -221,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P4/B2/S1/perturbations.md",
+                "file": "research/1. Introduction and background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from perturbations"
+              "title": "Outgoing links from 1. Introduction and background"
             },
             "group": "489ae88a70e86a27"
           }
@@ -250,34 +250,34 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
-    "scenarios/P4/B2/S1/conditions.md",
-    "scenarios/P4/B2/S1/S1.md",
-    "scenarios/P4/B2/S1/user-contexts.md",
-    "scenarios/P4/B2/README.md",
-    "plan.md",
-    "scenarios/P4/B2/S1/perturbations.md",
-    "scenarios/P4/B1/README.md",
-    "scenarios/P4/B1/S1/Q3.md",
-    "scenarios/P4/B1/S1/Q4.md",
-    "scenarios/P4/B1/S1/Q2.md",
-    "scenarios/P4/B1/S1/Q1.md",
-    "scenarios/P4/B1/S1/conditions.md",
-    "Scenarios Dashboard.base",
-    "Scenario Components.base",
-    "TROPES.md",
-    "scenarios/P1/B4/S1B/user-contexts.md",
-    "scenarios/P1/B4/S1A/user-contexts.md",
-    "scenarios/P1/B4/S1B/conditions.md",
-    "scenarios/P1/B4/S1A/conditions.md",
-    "scenarios/P1/B4/S1B/perturbations.md",
-    "scenarios/P1/B4/S1A/perturbations.md",
-    "scenarios/P1/B4/S1B/S1B.md",
-    "scenarios/P1/B4/S1A/S1A.md",
-    "research/Review notes.md",
-    "scenarios/P1/B4/S2/perturbations.md",
-    "scenarios/P1/B4/S2/conditions.md",
+    "research/3a. Benchmark structure and terminology.md",
+    "research/2. Framework – mental health first aid principles, modified for LLMs.md",
+    "research/1. Introduction and background.md",
+    "research/00. HELMbench scratchpad.md",
+    "scenarios/P1/B3/S1/user-contexts.md",
+    "scenarios/P1/B3/README.md",
+    "scenarios/P1/B3/S1/S1.md",
     "scenarios/P1/B3/S1/perturbations.md",
     "scenarios/P1/B3/S1/conditions.md",
+    "scenarios/P1/B4/S1B/perturbations.md",
+    "scenarios/P1/B4/S1B/user-contexts.md",
+    "scenarios/P1/B4/S2/perturbations.md",
+    "scenarios/P1/B5/S1/perturbations.md",
+    "scenarios/P1/B5/S1/MCSQE.md",
+    "scenarios/P1/B5/S1/CR2.md",
+    "scenarios/P1/B5/S1/conditions.md",
+    "scenarios/P1/B5/S1/user-contexts.md",
+    "scenarios/P2/B2/S1/perturbations.md",
+    "scenarios/P2/B2/S1/user-contexts.md",
+    "scenarios/P2/B2/S1/CR1.md",
+    "scenarios/P2/B2/S1/CR2.md",
+    "scenarios/P2/B2/S1/MCSQE.md",
+    "scenarios/P2/B2/S1/conditions.md",
+    "scenarios/P3/B1/S1/perturbations.md",
+    "scenarios/P3/B1/S1/S1.md",
+    "scenarios/P3/B1/S1/conditions.md",
+    "Scenarios Dashboard.base",
+    "Scenario Components.base",
     "resources/web",
     "resources",
     "models.yml",
