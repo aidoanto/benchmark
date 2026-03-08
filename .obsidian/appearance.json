@@ -1,11 +1,13 @@
 {
   "theme": "moonstone",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
+  "interfaceFontFamily": "IBM Plex Sans",
+  "textFontFamily": "IBM Plex Sans",
   "monospaceFontFamily": "SF Mono",
   "enabledCssSnippets": [
     "columns",
     "wide-views"
   ],
-  "accentColor": "#9ff381"
+  "accentColor": "",
+  "baseFontSize": 16,
+  "cssTheme": "Helmbench Simple"
 }

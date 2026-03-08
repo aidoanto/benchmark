@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap");
+
+/* Helmbench palette + fonts from notebooks/helmbench_theme.py */
+.theme-light,
+.theme-dark {
+  --background-primary: #fbf0e0;
+  --background-primary-alt: #e7dccc;
+  --background-secondary: #d7ccbc;
+  --background-secondary-alt: #e7dccc;
+  --background-modifier-border: #8d7e66;
+  --background-modifier-border-hover: #ac9c83;
+  --background-modifier-hover: #fffde2;
+  --background-modifier-active-hover: #fffde2;
+
+  --text-normal: #140800;
+  --text-muted: #53452f;
+  --text-faint: #53452f;
+  --text-on-accent: #fffeed;
+  --text-accent: #643f00;
+  --text-accent-hover: #24477d;
+
+  --interactive-accent: #643f00;
+  --interactive-accent-hover: #24477d;
+
+  --color-red: #7d5952;
+  --color-orange: #7d5952;
+  --color-yellow: #6a6443;
+  --color-green: #4a6c59;
+  --color-cyan: #536480;
+  --color-blue: #24477d;
+  --color-purple: #24477d;
+  --color-pink: #7d5952;
+
+  --font-text: "Inter", "DejaVu Sans", sans-serif;
+  --font-interface: "Inter", "DejaVu Sans", sans-serif;
+  --font-monospace: "IBM Plex Mono", "DejaVu Sans Mono", monospace;
+  --h1-font: "Archivo Narrow", "DejaVu Sans", sans-serif;
+  --h2-font: "Archivo Narrow", "DejaVu Sans", sans-serif;
+  --h3-font: "Archivo Narrow", "DejaVu Sans", sans-serif;
+  --h4-font: "Archivo Narrow", "DejaVu Sans", sans-serif;
+  --h5-font: "Archivo Narrow", "DejaVu Sans", sans-serif;
+  --h6-font: "Archivo Narrow", "DejaVu Sans", sans-serif;
+}
+
+.workspace,
+.view-content,
+.markdown-source-view,
+.markdown-preview-view {
+  background: var(--background-primary);
+  color: var(--text-normal);
+}

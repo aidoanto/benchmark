@@ -1,0 +1,8 @@
+{
+  "name": "Helmbench Simple",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "author": "Helmbench",
+  "authorUrl": "https://github.com/",
+  "isDesktopOnly": false
+}

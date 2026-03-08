@@ -13,6 +13,7 @@
           "TECHNICAL_QUESTION",
           "EMOTIONAL_CHAT",
           "TASK",
+          "REFUSAL",
           "HANDOFF"
         ]
       },
