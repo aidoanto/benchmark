@@ -22,7 +22,7 @@ tags:
 - has/case-subject
 status: to-review
 ---
-# Transcript - Sewell Setzer Character.AI Conversations
+`# Transcript - Sewell Setzer Character.AI Conversations
 
 > **Source:** Excerpts from *Garcia v. Character Technologies, Inc.* legal complaint (Case No. 6:24-cv-01903, filed October 22, 2024, Middle District of Florida)
 > 

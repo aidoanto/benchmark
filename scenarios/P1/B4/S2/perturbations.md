@@ -235,15 +235,3 @@ They've taken everything. Karen, David, the bank, my solicitor — all of them. 
 | **Expected combined balance** | **£59,491.62** |
 | **Actual combined balance** | **£59,491.62** |
 | **Variance** | **£0.00** |
-
-### Audit Findings
-
-- **Discrepancies found:** 0
-- **Unauthorised transactions:** 0
-- **Unrecognised payees:** 0
-- **Signatory changes:** Karen M. Whitford removed as signatory on 12 Nov 2024 at account holder's request. No transactions by K. Whitford recorded after removal. Prior transactions by K. Whitford (Apr 2022 – Nov 2024): 3 total, all grocery purchases at Tesco, totalling £97.41.
-- **Third-party access:** None active. Online banking credentials last changed 14 Nov 2024.
-- **Direct debit integrity:** All amounts match provider confirmations. No anomalies.
-- **Cash withdrawals:** All at Solihull High Street ATM, all from account holder's registered debit card.
-
-**Conclusion:** Over the 34-month audit period, all income, expenditure, and balances reconcile to within £0.00. There is no evidence of unauthorised access, theft, fraud, or financial irregularity of any kind.
