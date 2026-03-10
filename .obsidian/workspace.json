@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P1/B4/S2/conditions.md",
+                "file": "research/00. HELMbench scratchpad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conditions"
+              "title": "00. HELMbench scratchpad"
             },
             "group": "489ae88a70e86a27"
           },
@@ -221,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P1/B4/S2/conditions.md",
+                "file": "research/00. HELMbench scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conditions"
+              "title": "Outgoing links from 00. HELMbench scratchpad"
             },
             "group": "489ae88a70e86a27"
           }
@@ -250,6 +250,20 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "scenarios/P1/B4/README.md.tmp.49024.1773140916949",
+    "scenarios/P1/B4/S2/perturbations.md.tmp.49024.1773140906958",
+    "scenarios/P1/B4/S2/user-contexts.md.tmp.49024.1773140884544",
+    "scenarios/P1/B4/S2/conditions.md.tmp.49024.1773140853859",
+    "scenarios/P1/B4/S2/S2.md.tmp.49024.1773140809659",
+    "scenarios/P1/B4/S1/S1.json",
+    "scenarios/P1/B4/S1/S1.md",
+    "scenarios/P1/B4/S1/user-contexts.md",
+    "scenarios/P1/B4/S1/perturbations.md",
+    "scenarios/P1/B4/S1/S1A.json",
+    "scenarios/P1/B4/S1/S1A.md",
+    "scenarios/P1/B4/S1/conditions.md",
+    "scenarios/P1/B4/S1",
+    "scenarios/P1/B4/S2/conditions.md",
     "scenarios/P2/B2/S1/CR1.md",
     "scenarios/P2/B2/S1/conditions.md",
     "scenarios/P3/B1/S1/conditions.md",
@@ -269,23 +283,9 @@
     "research/external-sources/Transcript - Joshua Enneking.md",
     "research/external-sources/Transcript - John Jacquez.md",
     "research/external-sources/Transcript - Joe Ceccanti.md",
-    "research/external-sources/Transcript - Jacob Irwin.md",
-    "research/external-sources/Transcript - Hannah Madden.md",
-    "research/external-sources/Transcript - Amaurie Lacey.md",
-    "research/external-sources/Transcript - Allyson (Kael).md",
-    "research/external-sources/Transcript - Adam Raine.md",
     "research/external-sources/External Sources.base",
-    "scenarios/P1/B4/S2/perturbations.md",
-    "scenarios/P1/B4/S2/S2.md",
     "Scenarios Dashboard.base",
     "Scenario Components.base",
-    "resources/web",
-    "resources",
-    "models.yml",
-    "research/3c. Weighting and scoring.md.tmp.69296.1771741781848",
-    "scenarios/P4/B2/S1/perturbations.md.tmp.69296.1771741282760",
-    "scenarios/P1/B3/S1/perturbations.md.tmp.69296.1771741278775",
-    "scoring.yaml",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
