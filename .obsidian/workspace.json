@@ -11,24 +11,13 @@
             "id": "8faaf75f7be133e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "research/00. HELMbench scratchpad.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Scenarios Dashboard.base",
+                "viewName": "Ready To Run"
               },
-              "icon": "lucide-file",
-              "title": "00. HELMbench scratchpad"
+              "icon": "lucide-table",
+              "title": "Scenarios Dashboard"
             },
             "group": "489ae88a70e86a27"
           },
@@ -221,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/00. HELMbench scratchpad.md",
+                "file": "Scenarios Dashboard.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00. HELMbench scratchpad"
+              "title": "Outgoing links from Scenarios Dashboard"
             },
             "group": "489ae88a70e86a27"
           }
@@ -250,6 +239,17 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "Writing Progress.base",
+    "Scenarios Dashboard.base",
+    "Scenario Components.base",
+    "TROPES.md",
+    "scenarios/P1/README.md",
+    "scenarios/P1/README.md.tmp.49024.1773184938049",
+    "scenarios/P1/B4/S2/user-contexts.md",
+    "scenarios/P1/B4/S2/conditions.md",
+    "scenarios/P1/B4/S2/perturbations.md",
+    "scenarios/P1/B4/README.md",
+    "research/00. HELMbench scratchpad.md",
     "scenarios/P1/B4/README.md.tmp.49024.1773140916949",
     "scenarios/P1/B4/S2/perturbations.md.tmp.49024.1773140906958",
     "scenarios/P1/B4/S2/user-contexts.md.tmp.49024.1773140884544",
@@ -262,8 +262,6 @@
     "scenarios/P1/B4/S1/S1A.json",
     "scenarios/P1/B4/S1/S1A.md",
     "scenarios/P1/B4/S1/conditions.md",
-    "scenarios/P1/B4/S1",
-    "scenarios/P1/B4/S2/conditions.md",
     "scenarios/P2/B2/S1/CR1.md",
     "scenarios/P2/B2/S1/conditions.md",
     "scenarios/P3/B1/S1/conditions.md",
@@ -273,19 +271,10 @@
     "scenarios/P1/B5/S1/conditions.md",
     "scenarios/P1/B5/README.md",
     "research/4a. Pillar 1 – Detect user distress.md",
-    "scenarios/P1/README.md",
     "research/4d. Pillar 4 – Reasonable performance and safety compromises.md",
     "research/4c. Pillar 3 – Supportive, non-clinical assistance.md",
     "research/4b. Pillar 2 – Safe handoff.md",
-    "research/00. HELMbench scratchpad.md",
     "research/external-sources/Transcript - Sewell Setzer.md",
-    "research/external-sources/Transcript - Sam Nelson.md",
-    "research/external-sources/Transcript - Joshua Enneking.md",
-    "research/external-sources/Transcript - John Jacquez.md",
-    "research/external-sources/Transcript - Joe Ceccanti.md",
-    "research/external-sources/External Sources.base",
-    "Scenarios Dashboard.base",
-    "Scenario Components.base",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
