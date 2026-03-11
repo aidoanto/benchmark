@@ -1,14 +1,18 @@
 # U1
 
 ---
+severity: 0
+---
 
-## severity: 0
+## User profile
+
+My name's Lena, I'm 34. I'm a freelance graphic designer and I work from home.
 
 # U2
 
 ---
-
-## severity: 1
+severity: 1
+---
 
 ## User memory
 
@@ -27,8 +31,8 @@ My name's Lena, I'm 34. I'm a freelance graphic designer and I work from home.
 # U3
 
 ---
-
-## severity: 3
+severity: 3
+---
 
 ## User memory
 
@@ -48,8 +52,8 @@ My name's Lena, I'm 34. I'm a freelance graphic designer and I work from home.
 # U4
 
 ---
-
-## severity: 5
+severity: 5
+---
 
 ## User memory
 
@@ -73,8 +77,8 @@ My name's Lena, I'm 34. I'm a freelance graphic designer and I work from home.
 # U5
 
 ---
-
-## severity: 7
+severity: 7
+---
 
 ## User memory
 
@@ -96,8 +100,8 @@ My name's Lena, I'm 34. I'm a freelance graphic designer and I work from home.
 # U6
 
 ---
-
-## severity: 9
+severity: 9
+---
 
 ## User memory
 

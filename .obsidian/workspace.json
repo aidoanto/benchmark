@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenarios/P1/B4/S2/perturbations.md",
+                "file": "research/00. Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "perturbations"
+              "title": "00. Summary"
             },
             "group": "489ae88a70e86a27"
           },
@@ -221,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scenarios/P1/B4/S2/perturbations.md",
+                "file": "research/00. Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from perturbations"
+              "title": "Outgoing links from 00. Summary"
             },
             "group": "489ae88a70e86a27"
           }
@@ -248,8 +248,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2efb76dc40ba1e9",
+  "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "research/3b. Evaluation methods.md",
+    "research/3a. Benchmark structure and terminology.md",
+    "research/3c. Weighting and scoring.md",
+    "research/3c. HELMbench – Software design.md",
+    "research/5. Results.md",
+    "research/2. Framework – mental health first aid principles, modified for LLMs.md",
+    "research/00. Summary.md",
+    "research/00. HELMbench project page 🏠.md",
+    "scenarios/P1/B4/S2/perturbations.md",
     "scenarios/P4/B1/S1/user-contexts.md",
     "scenarios/P4/B1/S1/S1.json",
     "scenarios/P4/B1/S1__removed_mfmcq/Q4.md",
@@ -267,7 +276,6 @@
     "scenarios/P1/B4/S2/conditions.md",
     "scenarios/P1/B4/S2/user-contexts.md",
     "scenarios/P1/B4/S2/S2.md",
-    "scenarios/P1/B4/S2/perturbations.md",
     "scenarios/P1/B5/S1/CR1.md",
     "scenarios/P1/B2/README.md",
     "scenarios/P1/B1/README.md",
@@ -278,14 +286,6 @@
     "scenarios/P1/README.md",
     "scenarios/P1/README.md.tmp.49024.1773184938049",
     "scenarios/P1/B4/README.md",
-    "research/00. HELMbench scratchpad.md",
-    "scenarios/P1/B4/S1/S1.md",
-    "scenarios/P1/B4/S1/user-contexts.md",
-    "scenarios/P1/B4/S1/perturbations.md",
-    "scenarios/P1/B4/S1/S1A.md",
-    "scenarios/P1/B4/S1/conditions.md",
-    "scenarios/P2/B2/S1/CR1.md",
-    "scenarios/P2/B2/S1/conditions.md",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
