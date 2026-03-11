@@ -10,5 +10,6 @@
   "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "projects",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
