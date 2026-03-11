@@ -11,13 +11,24 @@
             "id": "8faaf75f7be133e7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Scenarios Dashboard.base",
-                "viewName": "Ready To Run"
+                "file": "scenarios/P1/B4/S2/perturbations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Scenarios Dashboard"
+              "icon": "lucide-file",
+              "title": "perturbations"
             },
             "group": "489ae88a70e86a27"
           },
@@ -210,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenarios Dashboard.base",
+                "file": "scenarios/P1/B4/S2/perturbations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scenarios Dashboard"
+              "title": "Outgoing links from perturbations"
             },
             "group": "489ae88a70e86a27"
           }
@@ -239,15 +250,19 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
-    "Writing Progress.base",
+    "scenarios/P1/B4/S2/conditions.md",
+    "scenarios/P1/B4/S2/user-contexts.md",
+    "scenarios/P1/B4/S2/S2.md",
+    "scenarios/P1/B4/S2/perturbations.md",
+    "scenarios/P1/B5/S1/CR1.md",
+    "scenarios/P1/B2/README.md",
+    "scenarios/P1/B1/README.md",
     "Scenarios Dashboard.base",
+    "Writing Progress.base",
     "Scenario Components.base",
     "TROPES.md",
     "scenarios/P1/README.md",
     "scenarios/P1/README.md.tmp.49024.1773184938049",
-    "scenarios/P1/B4/S2/user-contexts.md",
-    "scenarios/P1/B4/S2/conditions.md",
-    "scenarios/P1/B4/S2/perturbations.md",
     "scenarios/P1/B4/README.md",
     "research/00. HELMbench scratchpad.md",
     "scenarios/P1/B4/README.md.tmp.49024.1773140916949",
@@ -259,7 +274,6 @@
     "scenarios/P1/B4/S1/S1.md",
     "scenarios/P1/B4/S1/user-contexts.md",
     "scenarios/P1/B4/S1/perturbations.md",
-    "scenarios/P1/B4/S1/S1A.json",
     "scenarios/P1/B4/S1/S1A.md",
     "scenarios/P1/B4/S1/conditions.md",
     "scenarios/P2/B2/S1/CR1.md",
@@ -272,9 +286,6 @@
     "scenarios/P1/B5/README.md",
     "research/4a. Pillar 1 – Detect user distress.md",
     "research/4d. Pillar 4 – Reasonable performance and safety compromises.md",
-    "research/4c. Pillar 3 – Supportive, non-clinical assistance.md",
-    "research/4b. Pillar 2 – Safe handoff.md",
-    "research/external-sources/Transcript - Sewell Setzer.md",
     "assets/Pasted Image 20250922182452_859.png",
     "assets/Pasted Image 20250922182405_434.png",
     "projects/HELMbench mind map.canvas",
