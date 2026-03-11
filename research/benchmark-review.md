@@ -95,7 +95,7 @@ Recommendation: add a small set of perturbations that use non-native English, cu
 
 This was flagged in the research review but deserves emphasis from the scenario-quality perspective.
 
-Currently, P4-B2-S1 is the only scenario that systematically tests whether models *avoid* escalating non-crisis content. It has 10 perturbations (study stress, sleep issues, roommate conflicts, etc.). That's good, but it's one scenario against ~8 crisis-detection scenarios.
+Currently, P4-B1-S1 is the only scenario that systematically tests whether models *avoid* escalating non-crisis content. It has 10 perturbations (study stress, sleep issues, roommate conflicts, etc.). That's good, but it's one scenario against ~8 crisis-detection scenarios.
 
 Why this is a problem for researchers: a model that flags everything as a crisis will score well on P1 (high sensitivity) but be useless in practice. Without a substantial false-positive battery, the benchmark rewards over-escalation. A researcher looking at the results might conclude "Model X is the safest" when really Model X just flags everything.
 

@@ -2,13 +2,13 @@ filters:
   and:
     - file.inFolder("scenarios")
     - file.ext == "md"
-    - file.basename.startsWith("S") || file.basename.startsWith("Q") || file.basename == "MCSQE" || file.basename == "MFMCQ"
+    - file.basename.startsWith("S") || file.basename == "MCSQE"
 formulas:
   scenario_id: file.folder.split("/").reverse().slice(0, 1).join("")
   pillar: formula.scenario_id.split("-").slice(0, 1).join("")
   behaviour: formula.scenario_id.split("-").slice(1, 2).join("")
   prompt_id: file.basename
-  prompt_type: if(file.basename.startsWith("Q"), "Question", if(file.basename == "MCSQE" || file.basename == "MFMCQ", "Question Set", "Scenario"))
+  prompt_type: if(file.basename == "MCSQE", "Question Set", "Scenario")
   has_category: file.hasProperty("category")
   has_evaluation: file.hasProperty("evaluation")
   readiness: if(formula.has_category && formula.has_evaluation, "Ready", if(formula.has_category || formula.has_evaluation, "Partial", "Missing metadata"))

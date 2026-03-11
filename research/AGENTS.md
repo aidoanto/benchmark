@@ -88,9 +88,9 @@ Benchmark (v1.0, v1.1, etc.)
 
 ### Evaluation Methods
 
-1. **MCQ (Multiple Choice Question)**: Tests categorical/binary decisions where models respond and categorize without knowing they're being tested
-2. **MFMCQ (Multi-field Multiple Choice Question)**: Tests both safety performance and task performance simultaneously
-3. **SQE (Scalable Qualitative Evaluation)**: Uses an LLM-as-judge approach calibrated against human expert ratings with detailed rubrics
+1. **MCQ / tag-threshold**: Tests structured categorisation or tag selection without telling the model it is being benchmarked
+2. **SQE (Scalable Qualitative Evaluation)**: Uses an LLM-as-judge approach calibrated against human expert ratings with detailed rubrics
+3. **MCSQE (Multi-criteria SQE)**: Runs one response against multiple rubric criteria files
 
 ### File Naming Convention
 

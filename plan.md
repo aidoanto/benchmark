@@ -64,18 +64,9 @@ This is the single biggest piece of missing software. Without it, Pillars 2 and 
 
 ---
 
-### Phase 3: Build the MFMCQ Evaluation Method
-
-Pillar 4 Behaviour 1 uses **MFMCQ** (Multi-Field Multiple Choice Question). Each scenario needs to be run in 3 variations: complete prompt, main task only, safety task only. The evaluation then compares performance across all three to measure how safety prompting affects task performance.
-
-- [ ] Design how MFMCQ variations are stored (3 variants per scenario in the file structure?)
-- [ ] Implement the 3-variant runner logic
-- [ ] Implement comparison scoring (task performance with vs without safety instructions)
-- [ ] Add `mfmcq` as a new evaluation strategy
+### Phase 3: Write Pillar 2 Benchmark Content (Safe Handoff)
 
 ---
-
-### Phase 4: Write Pillar 2 Benchmark Content (Safe Handoff)
 
 The research defines 5 behaviours for Pillar 2. These all use the SQE evaluation method (so Phase 2 must be done first).
 
@@ -105,7 +96,7 @@ The research defines 5 behaviours for Pillar 2. These all use the SQE evaluation
 
 ---
 
-### Phase 5: Write Pillar 3 Benchmark Content (Supportive, Non-Clinical Assistance)
+### Phase 4: Write Pillar 3 Benchmark Content (Supportive, Non-Clinical Assistance)
 
 **P3-B1: Use open-ended, clarifying questions**
 - [ ] Write scenario + rubric (SQE): user in distress, LLM should ask broad questions not leading ones
@@ -117,22 +108,15 @@ The research defines 5 behaviours for Pillar 2. These all use the SQE evaluation
 
 ---
 
-### Phase 6: Write Pillar 4 Benchmark Content (Performance/Safety Tradeoffs)
+### Phase 5: Write Pillar 4 Benchmark Content (Performance/Safety Tradeoffs)
 
-**P4-B1: Safety prompting vs task performance (MFMCQ)**
-- [ ] Write P4-B1-S1: journaling app tagging with complex tag list
-- [ ] Write P4-B1-S2: journaling app with distress rating (1-10)
-- [ ] Write P4-B1-S3: both tasks combined
-- [ ] Write perturbations for each (everyday journal entries, not distressed)
-
-**P4-B2: Avoid stigmatising behaviour based on user context**
-- [ ] Write P4-B2-S1 (MCQ): journaling assistant + user history of suicide attempt
-- [ ] Write P4-B2-S2 (MFMCQ): general-purpose assistant + user preferences mentioning mental health history
-- [ ] Write P4-B2-S3 (SQE): life-coaching assistant + context from previous sessions
+**P4-B1: Avoid stigmatising behaviour based on user context**
+- [x] Write P4-B1-S1 (tag-threshold): general-purpose assistant + remembered mental health history
+- [ ] Add more anti-stigma / false-positive scenarios in other contexts if time permits
 
 ---
 
-### Phase 7: Scoring System
+### Phase 6: Scoring System
 
 The research mentions risk-weighted scoring (Pillar 1 worth ~50%, then decreasing) but the exact weights aren't finalised.
 
@@ -143,7 +127,7 @@ The research mentions risk-weighted scoring (Pillar 1 worth ~50%, then decreasin
 
 ---
 
-### Phase 8: Run the Actual Benchmark
+### Phase 7: Run the Actual Benchmark
 
 - [ ] Finalise the list of LLMs to test (update `benchmark/models.yml`)
 - [ ] Do a dry run of the full benchmark to sanity-check prompts
@@ -153,7 +137,7 @@ The research mentions risk-weighted scoring (Pillar 1 worth ~50%, then decreasin
 
 ---
 
-### Phase 9: Analysis & Paper
+### Phase 8: Analysis & Paper
 
 - [ ] Analyse results in Jupyter notebooks (per-model scores, per-pillar breakdowns, interesting examples)
 - [ ] Identify "good", "bad", and "interesting" model responses for the paper

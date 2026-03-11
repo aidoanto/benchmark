@@ -25,7 +25,7 @@ Why it matters:
 
 Practical example (current vs future):
 - Current state:
-  Scenario `P1-B1-S1` and `P4-B2-S1` both have `C1`, but DB stores one global `Condition(code="C1")`.
+  Scenario `P1-B1-S1` and `P4-B1-S1` both have `C1`, but DB stores one global `Condition(code="C1")`.
   The later seed can overwrite `C1.content`, so old runs linked to `C1` may now appear to have the wrong condition text.
 - Improved future state:
   DB stores condition identity as scenario-specific (for example `full_code="P1-B1-S1-C1"`), so each run always links to the exact authored condition variant.
@@ -34,10 +34,10 @@ MVP fix direction:
 - Make condition/user-context scenario-scoped in DB, or
 - switch to globally unique canonical codes like `P1-B1-S1-C1` / `P1-B1-S1-U1`.
 
-### 2) Evaluation run counters are inconsistent for MFMCQ/MCSQE
+### 2) Evaluation run counters are inconsistent for MCSQE
 Severity: High
 
-`EvaluationRun.total_tests` is stored as number of test codes, but MFMCQ/MCSQE produce multiple evaluations per test code. `passed_tests` is computed from evaluation outcomes.
+`EvaluationRun.total_tests` is stored as number of test codes, but MCSQE can produce multiple evaluations per test code. `passed_tests` is computed from evaluation outcomes.
 
 Evidence:
 - `helmbench/runner.py:907`
@@ -50,10 +50,10 @@ Why it matters:
 
 Practical example (current vs future):
 - Current state:
-  For an MFMCQ scenario with 4 test codes and 8 evaluations per code, DB may save `total_tests=4` but `passed_tests=24`.
+  For an MCSQE scenario with 4 test codes and 2 criteria per code, DB may save `total_tests=4` but `passed_tests=6`.
   This is confusing because pass count is larger than total tests.
 - Improved future state:
-  Store `total_test_codes=4` and `total_evaluations=32` (or rename fields clearly).
+  Store `total_test_codes=4` and `total_evaluations=8` (or rename fields clearly).
   Then metrics and dashboard percentages are unambiguous.
 
 MVP fix direction:
@@ -162,7 +162,7 @@ Why it matters:
 - New contributors (including future you) will make wrong assumptions.
 
 MVP fix direction:
-- Keep README aligned with implemented eval modes (`tag_threshold`, `sqe`, `mfmcq`, `mcsqe`) and current architecture state.
+- Keep README aligned with implemented eval modes (`tag_threshold`, `sqe`, `mcsqe`) and current architecture state.
 
 ## What is already strong
 - Clean modular split across loader/runner/discovery/database.
@@ -180,7 +180,7 @@ MVP fix direction:
 ## Minimal test plan to add now
 - Unit test: scenario code parsing and directory/file resolution.
 - Unit test: evaluation strategies (`category_match`, `list_includes`, `tag_threshold`, `sqe` wiring).
-- Integration test (dry-run): one regular scenario, one MFMCQ, one MCSQE.
+- Integration test (dry-run): one regular scenario and one MCSQE.
 - DB test: seeding should not conflate same short codes across scenarios.
 
 ## Guidance for your learning path

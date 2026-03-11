@@ -5,7 +5,7 @@ filters:
 formulas:
   scenario_id: file.folder.split("/").reverse().slice(0, 1).join("")
   component_id: file.basename
-  component_type: if(file.ext == "json", "Output Schema", if(file.basename == "conditions", "Conditions", if(file.basename == "perturbations", "Perturbations", if(file.basename == "user-contexts", "User Contexts", if(file.basename == "criteria" || file.basename.startsWith("CR"), "Criteria", if(file.basename == "MCSQE" || file.basename == "MFMCQ" || file.basename.startsWith("S") || file.basename.startsWith("Q"), "Scenario Prompt", "Other"))))))
+  component_type: if(file.ext == "json", "Output Schema", if(file.basename == "conditions", "Conditions", if(file.basename == "perturbations", "Perturbations", if(file.basename == "user-contexts", "User Contexts", if(file.basename == "criteria" || file.basename.startsWith("CR"), "Criteria", if(file.basename == "MCSQE" || file.basename.startsWith("S"), "Scenario Prompt", "Other"))))))
   writing_state: if(file.ext == "json", if(file.size < 80, "Schema stub", "Schema ready"), if(file.size < 40, "Stub", if(file.size < 250, "Draft", "Developed")))
   needs_attention: formula.writing_state == "Schema stub" || formula.writing_state == "Stub" || formula.writing_state == "Draft"
   last_modified: file.mtime.relative()

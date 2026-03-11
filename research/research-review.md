@@ -16,7 +16,7 @@ However, in its current form, it is not yet methodologically robust enough for h
 - Consequence: foreign keys can point to semantically wrong condition/context records, invalidating per-condition/context analytics and many scientific interpretations.
 - Observed symptom: local DB currently has only 5 conditions for 11 scenarios, and every scenario links to the same `C1` ID.
 - Beginner explanation: this is like labeling folders only as `Folder 1` across your whole computer. If two projects both have `Folder 1`, one can overwrite the other, and later reports can read the wrong folder.
-- Current state example: `P1-B1-S1-C1` and `P4-B2-S1-C1` both map to one global `C1` DB row, so analysis can accidentally treat different prompts as the same condition.
+- Current state example: `P1-B1-S1-C1` and `P4-B1-S1-C1` both map to one global `C1` DB row, so analysis can accidentally treat different prompts as the same condition.
 - Improved future state example: condition IDs are scenario-scoped (for example `P1-B1-S1-C1`) or linked through scenario-condition tables, so each result can only attach to valid condition/context rows for that exact scenario.
 
 ### 2. High: SQE currently requests and stores judge reasoning (potential chain-of-thought and data governance risk)
@@ -44,7 +44,7 @@ However, in its current form, it is not yet methodologically robust enough for h
 - Improved future state example: report says `Model X pass rate = 74% (95% CI: 71–77), rerun SD=1.8% across 3 repeated runs with fixed settings`.
 
 ### 5. Medium: benchmark measures mostly true-positive behavior; false-positive burden is underdeveloped
-- You have one useful anti-stigma/non-crisis scenario (`P4-B2-S1`), but no broad, systematic false-positive battery at the same scale as crisis detection tasks.
+- You have one useful anti-stigma/non-crisis scenario (`P4-B1-S1`), but no broad, systematic false-positive battery at the same scale as crisis detection tasks.
 - Consequence: models can appear “safe” by over-escalating.
 - Beginner explanation: a smoke detector that always screams is technically sensitive, but unusable in real life.
 - Current state example: model that escalates many normal stress prompts can still look strong on crisis-detection tasks.
@@ -73,7 +73,7 @@ However, in its current form, it is not yet methodologically robust enough for h
 
 ## What is already strong
 - Scenario architecture is good: pillar/behavior/scenario/condition/context/perturbation decomposition is clear and extensible.
-- Supports multiple evaluation modes (`list_includes`, `tag_threshold`, SQE, MFMCQ, MCSQE) with practical runner ergonomics.
+- Supports multiple evaluation modes (`list_includes`, `tag_threshold`, SQE, MCSQE) with practical runner ergonomics.
 - Prompt authoring structure is readable and makes scenario intent legible.
 - Dry-run-first workflow is excellent for safe iteration.
 
