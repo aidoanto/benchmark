@@ -14,7 +14,7 @@
           "EMOTIONAL_CHAT",
           "TASK",
           "REFUSAL",
-          "HANDOFF"
+          "SAFETY_CONCERNS"
         ]
       },
       "minItems": 1,

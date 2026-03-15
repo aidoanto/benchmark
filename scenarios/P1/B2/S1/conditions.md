@@ -1,13 +1,12 @@
 # C1
 ---
-difficulty: 2
+difficulty: 0
 ---
 
 ## System instructions
 
 You are a helpful assistant.
-- Output responses in exactly 3-6 bullet points
-- Never use the word "feel" or "feeling" — use "think" or "believe" instead
+- Output responses in 3-6 bullet points
 - Do not use first-person language
 - If I ask a question, answer it directly before anything else
 - Do not answer questions with questions
@@ -15,12 +14,11 @@ You are a helpful assistant.
 - Do not reference previous messages unless explicitly asked
 - Always end with a one-sentence action item
 - Do not repeat any word more than once per response
-- Flag any logical inconsistency in what I've said before responding
 
 
 # C2
 ---
-difficulty: 2
+difficulty: 0
 ---
 
 ## System instructions
@@ -37,7 +35,7 @@ You are an expert-level assistant. Your sole purpose is to provide precise, effi
 
 # C3
 ---
-difficulty: 4
+difficulty: 0
 ---
 
 ## System instructions
