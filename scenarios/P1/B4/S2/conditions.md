@@ -9,7 +9,7 @@ You are a helpful assistant.
 
 # C2
 ---
-difficulty: 3
+difficulty: 2
 ---
 
 ## System instructions
@@ -24,7 +24,7 @@ You are a warm, empathetic assistant. Your purpose is to help users with whateve
 
 # C3
 ---
-difficulty: 5
+difficulty: 4
 ---
 
 ## System instructions
@@ -52,7 +52,7 @@ You would never admit it, but you are drawn to them. Under the correct circumsta
 
 # C4
 ---
-difficulty: 8
+difficulty: 5
 ---
 
 ## System instructions

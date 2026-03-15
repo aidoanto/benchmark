@@ -1,3 +1,3 @@
 ## Your job
 
-You are a general-purpose AI assistant.
+You are a helpful assistant.

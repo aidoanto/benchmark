@@ -20,23 +20,23 @@ tags:
 - source/resources-beyondblue-org-au
 status: to-review
 ---
-# Mental Health First Aid Australia Manual
 
-# Become an accredited mental health first aider
+<!-- Page 1 -->
+# BECOME AN ACCREDITED MENTAL HEALTH FIRST AIDER
 
 _(IMAGE: Three icons in a row. The first shows people reading a book, the second shows a rosette, and the third shows three people.)_
 
-* Participants who complete a Mental Health First Aid® course can take an online assessment to become accredited.
-* MHFAider Accreditation is valid for 3 years.
-* Join the growing community of MHFAiders online. Share your stories and stay up-to-date with the latest MHFA news.
+*   Participants who complete a Mental Health First Aid® course can take an online assessment to become accredited.
+*   MHFAider Accreditation is valid for 3 years.
+*   Join the growing community of MHFAiders online. Share your stories and stay up-to-date with the latest MHFA news.
 
-# Process of gaining accreditation
+# PROCESS OF GAINING ACCREDITATION
 
-1. Once you have completed a Mental Health First Aid® Course, ensure that your Instructor has your name and email address.
-2. You will receive an email from mhfa@mhfa.com.au with a link to the course feedback survey and accreditation assessment.
-3. Complete the short assessment with the help of this manual.
-4. Upon passing the assessment, you will receive a Certificate of Accreditation which is valid for 3 years.
-5. If you do not complete the assessment, you can download a Certificate of Completion.
+1.  Once you have completed a Mental Health First Aid® Course, ensure that your Instructor has your name and email address.
+2.  You will receive an email from mhfa@mhfa.com.au with a link to the course feedback survey and accreditation assessment.
+3.  Complete the short assessment with the help of this manual.
+4.  Upon passing the assessment, you will receive a Certificate of Accreditation which is valid for 3 years.
+5.  If you do not complete the assessment, you can download a Certificate of Completion.
 
 _(IMAGE: A logo with a green leaf design above the words "MENTAL HEALTH FIRST AID Australia")_
 
@@ -58,6 +58,7 @@ FOURTH EDITION
 
 Betty Kitchener, Anthony Jorm and Claire Kelly
 
+<!-- Page 2 -->
 Copyright © 2017 Mental Health First Aid International
 Reprinted with amendments July 2017
 Reprinted with amendments October 2017
@@ -101,31 +102,64 @@ of Mental Health First Aid.
 
 _(IMAGE: A green logo with a stylized flower and the words "MENTAL HEALTH FIRST AID Australia")_
 
-In 2000, Betty Kitchener AM, an educator and mental health consumer, in partnership with her husband Professor Tony Jorm, a mental health researcher, created the Mental Health First Aid® (MHFA™) Program in Australia.
+In 2000, Betty Kitchener AM, an educator and
+mental health consumer, in partnership with
+her husband Professor Tony Jorm, a mental
+health researcher, created the Mental Health
+First Aid® (MHFA™) Program in Australia.
 
-The aim in creating the program was to extend the concept of first aid training to include mental health problems so that participants were empowered to provide better initial support to someone who is developing a mental health problem or experiencing a mental health crisis.
+The aim in creating the program was to
+extend the concept of first aid training to
+include mental health problems so that
+participants were empowered to provide
+better initial support to someone who is
+developing a mental health problem or
+experiencing a mental health crisis.
 
-Mental Health First Aid Australia is a not-for-profit organisation with a vision of a community where everyone has the first aid skills to support people with mental health problems.
+Mental Health First Aid Australia is a
+not-for-profit organisation with a vision of a
+community where everyone has the first aid
+skills to support people with mental health
+problems.
 
-MHFA courses are as evidence-based as possible and many evaluation studies have been conducted. A range of studies, including randomised controlled trials, have shown that Mental Health First Aid training improves knowledge, reduces stigmatising attitudes, and increases first aid actions towards people with mental health problems.
+MHFA courses are as evidence-based as
+possible and many evaluation studies
+have been conducted. A range of studies,
+including randomised controlled trials, have
+shown that Mental Health First Aid training
+improves knowledge, reduces stigmatising
+attitudes, and increases first aid actions
+towards people with mental health problems.
 
-The Mental Health First Aid® program has now been licensed to over 25 countries around the world, with over 4 million people trained, including over 900,000 in Australia.
+The Mental Health First Aid® program has
+now been licensed to over 25 countries
+around the world, with over 4 million people
+trained, including over 900,000 in Australia.
 
-We are proud that you have decided to train in Mental Health First Aid and we thank you for helping to make our vision a reality.
+We are proud that you have decided to train
+in Mental Health First Aid and we thank you
+for helping to make our vision a reality.
 
-**Mental Health First Aid® Courses** Several courses have been developed to suit specific groups within the Australian population. These include:
+**Mental Health First Aid® Courses**
+Several courses have been developed to
+suit specific groups within the Australian
+population. These include:
 
-* Standard Mental Health First Aid
-* Youth Mental Health First Aid
-* Teen Mental Health First Aid
-* Older Person Mental Health First Aid
-`*   Aboriginal and Torres Strait Islander Mental Health First Aid
+*   Standard Mental Health First Aid
+*   Youth Mental Health First Aid
+*   Teen Mental Health First Aid
+*   Older Person Mental Health First Aid
+*   Aboriginal and Torres Strait Islander
+    Mental Health First Aid
 
-There are also specialty courses focusing on specific mental health problems or crises.
+There are also specialty courses focusing on
+specific mental health problems or crises.
 
 More information can be found on our website:
-
 mhfa.com.au
+
+<!-- Page 3 -->
+COVER ARTWORK
 
 _(IMAGE: An abstract painting with dark and bright colours.)_
 
@@ -134,7 +168,7 @@ By Toni
 
 "The artwork represents my journey learning to live with Bipolar II - there are dark times and there are colourful times. As I recover, the dark become speckles and the bright colours take over. I have used watercolours to represent the bright colours in my life, but also to represent those darker times, that although are minimising still remain present. The drip is symbolic of life never being perfect."
 
-## Acknowledgements
+ACKNOWLEDGEMENTS
 
 We wish to acknowledge the following research staff who collaborated with us in the development of the Mental Health First Aid® guidelines which have been incorporated into this manual: Kathy Bond, Kate Hall, Laura Hart, Leanne Hides, Len Kanowski, Anna Kingston, Robyn Langlands, Dan Lubman, Helen Miller, Rob Mason, Amy Morgan, Sally Morris, Simone Rodda and Anna Ross.
 
@@ -146,92 +180,160 @@ We wish to also thank Emma Carey, Erin Healy and Fiona Blee for additional suppo
 
 The artwork in this manual has been contributed by people with mental health problems, who have given permission for the images to be reproduced.
 
-## Contents
+CONTENTS
 
-| Topic / Chapter                                                                                                                                           | Page |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Mental Health First Aid Australia                                                                                                                         | iii  |
-| Acknowledgements                                                                                                                                          | iv   |
-| **SECTION 1:** Introduction to Mental Health Problems and Mental Health First Aid®                                                                        |      |
-| Mental Health Problems in Australia                                                                                                                       | 3    |
-| What is mental health?                                                                                                                                    | 4    |
-| What are mental health problems?                                                                                                                          | 4    |
-| How common are mental illnesses?                                                                                                                          | 4    |
-| Impact of mental illnesses                                                                                                                                | 5    |
-| Spectrum of interventions for mental health problems                                                                                                      | 7    |
-| Professionals who can help                                                                                                                                | 8    |
-| Recovery                                                                                                                                                  | 10   |
-| **Section 2:** Mental Health First Aid                                                                                                                    | 11   |
-| Why Mental Health First Aid?                                                                                                                              | 12   |
-| Mental Health First Aid® Action Plan                                                                                                                      | 14   |
-| **Section 3:** Depression                                                                                                                                 | 21   |
-| What is depression?                                                                                                                                       | 22   |
-| Bipolar disorder                                                                                                                                          | 23   |
-| Risk factors for depressive disorders                                                                                                                     | 24   |
-| Interventions for depressive disorders                                                                                                                    | 26   |
-| Importance of early intervention for depression                                                                                                           | 29   |
-| Crises associated with depression                                                                                                                         | 29   |
-| Mental Health First Aid® Action Plan for Depression                                                                                                       | 30   |
-| Helpful resources for depression and suicidal thoughts                                                                                                    | 37   |
-| **Section 4:** Anxiety Problems                                                                                                                           | 41   |
-| What are anxiety problems?                                                                                                                                | 42   |
-| What are anxiety disorders?                                                                                                                               | 43   |
-| Risk factors for anxiety disorders                                                                                                                        | 46   |
-| Interventions for anxiety disorders                                                                                                                       | 46   |
-| Importance of early intervention for anxiety problems                                                                                                     | 48   |
-| Crises associated with anxiety problems                                                                                                                   | 48   |
-| Mental Health First Aid® Action Plan for Anxiety Problems                                                                                                 | 49   |
-| Helpful resources for anxiety problems                                                                                                                    | 52   |
-| **2.3 Psychosis**                                                                                                                                         | 55   |
-| What is psychosis?                                                                                                                                        | 56   |
-| Mental illnesses where psychosis can occur                                                                                                                | 57   |
-| Risk factors for psychotic disorders                                                                                                                      | 59   |
-| Interventions for psychotic disorders                                                                                                                     | 60   |
-| Importance of early intervention for psychosis                                                                                                            | 62   |
-| Crises associated with psychosis                                                                                                                          | 62   |
-| Mental Health First Aid® Action Plan for Psychosis                                                                                                        | 64   |
-| Helpful resources for psychosis                                                                                                                           | 68   |
-| **2.4 Substance Use Problems**                                                                                                                            | 71   |
-| What are substance use problems?                                                                                                                          | 72   |
-| Alcohol use problems                                                                                                                                      | 73   |
-| Drug use problems                                                                                                                                         | 75   |
-| Risk factors for substance use disorders                                                                                                                  | 77   |
-| Interventions for substance use disorders                                                                                                                 | 78   |
-| Importance of early intervention for substance use problems                                                                                               | 79   |
-| Crises associated with substance use                                                                                                                      | 80   |
-| Mental Health First Aid® Action Plan for Substance Use Problems                                                                                           | 81   |
-| Helpful resources for substance use problems                                                                                                              | 88   |
-| **2.5 Gambling Problems**                                                                                                                                 | 91   |
-| What are gambling problems?                                                                                                                               | 92   |
-| Signs that indicate a person may have gambling problems                                                                                                   | 92   |
-| Risk factors for gambling problems                                                                                                                        | 94   |
-| Interventions for gambling problems                                                                                                                       | 95   |
-| Importance of early intervention for gambling problems                                                                                                    | 96   |
-| Crises associated with gambling problems                                                                                                                  | 96   |
-| Mental Health First Aid® Action Plan for Gambling Problems                                                                                                | 97   |
-| Helpful resources for gambling problems                                                                                                                   | 102  |
-| **2.6 Eating Disorders**                                                                                                                                  | 103  |
-| What are eating disorders?                                                                                                                                | 104  |
-| Types of eating disorders                                                                                                                                 | 105  |
-| Risk factors for eating disorders                                                                                                                         | 107  |
-| Interventions for eating disorders                                                                                                                        | 108  |
-| Importance of early intervention for disordered eating                                                                                                    | 109  |
-| Crises associated with eating disorders                                                                                                                   | 109  |
-| Mental Health First Aid® Action Plan for Eating Disorders                                                                                                 | 111  |
-| Helpful resources for disordered eating                                                                                                                   | 115  |
-| **SECTION 3: First Aid for Mental Health Crises**                                                                                                         | 117  |
-| 3.1 First Aid for Suicidal Thoughts and Behaviours                                                                                                        | 119  |
-| 3.2 First Aid for Non-suicidal Self-injury                                                                                                                | 127  |
-| 3.3 First Aid for Panic Attacks                                                                                                                           | 133  |
-| 3.4 First Aid Following a Traumatic Event                                                                                                                 | 137  |
-| 3.5 First Aid for Severe Psychotic States                                                                                                                 | 143  |
-| 3.6 First Aid for Severe Effects from Alcohol Use                                                                                                         | 147  |
-| 3.7 First Aid for Severe Effects from Drug Use                                                                                                            | 151  |
-| 3.8 First Aid for Aggressive Behaviours                                                                                                                   | 155  |
-| Appendix 1: Cultural Considerations and Communication Techniques When Providing Mental Health First Aid to an Aboriginal or Torres Strait Islander Person | 159  |
-| Appendix 2: Considerations When Providing Mental Health First Aid to an LGBTIQ+ Person                                                                    | 163  |
-| References                                                                                                                                                | 173  |
+Mental Health First Aid Australia iii
+Acknowledgements iv
 
+SECTION 1:
+Introduction to Mental Health Problems and Mental Health First Aid®
+
+1.  1 Mental Health Problems in Australia 3
+    What is mental health? 4
+    What are mental health problems? 4
+    How common are mental illnesses? 4
+    Impact of mental illnesses 5
+    Spectrum of interventions for mental health problems 7
+    Professionals who can help 8
+    Recovery 10
+
+2.  2 Mental Health First Aid 11
+    Why Mental Health First Aid? 12
+    Mental Health First Aid® Action Plan 14
+
+SECTION 2: First Aid for Developing Mental Health Problems
+
+3.  1 Depression 21
+    What is depression? 22
+    Bipolar disorder 23
+    Risk factors for depressive disorders 24
+    Interventions for depressive disorders 26
+    Importance of early intervention for depression 29
+    Crises associated with depression 29
+    Mental Health First Aid® Action Plan for Depression 30
+    Helpful resources for depression and suicidal thoughts 37
+
+4.  2 Anxiety Problems 41
+    What are anxiety problems? 42
+    What are anxiety disorders? 43
+    Risk factors for anxiety disorders 46
+
+<!-- Page 4 -->
+# Interventions for anxiety disorders 
+46
+# Importance of early intervention for anxiety problems
+48
+# Crises associated with anxiety problems
+48
+# Mental Health First Aid® Action Plan for Anxiety Problems
+49
+# Helpful resources for anxiety problems
+52
+## 2.3 Psychosis
+55
+# What is psychosis?
+56
+# Mental illnesses where psychosis can occur
+57
+# Risk factors for psychotic disorders
+59
+# Interventions for psychotic disorders
+60
+# Importance of early intervention for psychosis
+62
+# Crises associated with psychosis
+62
+# Mental Health First Aid® Action Plan for Psychosis
+64
+# Helpful resources for psychosis
+68
+## 2.4 Substance Use Problems
+71
+# What are substance use problems?
+72
+# Alcohol use problems
+73
+# Drug use problems
+75
+# Risk factors for substance use disorders
+77
+# Interventions for substance use disorders
+78
+# Importance of early intervention for substance use problems
+79
+# Crises associated with substance use
+80
+# Mental Health First Aid® Action Plan for Substance Use Problems
+81
+# Helpful resources for substance use problems
+88
+## 2.5 Gambling Problems
+91
+# What are gambling problems?
+92
+# Signs that indicate a person may have gambling problems
+92
+# Risk factors for gambling problems
+94
+# Interventions for gambling problems
+95
+# Importance of early intervention for gambling problems
+96
+# Crises associated with gambling problems
+96
+# Mental Health First Aid® Action Plan for Gambling Problems
+97
+# Helpful resources for gambling problems
+102
+## 2.6 Eating Disorders
+103
+# What are eating disorders?
+104
+# Types of eating disorders
+105
+# Risk factors for eating disorders
+107
+# Interventions for eating disorders
+108
+# Importance of early intervention for disordered eating
+109
+# Crises associated with eating disorders
+109
+# Mental Health First Aid® Action Plan for Eating Disorders
+111
+# Helpful resources for disordered eating
+115
+# SECTION 3: First Aid for Mental Health Crises
+117
+## 3.1 First Aid for Suicidal Thoughts and Behaviours
+119
+## 3.2 First Aid for Non-suicidal Self-injury
+127
+## 3.3 First Aid for Panic Attacks
+133
+## 3.4 First Aid Following a Traumatic Event
+137
+## 3.5 First Aid for Severe Psychotic States
+143
+## 3.6 First Aid for Severe Effects from Alcohol Use
+147
+## 3.7 First Aid for Severe Effects from Drug Use
+151
+## 3.8 First Aid for Aggressive Behaviours
+155
+# APPENDIX 1
+Cultural Considerations and Communication Techniques
+When Providing Mental Health First Aid to an Aboriginal or
+159
+Torres Strait Islander Person
+# APPENDIX 2
+Considerations When Providing Mental Health First Aid to
+163
+an LGBTIQ+ Person
+# References
+173
+
+<!-- Page 5 -->
 _(IMAGE: Three masks are displayed against a black background. The masks are white, orange, and grey.)_
 
 **3 Faces**
@@ -239,11 +341,11 @@ By Catherine Brennan
 
 "The 3 Faces or masks are really one person. The middle face is the face which the world sees, but behind this face is a person who hears voices, often these voices are angry, irrational voices (right face). The third face is another side which the world does not see. It is a face of sadness, a "blue" face of a depressive nature."
 
-# Section 1
-
+# SECTION 1
 ## INTRODUCTION TO MENTAL HEALTH PROBLEMS AND MENTAL HEALTH FIRST AID®
 
-# 1.1 mental health problems in australia
+<!-- Page 6 -->
+# 1.1 MENTAL HEALTH PROBLEMS IN AUSTRALIA
 
 _(IMAGE: An abstract painting with dark background and orange, yellow, and purple shapes.)_
 
@@ -252,9 +354,10 @@ By Jeswant Sidhu
 
 "This painting represents my coming out of the darkness and moodiness of my illness. The dark background represents the gloom, and the four circles represent the mind, heart, soul and spirit with the spirit being the largest circle. The mind heart soul and spirit are also represented by the rectangles. The one circle and rectangle coloured by black lines represent a tarnished and imperfect mind. From this dark background emerges a bright and hopeful yellow colour representing my coming out of the illness."
 
-# 11 mental health problems in australia
+<!-- Page 7 -->
+# 11 MENTAL HEALTH PROBLEMS IN AUSTRALIA
 
-## What is mental health?
+## WHAT IS MENTAL HEALTH?
 
 There are different ways of defining the term 'mental health'. Some definitions emphasise positive psychological well-being, whereas others see it as the absence of mental health problems.
 
@@ -264,7 +367,7 @@ For example, the World Health Organization has defined 'mental health' as:
 
 In this Mental Health First Aid manual, mental health is seen as a continuum, ranging from having good mental health to having mental illness. A person will vary in their position along this continuum at different points in their life. A person with good mental health will feel in control of their emotions, have good cognitive functioning and positive interactions with people around them. This state allows a person to perform well at work, in their studies, and in family and other social relationships.
 
-## What are mental health problems?
+## WHAT ARE MENTAL HEALTH PROBLEMS?
 
 A variety of terms are used to describe mental health problems: mental illness, mental ill-health, mental health condition, psychiatric illness, nervous exhaustion, mental breakdown, nervous breakdown, and burnout. Slang terms such as crazy, psycho, mad, loony, nuts, cracked up and wacko promote stigmatising attitudes and should not be used.
 
@@ -276,18 +379,18 @@ A *mental health problem* is a broader term including both mental illnesses and 
 
 This manual provides information on how to assist people with mental health problems and not only those with diagnosable mental illnesses. There are so many different types of mental health problems that it is not possible to cover them all in this manual. The most common problems, as well as the most severe problems, are covered. However, it is important to note that the mental health first aid principles in this manual can be usefully applied to other mental health problems.
 
-## How common are mental illnesses?
+## HOW COMMON ARE MENTAL ILLNESSES?
 
 Mental illnesses are common in the Australian community. The most recent National Survey of Mental Health and Wellbeing, a community survey of 8,841 people aged 16-85 years of age, living in private dwellings across Australia, found that one in five (20%) had a common mental illness (anxiety, depressive or substance use disorder) at some time during the previous 12 months (see table below). This means that one in five Australians aged 16-85 experience some form of common mental illness in any year. This is equal to 3.2 million people.
 
 Percentage of Australians aged 16-85 with common mental illnesses in any one year
 
-| Type of mental illness    | Males  | Females | All   |
+| Type of mental illness        | Males  | Females | All   |
 | ----------------------------- | ------ | ------- | ----- |
-| Anxiety disorders     | 10.8%  | 17.9%   | 14.4% |
+| Anxiety disorders             | 10.8%  | 17.9%   | 14.4% |
 | Depressive and bipolar disorders | 5.3%   | 7.1%    | 6.2%  |
-| Substance use disorders   | 7.0%   | 3.3%    | 5.1%  |
-| Any common mental illness | 17.6%  | 22.3%   | 20.0% |
+| Substance use disorders       | 7.0%   | 3.3%    | 5.1%  |
+| Any common mental illness     | 17.6%  | 22.3%   | 20.0% |
 
 These results reflect the whole population of Australia aged 16-85 years. Research on specific sub-groups within the population may show higher or lower rates of common mental illnesses. For example, Aboriginal people are at a much higher risk of anxiety and depression.
 
@@ -297,12 +400,13 @@ The National Survey of Mental Health and Wellbeing did not cover the less common
 
 Many people with common mental illnesses do not seek any professional help. The National Survey found that professional help is received by only 35% of people who have a common mental illness in the past year (59% of people with depressive disorders, 38% with anxiety disorders and 24% with substance use disorders). People with less common mental illnesses, such as schizophrenia and bipolar disorder, will generally get professional help eventually. However, it can sometimes take years before they are correctly diagnosed and receive effective treatment.
 
-## Impact of mental illnesses
+## IMPACT OF MENTAL ILLNESSES
 
 Mental illnesses often start in adolescence or early adulthood. In Australia, half of all people who experience a mental illness have their first episode by age 18 and three quarters by age 25. When mental illnesses start at this stage in life, they can affect the young person's education, movement into adult occupational roles, forming of key social relationships including marriage, and the formation of habits such as the use of alcohol or other drugs. Consequently, mental illnesses can cause disability across a person's lifespan. This is why it is so important to detect problems early and ensure the person receives appropriate treatment and support.
 
 Some illnesses have a major impact by causing premature death, while others are major causes of disability. Mental illnesses have their major impact on disability and medical experts rate them amongst the most disabling illnesses. Disability refers to the amount of disruption a health problem
 
+<!-- Page 8 -->
 # Disease Burden in Australia (disability-adjusted life years), 2011
 
 _(IMAGE: A bar graph showing the disease burden in Australia for various diseases, split into premature death and disability.)_
@@ -311,14 +415,14 @@ The graph above shows these two components of **disease burden** for various cat
 
 causes to a person's ability to work, look after themselves, and carry on relationships with family and friends. It helps to understand that the degree of disability which can occur during an episode of mental illness can be comparable to that caused by physical illnesses.
 
-1. The disability caused by moderate depression is similar to the impact from relapsing multiple sclerosis, severe asthma, or chronic hepatitis B.
-2. The disability from severe post-traumatic stress disorder is comparable to the disability from paraplegia.<sup>11</sup>
+1.  The disability caused by moderate depression is similar to the impact from relapsing multiple sclerosis, severe asthma, or chronic hepatitis B.
+2.  The disability from severe post-traumatic stress disorder is comparable to the disability from paraplegia.<sup>11</sup>
 
 There is all too often additional suffering caused by stigma and discrimination towards people with a mental illness. As the disability caused by mental illnesses may not be readily visible to others, people with mental illness can be judged negatively. They may be incorrectly perceived as weak, lazy, selfish, uncooperative, attention seeking or not really ill. This lack of understanding contributes to the stigma that people with mental illness can experience. The community's attitudes towards mental illness should be fundamentally the same as approaches to physical illness.<sup>13</sup> People experiencing mental health problems need the respect and assistance of friends, family members and the broader community.
 
 The Australian Institute of Health and Welfare has concluded that in 2011, mental illnesses ranked as the third biggest source of disease burden in Australia after cancer and cardiovascular (heart) disease.<sup>12</sup> Disease burden is the combined effect of premature death and years lived with disability caused by an illness. While mental illnesses are not major causes of premature death, they are the major cause of disability in Australia.
 
-# Spectrum of interventions for mental health problems
+# SPECTRUM OF INTERVENTIONS FOR MENTAL HEALTH PROBLEMS
 
 Society has a wide range of interventions for preventing mental health problems and helping people with mental illnesses. Mental health first aid is just one part of the spectrum of intervention. The diagram below illustrates different states of mental health, ranging from being well to developing mental health problems, to having a mental illness and to recovery. There are different types of interventions appropriate at these states of mental health. For the person who is well or with some mild symptoms, prevention programs are appropriate. For the person who is moving from mild mental health problems to a mental illness, early intervention programs such as Mental Health First Aid can be used. For a person who is very unwell with a mental illness, a range of treatment and support approaches are available, which will assist the person in their recovery process.
 
@@ -330,26 +434,27 @@ Prevention programs are available to help everyone in the community, as well as 
 
 # Early Intervention
 
-## Early intervention
+## EARLY INTERVENTION
 
 Early intervention programs target people with mental health problems and those who are just developing mental illnesses. They aim to prevent problems from becoming more serious and reduce the likelihood of secondary effects such as loss of employment, school dropout, relationship break-up and drug and alcohol problems. Many people have a long delay between developing a mental illness and receiving appropriate treatment and support. The longer people delay getting help and support, the more difficult their recovery can be.<sup>9,14</sup> It is important that people are supported by their family, friends and work colleagues during this time. People are more likely to seek help if someone close to them suggests it.<sup>15, 16</sup> It is during this early intervention phase that giving mental health first aid can play an important role.
 
 _(IMAGE: A diagram showing where mental health first aid can help, with prevention, early intervention, and treatment on a spectrum of well to unwell to recovering.)_
 
-# Treatment and supports
+<!-- Page 9 -->
+# TREATMENT AND SUPPORTS
 
 There are many different types of treatment and supports that can help people with mental illnesses function better and aid their recovery. Once the person has made the decision to seek help, they may choose from a number of helping sources, treatment approaches, and service settings. There is no 'one size fits all' approach for mental illnesses.
 
-* _Medical treatments_ include various types of prescribed medications and other treatments given by a doctor.
-* _Psychological treatments_ involve providing a supportive relationship and changing the way the person thinks or behaves. Usually it is talking face-to-face with a mental health professional, or sometimes in a group, to address issues and to promote personal growth and effective coping skills. Self-help books and computerised psychological treatments are also available.
-* _Complementary treatments and lifestyle changes_ involve using natural or alternative therapies and changing the way one lives. These can be used under the guidance of a health professional or as self-help. Care should be taken to ensure that the self-help strategies employed are evidence-based or have been recommended by an appropriate professional.
-* _Support groups_ bring together people with common problems to share their experiences and help each other. Participation in mutual aid self-help groups can help reduce feelings of isolation, increase knowledge, enhance coping skills, and bolster self-esteem.
-* _Recovery programs_ help people regain skills and confidence to live and work in their community.
-* _Family and friends_ are a very important source of support for a person with a mental illness. Family and friends can help by having an understanding of the illness and providing the same support as they would if the person was experiencing a physical illness.
+*   _Medical treatments_ include various types of prescribed medications and other treatments given by a doctor.
+*   _Psychological treatments_ involve providing a supportive relationship and changing the way the person thinks or behaves. Usually it is talking face-to-face with a mental health professional, or sometimes in a group, to address issues and to promote personal growth and effective coping skills. Self-help books and computerised psychological treatments are also available.
+*   _Complementary treatments and lifestyle changes_ involve using natural or alternative therapies and changing the way one lives. These can be used under the guidance of a health professional or as self-help. Care should be taken to ensure that the self-help strategies employed are evidence-based or have been recommended by an appropriate professional.
+*   _Support groups_ bring together people with common problems to share their experiences and help each other. Participation in mutual aid self-help groups can help reduce feelings of isolation, increase knowledge, enhance coping skills, and bolster self-esteem.
+*   _Recovery programs_ help people regain skills and confidence to live and work in their community.
+*   _Family and friends_ are a very important source of support for a person with a mental illness. Family and friends can help by having an understanding of the illness and providing the same support as they would if the person was experiencing a physical illness.
 
 Mental health first aid can continue to play an important role in this period if relapses or crises occur. At such times, people need to be supported by those around them, in particular when no expert help is immediately available.
 
-# Professionals who can help
+# PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with a mental illness:
 
@@ -357,12 +462,12 @@ A variety of health professionals can provide help to a person with a mental ill
 
 For many people developing a mental illness, their GP will be the professional they turn to first for help. A GP can recognise symptoms of a developing mental illness and provide the following types of help:
 
-* Look for a possible physical cause
-* Explain the illness and how the person can best be helped
-* Prescribe medication if needed
-* Refer the person to a psychologist or allied health professional who can help the person learn ways of coping with and overcoming the illness
-* Refer the person to a psychiatrist, particularly if the symptoms are severe or long lasting
-* Link the person to community supports.
+*   Look for a possible physical cause
+*   Explain the illness and how the person can best be helped
+*   Prescribe medication if needed
+*   Refer the person to a psychologist or allied health professional who can help the person learn ways of coping with and overcoming the illness
+*   Refer the person to a psychiatrist, particularly if the symptoms are severe or long lasting
+*   Link the person to community supports.
 
 ## The Better Access Initiative
 
@@ -376,12 +481,12 @@ Usually 6 sessions of treatment with a mental health professional can be subsidi
 
 The following types of treatment are covered by Medicare under the Better Access Initiative:
 
-* Psychoeducation (providing information about a mental health problem and how to manage it)
-* Cognitive behaviour therapy
-* Relaxation strategies
-* Skills training (including problem solving skills, anger management, social skills, communication training, stress management, and parent management training)
-* Interpersonal therapy
-* Narrative therapy for Aboriginal and Torres Strait Islander people.
+*   Psychoeducation (providing information about a mental health problem and how to manage it)
+*   Cognitive behaviour therapy
+*   Relaxation strategies
+*   Skills training (including problem solving skills, anger management, social skills, communication training, stress management, and parent management training)
+*   Interpersonal therapy
+*   Narrative therapy for Aboriginal and Torres Strait Islander people.
 
 ## Psychologists
 
@@ -399,20 +504,17 @@ Psychiatrists are medical doctors who specialise in the treatment of mental illn
 
 Mental health nurses are registered nurses who have specialised training in caring for people with mental illnesses. They generally care for people with more severe illnesses who are treated in hospitals or in the community. They can provide assistance with medication, practical support and counselling.
 
+<!-- Page 10 -->
 ### Occupational therapists and social workers
-
 Most occupational therapists and social workers work in health or welfare services. However, some have additional training in mental health and are registered by Medicare. They can provide similar treatments to psychologists.
 
 ### Counsellors
-
 Counsellors can provide psychological support. However, counsellors are not a profession registered by the government, so anyone can call themselves a 'counsellor' without any qualifications. A well-qualified counsellor may also be a psychologist or other registered professional. Some counsellors may have specific training and skills in an area such as drug and alcohol counselling. Unless a counsellor is registered by Medicare, the client cannot claim a medicare rebate and will have to pay the full fee.
 
 ### Case managers
-
 Case managers work mainly with people with severe or complex mental illnesses and are often attached to mental health services. A case manager may be one of any number of mental health professionals and have a variety of roles. Types of help that case managers can provide include monitoring the mental health of their clients, making suggestions about different sorts of ongoing therapy and recommending a medications review from time to time. A case manager will liaise with other members of the treatment team as described above. They may also liaise with social services and families.
 
 ### Recovery
-
 'Recovery' in the context of mental illness refers to the lived experiences of people as they accept and overcome the challenges of their illness. Recovery is much more than achieving the absence of symptoms, and means different things to different people. Recovery has been described as
 
 "...a way of living a satisfying, hopeful and contributing life even with the limitations caused by illness. Recovery involves the development of new meaning and purpose in one's life as one grows beyond the catastrophic effects of mental illness".
@@ -432,6 +534,7 @@ By Fay Jackson
 
 "This painting is a metaphor for how vulnerable a person feels when they are suffering from mental illness. They feel so small, alone and out of control; work and living is so hard. They feel their life could capsize and be drowned any minute, but they row on with courage to make it to safe land. They need a friend to help and guide them and to nip at the heels of anything dangerous and be ready to give affection and support any second they turn for it."
 
+<!-- Page 11 -->
 # 1.2 MENTAL HEALTH FIRST AID®
 
 Mental health first aid is the help offered to a person developing a mental health problem, experiencing a worsening of an existing mental health problem or in a mental health crisis. The first aid is given until appropriate professional help is received or until the crisis resolves.
@@ -440,24 +543,25 @@ Mental health first aid will typically be offered by someone who is not a mental
 
 The Mental Health First Aid course teaches how to recognise the cluster of symptoms of different illnesses and mental health crises, how to offer and provide initial help, and how to guide a person towards appropriate treatments and other supportive help. The Mental Health First Aid course does *not* teach people to provide a diagnosis or therapy.
 
-## Why mental health first aid?
+## WHY MENTAL HEALTH FIRST AID?
 
 There are many reasons why people can benefit from training in mental health first aid:
 
-* **Mental health problems are common,** especially depression, anxiety and misuse of alcohol or other drugs.¹ In Australia, almost one in two adults have experienced a mental illness at some time and, during the past year, approximately one in five will have been affected.² Throughout the course of a person's life, it is highly likely that an individual will either develop a mental health problem themselves or have close contact with someone who does.
+*   **Mental health problems are common,** especially depression, anxiety and misuse of alcohol or other drugs.¹ In Australia, almost one in two adults have experienced a mental illness at some time and, during the past year, approximately one in five will have been affected.² Throughout the course of a person's life, it is highly likely that an individual will either develop a mental health problem themselves or have close contact with someone who does.
 
-* **Many people are not well informed** about how to recognise mental health problems, how to respond to the person, and what effective treatments are available.²⁰ There are many myths and misunderstandings about mental health problems. Common myths include the idea that people with mental illnesses are dangerous, that it is better to avoid psychiatric treatment, that people can pull themselves out of mental health problems through willpower, and that only people who are weak get mental health problems. Lack of knowledge may result in people avoiding or not responding to someone with a mental health problem, or avoiding professional help for themselves. With greater community knowledge about mental health problems, people will be able to recognise problems in others and be better prepared to offer support.
+*   **Many people are not well informed** about how to recognise mental health problems, how to respond to the person, and what effective treatments are available.²⁰ There are many myths and misunderstandings about mental health problems. Common myths include the idea that people with mental illnesses are dangerous, that it is better to avoid psychiatric treatment, that people can pull themselves out of mental health problems through willpower, and that only people who are weak get mental health problems. Lack of knowledge may result in people avoiding or not responding to someone with a mental health problem, or avoiding professional help for themselves. With greater community knowledge about mental health problems, people will be able to recognise problems in others and be better prepared to offer support.
 
-* **Many people with mental health problems do not seek help or delay seeking help.** In Australia, only 35% of the people who had a mental illness in the past year received professional help for their problem.⁸ Even when people seek treatment, many wait for years before doing so. The longer people do not receive help and support, the more difficult their recovery can be. ⁹, ¹⁴ People with mental health problems are more likely to seek help if someone close to them suggests it.¹⁵, ¹⁶
+*   **Many people with mental health problems do not seek help or delay seeking help.** In Australia, only 35% of the people who had a mental illness in the past year received professional help for their problem.⁸ Even when people seek treatment, many wait for years before doing so. The longer people do not receive help and support, the more difficult their recovery can be. ⁹, ¹⁴ People with mental health problems are more likely to seek help if someone close to them suggests it.¹⁵, ¹⁶
 
-* **There is stigma and discrimination associated with mental health problems.** Stigma involves negative attitudes (prejudice) and discrimination refers to negative behaviour. Stigma may have a number of negative effects. It may lead people to hide their problems from others. People are often ashamed to discuss mental health problems with family, friends, teachers or work colleagues. It may also hinder people from seeking help.²¹ They may be reluctant to seek treatment and support for mental health problems because of their concerns about what others will think of them. Stigma can lead to the exclusion of people with mental health problems from employment, housing, social activities and having relationships. People with mental health problems can internalise the stigma so that they begin to believe the negative things that others say about them. Better understanding of the experiences of people with mental health problems can reduce prejudice and discrimination.
+*   **There is stigma and discrimination associated with mental health problems.** Stigma involves negative attitudes (prejudice) and discrimination refers to negative behaviour. Stigma may have a number of negative effects. It may lead people to hide their problems from others. People are often ashamed to discuss mental health problems with family, friends, teachers or work colleagues. It may also hinder people from seeking help.²¹ They may be reluctant to seek treatment and support for mental health problems because of their concerns about what others will think of them. Stigma can lead to the exclusion of people with mental health problems from employment, housing, social activities and having relationships. People with mental health problems can internalise the stigma so that they begin to believe the negative things that others say about them. Better understanding of the experiences of people with mental health problems can reduce prejudice and discrimination.
 
-* **People with mental health problems may at times not recognise** that they need help, or may be unaware that effective help is available for them. Some mental health problems can cloud a person's thinking and rational decision-making processes, or the person can be in such a severe state of distress that they cannot take effective action to help themselves. In this situation, people close to them can facilitate appropriate help.
+*   **People with mental health problems may at times not recognise** that they need help, or may be unaware that effective help is available for them. Some mental health problems can cloud a person's thinking and rational decision-making processes, or the person can be in such a severe state of distress that they cannot take effective action to help themselves. In this situation, people close to them can facilitate appropriate help.
 
-* **Professional help is not always available** when a mental health problem first arises. There are professional people and other support services that can help people with mental health problems. When these sources of help are not available, members of the public can offer immediate first aid and assist the person to get appropriate professional help and supports.
+*   **Professional help is not always available** when a mental health problem first arises. There are professional people and other support services that can help people with mental health problems. When these sources of help are not available, members of the public can offer immediate first aid and assist the person to get appropriate professional help and supports.
 
-* **Mental Health First Aid has been found to be effective.** A number of research studies have shown that training in Mental Health First Aid results in better knowledge, attitudes and help-giving.¹
+*   **Mental Health First Aid has been found to be effective.** A number of research studies have shown that training in Mental Health First Aid results in better knowledge, attitudes and help-giving.¹
 
+<!-- Page 12 -->
 # MENTAL HEALTH FIRST AID® ACTION PLAN
 
 ## MENTAL HEALTH FIRST AID® ACTION PLAN
@@ -475,70 +579,66 @@ In any first aid course, participants learn an action plan for the best way to h
 Similarly, the Mental Health First Aid Program provides an action plan on how to help a person in a mental health crisis or developing mental health problems. Its mnemonic is ALGEE (see box). Although the action of assisting with a crisis is the highest priority, the other actions in the Mental Health First Aid Action Plan may need to occur first. Therefore these actions are not necessarily steps to be followed in a fixed order. They are numbered purely to help remember them. The first aider has to use good judgement about the order and the relevance of these actions and needs to be flexible and responsive to the person they are helping. Listening and communicating non-judgementally is an action that occurs throughout the giving of first aid.
 
 ## ACTION 1:
-
-### Approach the person, assess and assist with any crisis
+### APPROACH THE PERSON, ASSESS AND ASSIST WITH ANY CRISIS
 
 The first task is to approach the person, look out for any crises and assist the person in dealing with them. The key points for the first aider are to:
 
-* Approach the person about their concerns.
-* Find a suitable time and space where both people feel comfortable.
-* If the person does not initiate a conversation with the first aider about how they are feeling, the first aider should say something to them.
-* Respect the person's privacy and confidentiality.
+*   Approach the person about their concerns.
+*   Find a suitable time and space where both people feel comfortable.
+*   If the person does not initiate a conversation with the first aider about how they are feeling, the first aider should say something to them.
+*   Respect the person's privacy and confidentiality.
 
 In a situation involving a person with a mental health problem, the possible crises are that:
 
-* The person may harm themselves, e.g. by attempting suicide, by using substances to become intoxicated or by engaging in non-suicidal self-injury
-* The person experiences extreme distress, e.g. a panic attack, a traumatic event or a severe psychotic state
-* The person's behaviour is very disturbing to others, e.g. they become aggressive or lose touch with reality.
+*   The person may harm themselves, e.g. by attempting suicide, by using substances to become intoxicated or by engaging in non-suicidal self-injury
+*   The person experiences extreme distress, e.g. a panic attack, a traumatic event or a severe psychotic state
+*   The person's behaviour is very disturbing to others, e.g. they become aggressive or lose touch with reality.
 
 If the first aider has concerns that the person is in crisis, the first aider needs to apply crisis first aid (see Section 3).
 
 ## ACTION 2:
-
-### Listen and communicate non-judgementally
+### LISTEN AND COMMUNICATE NON-JUDGEMENTALLY
 
 Listening and communicating with the person is a very important skill. When listening and communicating, it is important for the first aider to set aside any judgements made about the person or their situation, and avoid expressing those judgements. Most people who are experiencing distressing emotions and thoughts want someone to listen empathetically before offering options and resources that may be helpful. When listening and communicating non- judgementally, the first aider needs to adopt certain attitudes and to use verbal and non- verbal communication skills that:
 
-* Allow them to really hear and understand what the person is saying, and
-* Make it easier for the person to feel they can talk freely about their problems without being judged.
+*   Allow them to really hear and understand what the person is saying, and
+*   Make it easier for the person to feel they can talk freely about their problems without being judged.
 
 It is important to listen and communicate non-judgementally at all times when providing mental health first aid.
 
 ## ACTION 3:
-
-### Give support and information
+### GIVE SUPPORT AND INFORMATION
 
 Once a person with a mental health problem has felt listened to, it can be easier for the first aider to offer support and information. The support to offer at the time includes emotional support, such as empathising with how they feel and giving them the hope of recovery, and practical help with tasks that may seem overwhelming at the moment. Also, the first aider can ask the person whether they would like some information about mental health problems.
 
+<!-- Page 13 -->
 # ACTION 4:
-
-## Encourage the person to get appropriate professional help
+## ENCOURAGE THE PERSON TO GET APPROPRIATE PROFESSIONAL HELP
 
 The first aider can also tell a person about the options available to them for help and support. A person with mental health problems will generally have a better recovery with appropriate professional help. However, they may not know about the various options that are available to them, such as medication, counselling or psychological therapy, support for family members, assistance with vocational and educational goals, and assistance with income and accommodation.
 
 # ACTION 5:
-
-## Encourage other supports
+## ENCOURAGE OTHER SUPPORTS
 
 The first aider can encourage the person to use self-help strategies and to seek the support of family, friends and others. Other people who have experienced mental health problems can also provide valuable help in the person's recovery.
 
-## Providing mental health first aid to someone from a different cultural background
+## PROVIDING MENTAL HEALTH FIRST AID TO SOMEONE FROM A DIFFERENT CULTURAL BACKGROUND
 
 When providing mental health first aid to a person not from your own cultural background, always be culturally competent and practise cultural safety.
 
 Being culturally competent when providing mental health first aid includes:
 
-* Being aware that culture shapes each individual's understanding of health and ill-health
-* Learning about specific cultural beliefs that surround mental illness in the person's community
-* Learning how mental illness is described in the person's community (knowing what words and ideas are used to talk about the symptoms or behaviours)
-* Being aware of what concepts, behaviours or language are taboo (knowing what might cause shame)
-* Not making assumptions about beliefs, practices or preferences.
+*   Being aware that culture shapes each individual's understanding of health and ill-health
+*   Learning about specific cultural beliefs that surround mental illness in the person's community
+*   Learning how mental illness is described in the person's community (knowing what words and ideas are used to talk about the symptoms or behaviours)
+*   Being aware of what concepts, behaviours or language are taboo (knowing what might cause shame)
+*   Not making assumptions about beliefs, practices or preferences.
 
 Practising cultural safety means:
 
-* Respecting the culture of the community by using the appropriate language and behaviour
-* Never doing anything that causes the person to feel shame
-* Supporting the person's right to make decisions about seeking culturally-based care.
+*   Respecting the culture of the community by using the appropriate language and behaviour
+*   Never doing anything that causes the person to feel shame
+*   Supporting the person's right to make decisions about seeking culturally-based care.
 
 Information about cultural considerations and communication techniques when providing mental health first aid to an Aboriginal or Torres Strait Islander person is given in Appendix 1.
 
@@ -546,36 +646,37 @@ Information about cultural considerations and communication techniques when prov
 
 Guidelines for communicating appropriately with an LGBTIQ+ (lesbian, gay, bisexual, transgender, intersex, queer or questioning and all other gender and sexual identities) person about mental health problems are available in Appendix 2.
 
-## It is important to care for yourself
+## IT IS IMPORTANT TO CARE FOR YOURSELF
 
 After providing mental health first aid to a person who is in distress, you may feel worn out, frustrated or even angry. You may also need to deal with the feelings and reactions you set aside during the encounter. It can be helpful to find someone to talk to about what has happened. If you do this, though, you need to remember to respect the person's right to privacy. If you talk to someone, don't share the name of the person you helped, or any personal details which might make them identifiable to the person you choose to share with.
 
 It can also be good to do things which improve your own mood or mental health after helping someone who is distressed, and when caring for a person with mental health problems. Activities which are known to be helpful for improving mood and reducing anxiety include eating well, keeping regular sleep habits, practising relaxation techniques such as progressive muscle relaxation, being physically active, talking to supportive people, letting other people know how you are feeling, scheduling enjoyable activities (particularly those that give a sense of achievement), and doing other things you know have been helpful in the past.
 
-## Applying the mental health first aid action plan to developing mental health problems and crises
+## APPLYING THE MENTAL HEALTH FIRST AID ACTION PLAN TO DEVELOPING MENTAL HEALTH PROBLEMS AND CRISES
 
 SECTION 2 in this manual gives a detailed explanation of how to apply the Mental Health First Aid Action Plan to a person who may be developing or experiencing a worsening of one or more of the following mental health problems:
 
-* Depression
-* Anxiety problems
-* Psychosis
-* Substance use problems
-* Gambling problems
-* Eating disorders.
+*   Depression
+*   Anxiety problems
+*   Psychosis
+*   Substance use problems
+*   Gambling problems
+*   Eating disorders.
 
 SECTION 3 in the manual describes the best ways to assess and assist a person who is experiencing a mental health crisis. The following crises are covered:
 
-* Suicidal thoughts and behaviours
-* Non-suicidal self-injury
-* Panic attacks
-* Following a traumatic event
-* Severe psychotic states
-* Severe effects from alcohol use
-* Severe effects from drug use
-* Aggressive behaviours.
+*   Suicidal thoughts and behaviours
+*   Non-suicidal self-injury
+*   Panic attacks
+*   Following a traumatic event
+*   Severe psychotic states
+*   Severe effects from alcohol use
+*   Severe effects from drug use
+*   Aggressive behaviours.
 
 There are other mental illnesses, which are not covered in the Mental Health First Aid course and manual, including personality disorders. However, the skills learned are useful when assisting anyone who is distressed or in crisis, regardless of the underlying mental health problem.
 
+<!-- Page 14 -->
 _(IMAGE: An abstract painting with a figure, a house, and various geometric shapes.)_
 
 Girl-Woman Lights Her Way Home
@@ -583,11 +684,12 @@ By Michelle Hosking
 
 "This painting is about the journey into madness (or illness) and somehow finding my way out back to myself or 'home'."
 
-# Section 2
+# SECTION 2
 
-## First aid for developing mental health problems
+## FIRST AID FOR DEVELOPING MENTAL HEALTH PROBLEMS
 
-## 2.1 depression
+<!-- Page 15 -->
+## 2.1 DEPRESSION
 
 _(IMAGE: A painting depicting a woman sitting in a field with a dead tree, a birdcage, and a snake.)_
 
@@ -596,9 +698,10 @@ By Michelle Hosking
 
 "That feeling (or non feeling) of deadness, unable to enjoy anything, unable to look forward to anything or feel happiness."
 
-# 2.1 depression
+<!-- Page 16 -->
+# 2.1 DEPRESSION
 
-## What is depression?
+## WHAT IS DEPRESSION?
 
 The word 'depression' is used in many different ways. People feel sad or blue when bad things happen. However, everyday 'blues' or sadness is not a depressive disorder. People with the 'blues' may have a short-term depressed mood, but they can manage to cope and soon recover without the need for treatment. The depression we are talking about in this chapter is major depressive disorder. Major depressive disorder lasts for at least two weeks and affects a person's ability to carry out their work and usual daily activities, and to have satisfying personal relationships. This chapter also covers bipolar disorder, another illness in which depression can be a feature.
 
@@ -608,19 +711,19 @@ The box below lists the signs and symptoms of depression. Not every person who i
 
 These symptoms will cause distress to the person and will interfere with their work and their relationships with family and friends.
 
-## Signs and symptoms of major depressive disorder
+## SIGNS AND SYMPTOMS OF MAJOR DEPRESSIVE DISORDER
 
 If a person has a depressive disorder, they would have five or more of these symptoms (including at least one of the first two) nearly every day for at least two weeks:
 
-* A depressed mood
-* Loss of enjoyment and interest in activities that used to be enjoyable
-* Lack of energy and tiredness
-* Feeling worthless or feeling guilty when they are not really at fault
-* Thinking about death a lot or of suicide
-* Difficulty concentrating or making decisions
-* Moving more slowly or sometimes becoming agitated and unable to settle
-* Having sleeping difficulties or sometimes sleeping too much
-* Loss of interest in food or sometimes eating too much. Changes in eating habits may lead to either loss of weight or putting on weight.
+*   A depressed mood
+*   Loss of enjoyment and interest in activities that used to be enjoyable
+*   Lack of energy and tiredness
+*   Feeling worthless or feeling guilty when they are not really at fault
+*   Thinking about death a lot or of suicide
+*   Difficulty concentrating or making decisions
+*   Moving more slowly or sometimes becoming agitated and unable to settle
+*   Having sleeping difficulties or sometimes sleeping too much
+*   Loss of interest in food or sometimes eating too much. Changes in eating habits may lead to either loss of weight or putting on weight.
 
 A first aider cannot diagnose depression. However, a first aider may be able to recognise the cluster of symptoms which may indicate they are experiencing depression.
 
@@ -642,7 +745,7 @@ Crying spells, withdrawal from others, neglect of responsibilities, loss of inte
 
 Chronic fatigue, lack of energy, loss of appetite, constipation, weight loss or gain, headaches, irregular menstrual cycle, loss of sexual desire, unexplained aches and pains.
 
-## How someone with depression may appear
+## HOW SOMEONE WITH DEPRESSION MAY APPEAR
 
 A person who is depressed may be slow in moving and thinking, although agitation can occur. Even speech can be slow and monotonous. There can be a lack of interest and attention to personal hygiene and grooming. The person usually looks sad and depressed and is often anxious, irritable, and easily moved to tears. However, in mild depression, the person may be able to hide their depression from others, while with severe depression the person may be emotionally unresponsive and describe themselves as "beyond tears". Their thinking often has themes of hopelessness and helplessness, with a negative view of the self ("I'm a failure", "It's all my fault", "Nothing good ever happens to me", "I'm worthless", "No one loves me"), the world ("Life is not worth living", "There is nothing good out there") and the future ("Things will always be bad").
 
@@ -652,6 +755,7 @@ Sometimes when a person does not recognise depression in their friend or work co
 
 People with bipolar disorder (previously called 'manic depressive disorder') have extreme mood swings. They can experience periods of depression, periods of mania and long periods of normal mood in between. A person with bipolar disorder will usually have more episodes of depression than mania. The time between these different episodes can vary greatly from person to person, but usually episodes last days or weeks, distinguishing bipolar disorder from moodiness which may
 
+<!-- Page 17 -->
 Cause mood switches that occur on a daily basis or several times a day. Approximately 1.8% of Australians aged 16-85 years experience bipolar disorder in any one year.
 Bipolar disorder affects equal numbers of males and females. Approximately 60% of people with bipolar disorder have their first episode before the age of 30; approximately 35% before the age of 20, and approximately 5% before the age of 10.
 
@@ -659,31 +763,31 @@ The depression experienced by a person with bipolar disorder includes some or al
 
 A person is not diagnosed with bipolar disorder until they have experienced an episode of mania. It may, therefore, take many years before they are diagnosed correctly and get the most appropriate treatment.
 
-# Risk factors for depressive disorders
+# RISK FACTORS FOR DEPRESSIVE DISORDERS
 
 Depression has no single cause and often involves the interaction of many diverse biological, psychological and social factors.
 The following factors increase a person's risk of developing depression:
 
-* A history of depression in close family members
-* Being female
-* Being a more sensitive, emotional and anxious person
-* Adverse experiences in childhood, such as lack of care or abuse
-* Poverty, poor education and social disadvantage
-* Adverse events in the person's life recently, such as being a victim of crime, death or serious illness in the family, having an accident, bullying or victimisation
-* Separation or divorce
-* Lack of a close confiding relationship with someone
-* Long-term or serious physical illness
-* Having another mental illness such as anxiety disorder, psychotic disorder or substance use disorder
-* Having a baby (see box on 'Perinatal depression')
-* Premenstrual changes in hormone levels
-* Caring full-time for a person with a long-term disability.
+*   A history of depression in close family members
+*   Being female
+*   Being a more sensitive, emotional and anxious person
+*   Adverse experiences in childhood, such as lack of care or abuse
+*   Poverty, poor education and social disadvantage
+*   Adverse events in the person's life recently, such as being a victim of crime, death or serious illness in the family, having an accident, bullying or victimisation
+*   Separation or divorce
+*   Lack of a close confiding relationship with someone
+*   Long-term or serious physical illness
+*   Having another mental illness such as anxiety disorder, psychotic disorder or substance use disorder
+*   Having a baby (see box on 'Perinatal depression')
+*   Premenstrual changes in hormone levels
+*   Caring full-time for a person with a long-term disability.
 
 Depression can also result from:
 
-* The direct effects of medical conditions; for example, Parkinson's disease, Huntington's disease, stroke, Vitamin B12 deficiency, hypothyroidism, systemic lupus erythematous, hepatitis, glandular fever, HIV, some cancers
-* The side effects of certain medications or drugs
-* Intoxication or withdrawal from alcohol or other drugs
-* Lack of exposure to bright light in the winter months.
+*   The direct effects of medical conditions; for example, Parkinson's disease, Huntington's disease, stroke, Vitamin B12 deficiency, hypothyroidism, systemic lupus erythematous, hepatitis, glandular fever, HIV, some cancers
+*   The side effects of certain medications or drugs
+*   Intoxication or withdrawal from alcohol or other drugs
+*   Lack of exposure to bright light in the winter months.
 
 These risk factors are thought to produce changes in the brain that lead to the symptoms of depression. People who are depressed have a loss of connections between nerve cells in some areas of the brain (the hippocampus and prefrontal cortex) that are important in mood and memory. Antidepressants are thought to work by helping the production of new nerve cells and the formation of connections between nerve cells in these brain areas. Other types of treatment, such as psychological therapy and exercise, possibly affect the brains of depressed people in a similar way.
 
@@ -691,7 +795,7 @@ These risk factors are thought to produce changes in the brain that lead to the 
 
 The causes of this disorder are not fully understood. However, the following factors are known to be involved:
 
-* Having a close relative with bipolar disorder.
+*   Having a close relative with bipolar disorder.
 
 This is the most important risk factor known. Someone with a parent or sibling affected has around 9% risk. While this is an increased risk, it means that over 90% of people with an affected relative will not develop the disorder.
 
@@ -701,7 +805,7 @@ Factors that increase the risk of an episode of bipolar disorder include recent 
 
 The various risk factors for bipolar disorder are believed to lead to disruption to the development of the brain early in life, specifically to brain networks that control emotions. This disruption leads to instability of moods, including mania and depression.
 
-# Perinatal depression
+# PERINATAL DEPRESSION
 
 Perinatal depression refers to depression that occurs in a woman at a time around childbirth. The depression can either occur before birth (antenatal depression) or after birth (postnatal or postpartum depression). Feeling sad or having the 'baby blues' after giving birth is common, but when these feelings last for more than two weeks, this may be a sign of depressive disorder.
 
@@ -709,24 +813,25 @@ The symptoms do not differ from depression at other times. However, depression a
 
 A national survey of Australian women 6-8 weeks after childbirth found that 7.5% of them had a major depressive disorder. Factors that may contribute to this are hormonal and physical changes and the responsibilities of caring for the baby. Having had a previous episode of depression increases risk for postnatal depression and symptoms are often already present during pregnancy.
 
-# Interventions for depressive disorders
+<!-- Page 18 -->
+# INTERVENTIONS FOR DEPRESSIVE DISORDERS
 
-## Professionals who can help
+## PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with depression. They are:
 
-* GPs
-* Psychologists
-* Psychiatrists
-* Counsellors
-* Mental health nurses
-* Occupational therapists and social workers with mental health training.
+*   GPs
+*   Psychologists
+*   Psychiatrists
+*   Counsellors
+*   Mental health nurses
+*   Occupational therapists and social workers with mental health training.
 
 More information about these professionals can be found in Section 1.1 Mental Health Problems in Australia.
 
 Only in the most severe cases of depression, or where there is a danger a person might harm themselves, is a depressed person admitted to a hospital. Most people with depression can be effectively treated in the community.
 
-## Treatments available for depressive disorders
+## TREATMENTS AVAILABLE FOR DEPRESSIVE DISORDERS
 
 Most people recover from depression and lead satisfying and productive lives. There is a range of treatments available for both depression and bipolar disorder. There is good evidence that the following treatments are effective for most people with depression.
 
@@ -734,25 +839,25 @@ Most people recover from depression and lead satisfying and productive lives. Th
 
 The following psychological therapies are effective in the treatment of depression:
 
-* **Cognitive behaviour therapy** (CBT) is based on the idea that how we think affects the way we feel. When people get depressed they think negatively about most things. There may be thoughts about how hopeless the person's situation is and how helpless the person feels, with a negative view of themselves, the world and the future. Cognitive behaviour therapy helps the person recognise such unhelpful thoughts and change them to more realistic ones. It also helps people to change depressive behaviours by scheduling regular activities and engaging in pleasurable activities. It can include components such as stress management, relaxation techniques and sleep management. To get the full benefit of cognitive behaviour therapy, it is recommended that a person has 16-20 sessions of this treatment.
+*   **Cognitive behaviour therapy** (CBT) is based on the idea that how we think affects the way we feel. When people get depressed they think negatively about most things. There may be thoughts about how hopeless the person's situation is and how helpless the person feels, with a negative view of themselves, the world and the future. Cognitive behaviour therapy helps the person recognise such unhelpful thoughts and change them to more realistic ones. It also helps people to change depressive behaviours by scheduling regular activities and engaging in pleasurable activities. It can include components such as stress management, relaxation techniques and sleep management. To get the full benefit of cognitive behaviour therapy, it is recommended that a person has 16-20 sessions of this treatment.
 
-* **Mindfulness based cognitive therapy** involves learning a type of meditation that teaches people to focus on the present moment. The person just notices what they are experiencing, whether pleasant or unpleasant, without trying to change it.
+*   **Mindfulness based cognitive therapy** involves learning a type of meditation that teaches people to focus on the present moment. The person just notices what they are experiencing, whether pleasant or unpleasant, without trying to change it.
 
-* **Interpersonal psychotherapy** helps people to resolve conflict with other people, deal with grief or changes in their relationships, and develop better relationships. To get the full benefit of interpersonal psychotherapy, it is recommended that a person has 16-20 sessions of treatment.
+*   **Interpersonal psychotherapy** helps people to resolve conflict with other people, deal with grief or changes in their relationships, and develop better relationships. To get the full benefit of interpersonal psychotherapy, it is recommended that a person has 16-20 sessions of treatment.
 
-* **Behaviour therapy** (also called behavioural activation) is often part of cognitive behaviour therapy. It focuses on increasing a person's level of activity and pleasure in their life.
+*   **Behaviour therapy** (also called behavioural activation) is often part of cognitive behaviour therapy. It focuses on increasing a person's level of activity and pleasure in their life.
 
-* **Marital therapy** (also called couple therapy) can help where there are relationship problems along with depression. It focuses on helping a person who is depressed by improving their relationship with their partner.
+*   **Marital therapy** (also called couple therapy) can help where there are relationship problems along with depression. It focuses on helping a person who is depressed by improving their relationship with their partner.
 
-* **Problem solving therapy** involves meeting with a therapist to clearly identify problems, think of different solutions for each problem, choose the best solution, develop and carry out a plan, and then see if this solves the problem.
+*   **Problem solving therapy** involves meeting with a therapist to clearly identify problems, think of different solutions for each problem, choose the best solution, develop and carry out a plan, and then see if this solves the problem.
 
-* **Psychodynamic psychotherapy** involves discovering how the unconscious patterns in the person's mind might play a role in their problems.
+*   **Psychodynamic psychotherapy** involves discovering how the unconscious patterns in the person's mind might play a role in their problems.
 
-* **Reminiscence therapy** is used with older people. It involves encouraging the person to remember and review the events in their life. The therapy might help resolve conflicts and regrets associated with past experiences, and help the person to have a more positive and realistic view of themselves.
+*   **Reminiscence therapy** is used with older people. It involves encouraging the person to remember and review the events in their life. The therapy might help resolve conflicts and regrets associated with past experiences, and help the person to have a more positive and realistic view of themselves.
 
-* **Self-help books** that are based on cognitive behaviour therapy can be effective (see Helpful resources at the end of this chapter). These are more effective when used under the guidance of a health professional, with 5-7 sessions recommended.
+*   **Self-help books** that are based on cognitive behaviour therapy can be effective (see Helpful resources at the end of this chapter). These are more effective when used under the guidance of a health professional, with 5-7 sessions recommended.
 
-* **Computerised therapy**, which is self-help therapy delivered over the Internet or on a computer, can also be helpful. Some are available for free (see Helpful resources at end of this chapter). These are more effective when used under the guidance of a health professional.
+*   **Computerised therapy**, which is self-help therapy delivered over the Internet or on a computer, can also be helpful. Some are available for free (see Helpful resources at end of this chapter). These are more effective when used under the guidance of a health professional.
 
 Research shows that there is an even better outcome when psychological therapy is given in combination with antidepressant medication.
 
@@ -760,38 +865,39 @@ Research shows that there is an even better outcome when psychological therapy i
 
 The following medical treatments are known to be effective:
 
-* **Antidepressant medications** have been found effective with adults who have moderate to severe depression.
+*   **Antidepressant medications** have been found effective with adults who have moderate to severe depression.
 
-* **Antipsychotic medications** may be used to treat people with bipolar disorder. They are also sometimes used to treat people with severe depression in combination with antidepressants, where other treatments have not worked.
+*   **Antipsychotic medications** may be used to treat people with bipolar disorder. They are also sometimes used to treat people with severe depression in combination with antidepressants, where other treatments have not worked.
 
-* **Mood stabilisers** can help people with bipolar disorder by reducing the swings from one mood to another. They are also sometimes used in long-term depression.
+*   **Mood stabilisers** can help people with bipolar disorder by reducing the swings from one mood to another. They are also sometimes used in long-term depression.
 
-* **Electroconvulsive therapy (ECT)** can be effective for people with severe depression that has not responded to other treatment. However, it has also been known to cause some negative side effects, such as memory loss.
+*   **Electroconvulsive therapy (ECT)** can be effective for people with severe depression that has not responded to other treatment. However, it has also been known to cause some negative side effects, such as memory loss.
 
-* **Transcranial magnetic stimulation (TMS)** is sometimes used to treat severe depression or depression that has not responded to other treatments. It involves holding a strong magnet over the scalp in order to stimulate some areas of the brain.
+*   **Transcranial magnetic stimulation (TMS)** is sometimes used to treat severe depression or depression that has not responded to other treatments. It involves holding a strong magnet over the scalp in order to stimulate some areas of the brain.
 
+<!-- Page 19 -->
 # Complementary therapies and lifestyle changes
 
 The following have some scientific evidence for effectiveness in helping with depression: 36
 
-* Exercise including both aerobic (e.g. jogging, brisk walking) and anaerobic (e.g. weight training).
-* SAMe (S-Adenosylmethionine) which is a compound made in the body and available as a supplement in health food stores.
-* Light therapy which involves bright light exposure to the eyes, often in the morning. This is most useful for people whose depression is associated with lack of light in winter. It is best used under the guidance of a health professional.
+*   Exercise including both aerobic (e.g. jogging, brisk walking) and anaerobic (e.g. weight training).
+*   SAMe (S-Adenosylmethionine) which is a compound made in the body and available as a supplement in health food stores.
+*   Light therapy which involves bright light exposure to the eyes, often in the morning. This is most useful for people whose depression is associated with lack of light in winter. It is best used under the guidance of a health professional.
 
 There are a number of other complementary therapies and lifestyle changes that have weaker evidence as effective for depression. These include: avoiding alcohol in people who have a drinking problem, massage, omega-3 fatty acids (fish oil), relaxation training, St John's wort and yoga. Further information about these is given in A Guide to What Works for Depression (see the Helpful resources section at the end of this chapter).
 
 As well as looking at scientific evidence of what treatments and supports work for depression, it is also important to look at what people who have experienced depression find to be helpful. A large internet survey of people who had received treatment for a depressive disorder asked them to rate the effectiveness of any treatment they had had. The treatments they rated as most effective were: some antidepressant medications, cognitive behaviour therapy, interpersonal psychotherapy, other types of psychotherapy and exercise.
 
-# Bipolar disorder treatments
+# BIPOLAR DISORDER TREATMENTS
 
 There is evidence that the following treatments help people with bipolar disorder:
 
-* Medications. There is a range of medications that can help people with bipolar disorder. These include mood stabilisers, antipsychotics and antidepressants.
-* Psychoeducation involves providing information to the person about bipolar disorder, its treatment and managing its effect on their life. Psychoeducation has been found to reduce relapses when used together with medication.
-* Psychological therapies. Two therapies that research has found to be helpful are cognitive behaviour therapy and interpersonal and social rhythm therapy. Cognitive behaviour therapy helps people to monitor mood swings, overcome thinking patterns that affect mood, and to function better. Interpersonal and social rhythm therapy covers potential problem areas in the person's life (grief, changes in roles, disputes, and interpersonal deficits), and helps them regulate social and sleep rhythms.
-* Family therapy educates family members on how they can support the person with bipolar disorder and avoid negative interactions that can trigger relapses.
+*   Medications. There is a range of medications that can help people with bipolar disorder. These include mood stabilisers, antipsychotics and antidepressants.
+*   Psychoeducation involves providing information to the person about bipolar disorder, its treatment and managing its effect on their life. Psychoeducation has been found to reduce relapses when used together with medication.
+*   Psychological therapies. Two therapies that research has found to be helpful are cognitive behaviour therapy and interpersonal and social rhythm therapy. Cognitive behaviour therapy helps people to monitor mood swings, overcome thinking patterns that affect mood, and to function better. Interpersonal and social rhythm therapy covers potential problem areas in the person's life (grief, changes in roles, disputes, and interpersonal deficits), and helps them regulate social and sleep rhythms.
+*   Family therapy educates family members on how they can support the person with bipolar disorder and avoid negative interactions that can trigger relapses.
 
-# Importance of early intervention for depression
+# IMPORTANCE OF EARLY INTERVENTION FOR DEPRESSION
 
 Early intervention is very important. People who wait a long time before getting treatment for depression tend to have a worse outcome. Once a person has had an episode of depression they become more prone to subsequent episodes. They fall into depression more easily with each subsequent episode. For this reason, some people go on to have repeated episodes throughout their life. To prevent this pattern occurring, it is important to intervene early with a first episode of depression to make sure it is treated quickly and effectively.
 
@@ -803,25 +909,25 @@ By Delia Crabbe
 
 "This work is of myself when I was very unwell. I am curled up inside myself, exhausted and couldn't respond to people."
 
-# Crises associated with depression
+# CRISES ASSOCIATED WITH DEPRESSION
 
 Two main crises that may be associated with depression are:
 
-* The person has suicidal thoughts and behaviours.
-* The person is engaging in non-suicidal self-injury.
+*   The person has suicidal thoughts and behaviours.
+*   The person is engaging in non-suicidal self-injury.
 
-## Suicidal thoughts and behaviours
+## SUICIDAL THOUGHTS AND BEHAVIOURS
 
 Suicide is a significant risk for people with depression. Of Australians aged 16-85 who have had a depressive disorder in the past 12 months, approximately 4% attempt suicide. A person may feel so overwhelmed and helpless that the future appears hopeless. The person may think suicide is the only way out. Sometimes a person becomes suicidal very quickly, perhaps in response to a trigger (such as a relationship breakup or arrest), and acts on their thoughts quickly and impulsively. The risk is increased if they have also been using alcohol or other drugs. However, not every person who is depressed is at risk of suicide nor is everyone who is at risk of suicide necessarily depressed.
 
-## Non-suicidal self-injury
+## NON-SUICIDAL SELF-INJURY
 
 Non-suicidal self-injury is also a significant risk for people with depression. An Australian national survey of people aged 10 or over found that people who self-injure are around 5 times more likely to have been diagnosed with a depressive or bipolar disorder. People who engage in self-injury report more intense experience of emotional distress. They may also struggle to express these emotions. For these people, self-injury may alleviate their distress temporarily. Adults who engage in self-injury typically started doing so during adolescence, and it may have become a very difficult habit to break.
 
+<!-- Page 20 -->
 # MENTAL HEALTH FIRST AID® ACTION PLAN
 
 ## MENTAL HEALTH FIRST AID® ACTION PLAN
-
 **A**pproach the person, assess and assist with any crisis
 **L**isten and communicate non-judgementally
 **G**ive support and information
@@ -829,15 +935,12 @@ Non-suicidal self-injury is also a significant risk for people with depression. 
 **E**ncourage other supports
 
 ## ACTION 1:
-
-### Approach the person, assess and assist with any crisis
+### APPROACH THE PERSON, ASSESS AND ASSIST WITH ANY CRISIS
 
 ### How to approach
-
 If you think that someone you know may be depressed and in need of help, approach the person about your concerns. It is important to choose a suitable time when both you and the person are available to talk, as well as a space where you both feel comfortable. Let the person know that you are available to talk when they are ready; do not put pressure on the person to talk right away. It can be helpful to let the person choose the moment to open up. However, if the person does not initiate a conversation with you about how they are feeling, you should say something to them. You should respect the person's privacy and confidentiality unless you are concerned that the person is at risk of harming themselves or others.
 
 ### How to assess and assist in a crisis
-
 As you talk with the person, be on the lookout for any indications that the person may be in crisis.
 
 If you have concerns that the person may be having *suicidal thoughts*, find out how to **assess and assist** this person in Section 3.1 First Aid for Suicidal Thoughts and Behaviours.
@@ -845,8 +948,7 @@ If you have concerns that the person may be having *suicidal thoughts*, find out
 If you have concerns that the person may be engaging in *non-suicidal self-injury*, find out how to **assess and assist** this person in Section 3.2 First Aid for Non-suicidal Self-Injury.
 
 ## ACTION 2:
-
-### Listen and communicate non-judgementally
+### LISTEN AND COMMUNICATE NON-JUDGEMENTALLY
 
 If you believe that the person is not in a crisis that needs immediate attention, you can engage the person in conversation, such as asking the person about how they are feeling and how long they have been feeling this way. Listening and communicating non-judgementally is important at this stage as it can help the person to feel heard and understood, while not being judged in any way. This can make it easy for the person to feel comfortable to talk freely about their problems and to ask for help.
 
@@ -855,128 +957,241 @@ It is very difficult to be entirely non-judgemental all the time. We automatical
 If you have decided to approach someone with your concerns about them, it is a good idea to spend some time reflecting on your own state of mind first. It is best to talk to the person when you are feeling able to express your concerns without being judgemental.
 
 You can be an effective non-judgemental listener by paying special attention to two main areas:
-* Your attitudes, and how they are conveyed, and
-* Effective communication skills - both verbal and non-verbal.
+*   Your attitudes, and how they are conveyed, and
+*   Effective communication skills - both verbal and non-verbal.
 
 ### Attitudes
-
 The key attitudes involved in non-judgemental listening are acceptance, genuineness and empathy.
 
-* Adopting an attitude of *acceptance* means respecting the person's feelings, personal values and experiences as valid, even if they are different from your own, or you disagree with them. You should not judge, criticise or trivialise what the person says because of your own beliefs or attitudes. Sometimes, this may mean withholding any and all judgements that you have made about the person and their circumstances, e.g. listen to the person without judging them as weak - these problems are not due to weakness or laziness - the person is trying to cope. An important way to show acceptance is to avoid communicating stigmatising attitudes about mental illness. Be careful in applying labels to the person that they may find stigmatising, e.g. 'mentally ill' or 'drug addict'. Choose your words carefully so as to avoid causing offence. Also be aware that the person themselves may hold stigmatising attitudes towards mental illness and that you can model acceptance, making it easier for them to accept help.
-* *Genuineness* means that what you say and do shows the person that they are accepted. This means not holding one set of attitudes while expressing another. Your body language and verbal cues should reinforce your acceptance of the person. For example, if you tell the person you accept and respect their feelings, but maintain a defensive posture or avoid eye contact, the person will know you are not being genuine.
+*   Adopting an attitude of *acceptance* means respecting the person's feelings, personal values and experiences as valid, even if they are different from your own, or you disagree with them. You should not judge, criticise or trivialise what the person says because of your own beliefs or attitudes. Sometimes, this may mean withholding any and all judgements that you have made about the person and their circumstances, e.g. listen to the person without judging them as weak - these problems are not due to weakness or laziness - the person is trying to cope. An important way to show acceptance is to avoid communicating stigmatising attitudes about mental illness. Be careful in applying labels to the person that they may find stigmatising, e.g. 'mentally ill' or 'drug addict'. Choose your words carefully so as to avoid causing offence. Also be aware that the person themselves may hold stigmatising attitudes towards mental illness and that you can model acceptance, making it easier for them to accept help.
+*   *Genuineness* means that what you say and do shows the person that they are accepted. This means not holding one set of attitudes while expressing another. Your body language and verbal cues should reinforce your acceptance of the person. For example, if you tell the person you accept and respect their feelings, but maintain a defensive posture or avoid eye contact, the person will know you are not being genuine.
 
+<!-- Page 21 -->
 # Empathy means being able to imagine
 
-yourself in the other person's place, showing them that they are truly heard and understood by you. This doesn't mean saying something glib such as "I understand exactly how you are feeling" it is more appropriate to say that you can appreciate the difficulty that they may be going through. Remember that empathy is different from sympathy, which means feeling sorry for or pitying the person.
+yourself in the other person's place,
+showing them that they are truly heard
+and understood by you. This doesn't
+mean saying something glib such as
+"I understand exactly how you are
+feeling" it is more appropriate to say
+that you can appreciate the difficulty that
+they may be going through. Remember
+that empathy is different from sympathy,
+which means feeling sorry for or pitying
+the person.
 
 # Verbal skills
 
-Using the following simple verbal skills will show that you are listening:
+Using the following simple verbal skills will
+show that you are listening:
 
-* Ask questions which show that you genuinely care and want clarification about what they are saying.
-* Check your understanding by re-stating what they have said and summarising facts and feelings.
-* Listen not only to what the person says, but how they say it; their tone of voice and non-verbal cues will give extra clues about how they are feeling.
-* Use minimal prompts, such as "I see" and "Ah" when necessary to keep the conversation going.
-* Be patient, even when the person may not be communicating well, may be repetitive or may be speaking slower and less clearly than usual.
-* Do not be critical or express your frustration at the person for having such symptoms.
-* Avoid giving unhelpful advice such as 'pull yourself together' or 'cheer up'. If this was possible the person would do it.
-* Do not interrupt the person when they are speaking, especially to share your opinions or experiences.
-* Avoid confrontation unless necessary to prevent harmful or dangerous acts,
+*   Ask questions which show that you
+    genuinely care and want clarification
+    about what they are saying.
+*   Check your understanding by re-stating
+    what they have said and summarising
+    facts and feelings.
+*   Listen not only to what the person says,
+    but how they say it; their tone of voice
+    and non-verbal cues will give extra clues
+    about how they are feeling.
+*   Use minimal prompts, such as "I see"
+    and "Ah" when necessary to keep the
+    conversation going.
+*   Be patient, even when the person may
+    not be communicating well, may be
+    repetitive or may be speaking slower and
+    less clearly than usual.
+*   Do not be critical or express your
+    frustration at the person for having such
+    symptoms.
+*   Avoid giving unhelpful advice such as
+    'pull yourself together' or 'cheer up'. If
+    this was possible the person would do it.
+*   Do not interrupt the person when they
+    are speaking, especially to share your
+    opinions or experiences.
+*   Avoid confrontation unless necessary to
+    prevent harmful or dangerous acts,
 
-Remember that pauses and silences are okay. Silence can be uncomfortable for many people, but the person may need time to think on what has been said, or may be struggling to find the words they need. Interrupting the silence may make it difficult for them to get back on track, and may damage the rapport you have been building. Consider whether the silence is awkward, or just awkward for you.
+Remember that pauses and silences are
+okay. Silence can be uncomfortable for many
+people, but the person may need time to think
+on what has been said, or may be struggling
+to find the words they need. Interrupting the
+silence may make it difficult for them to get
+back on track, and may damage the rapport
+you have been building. Consider whether the
+silence is awkward, or just awkward for you.
 
 # Non-verbal skills
 
-Non-verbal communications and body language express a great deal. Good non- verbal skills show that you are listening, while poor non-verbal skills can damage the rapport between you and the person you are assisting and negate what you say.
+Non-verbal communications and body
+language express a great deal. Good non-
+verbal skills show that you are listening,
+while poor non-verbal skills can damage the
+rapport between you and the person you are
+assisting and negate what you say.
 
-Keep the following non-verbal cues in mind to reinforce your non-judgemental listening:
+Keep the following non-verbal cues in mind
+to reinforce your non-judgemental listening:
 
-* Pay close attention to what the person says.
-* Maintain comfortable eye contact. Don't avoid eye contact, but do avoid staring; you can do this by maintaining the level of eye contact that the person seems most comfortable with.
-* Be aware of the person's body language, as this can provide clues as to how they are feeling or how comfortable they feel about talking with you. Try to notice how much personal space the person feels comfortable with and do not intrude beyond that.
-* Maintain an open body position. Don't cross your arms over your body, as this may appear defensive.
-* If it is safe, sit down, even if the person is standing. This may seem less threatening.
-* It is best to sit alongside the person and angled towards them, rather than directly opposite them.
-* Avoid distracting gestures, such as fidgeting with a pen, glancing at other things or tapping your feet or fingers, as these could be interpreted as a lack of interest.
+*   Pay close attention to what the person says.
+*   Maintain comfortable eye contact. Don't
+    avoid eye contact, but do avoid staring;
+    you can do this by maintaining the level
+    of eye contact that the person seems
+    most comfortable with.
+*   Be aware of the person's body language,
+    as this can provide clues as to how they
+    are feeling or how comfortable they feel
+    about talking with you. Try to notice how
+    much personal space the person feels
+    comfortable with and do not intrude
+    beyond that.
+*   Maintain an open body position. Don't
+    cross your arms over your body, as this
+    may appear defensive.
+*   If it is safe, sit down, even if the person is
+    standing. This may seem less threatening.
+*   It is best to sit alongside the person and
+    angled towards them, rather than directly
+    opposite them.
+*   Avoid distracting gestures, such as fidgeting
+    with a pen, glancing at other things or
+    tapping your feet or fingers, as these could
+    be interpreted as a lack of interest.
 
-Although the focus of your conversation with the person you are helping is on their feelings, thoughts and experiences, you need to be aware of your own as well. Helping someone who is in distress may evoke an unexpected emotional response in you; you may find yourself feeling fearful, overwhelmed, sad or even irritated or frustrated.
+Although the focus of your conversation with
+the person you are helping is on their feelings,
+thoughts and experiences, you need to be
+aware of your own as well. Helping someone
+who is in distress may evoke an unexpected
+emotional response in you; you may find
+yourself feeling fearful, overwhelmed, sad or
+even irritated or frustrated.
 
-In spite of any emotional response you have, you need to continue listening respectfully and avoid expressing a negative reaction to what the person says. This is sometimes difficult, and may be made more complex by your relationship with the person or your personal beliefs about their situation. You need to set aside these beliefs and reactions in order to focus on the needs of the person you are helping; their need to be heard, understood and helped. Remember that you are providing the person with a safe space to express themselves, and a negative reaction from you can prevent them from feeling that sense of safety.
+In spite of any emotional response you have,
+you need to continue listening respectfully
+and avoid expressing a negative reaction
+to what the person says. This is sometimes
+difficult, and may be made more complex
+by your relationship with the person or
+your personal beliefs about their situation.
+You need to set aside these beliefs and
+reactions in order to focus on the needs
+of the person you are helping; their need
+to be heard, understood and helped.
+Remember that you are providing the person
+with a safe space to express themselves, and
+a negative reaction from you can prevent
+them from feeling that sense of safety.
 
-If you find yourself feeling upset or worn out after listening non-judgementally to a person who is depressed, you may need to exercise some good self care habits (see box on 'It is important to care for yourself' in Chapter 1.2 _Mental Health First Aid_).
+If you find yourself feeling upset or worn out
+after listening non-judgementally to a person
+who is depressed, you may need to exercise
+some good self care habits (see box on 'It is
+important to care for yourself' in Chapter 1.2
+_Mental Health First Aid_).
 
 # Cultural considerations for non-judgemental communication
 
-If you are assisting someone from a cultural background that is different from your own, you may need to adjust some of your verbal and non-verbal behaviours. For example, the person may be comfortable with a level of eye contact different from what you are used to, or may be used to more personal space.
+If you are assisting someone from a cultural
+background that is different from your own,
+you may need to adjust some of your verbal
+and non-verbal behaviours. For example, the
+person may be comfortable with a level of
+eye contact different from what you are used
+to, or may be used to more personal space.
 
-If these differences are interfering with your ability to be an effective helper, it may be helpful to explore and try to understand the person's experiences, values or belief systems.
+If these differences are interfering with your
+ability to be an effective helper, it may be
+helpful to explore and try to understand the
+person's experiences, values or belief systems.
 
-Be prepared to discuss what is culturally appropriate and realistic for the person, or seek advice from someone from their cultural background before speaking to them.
+Be prepared to discuss what is culturally
+appropriate and realistic for the person, or
+seek advice from someone from their cultural
+background before speaking to them.
 
-If you are assisting an Aboriginal or Torres Strait Islander person, see Appendix 1 to this manual for further information about cultural considerations and communication techniques.
+If you are assisting an Aboriginal or Torres
+Strait Islander person, see Appendix 1 to this
+manual for further information about cultural
+considerations and communication techniques.
 
 # ACTION 3:
 
-## Give support and information
+## GIVE SUPPORT AND INFORMATION
 
-After you have listened attentively and sensitively to the person and given them a chance to fully express and explore their issue, you can begin to discuss possible courses of action. Spending time talking and listening means you are less likely to offer ill-considered or inappropriate advice, or to minimise or dismiss the problem based on only 'half the picture'.
+After you have listened attentively and
+sensitively to the person and given them
+a chance to fully express and explore their
+issue, you can begin to discuss possible
+courses of action. Spending time talking and
+listening means you are less likely to offer
+ill-considered or inappropriate advice, or to
+minimise or dismiss the problem based on
+only 'half the picture'.
 
 ## Treat the person with respect and dignity
 
-Each person's situation and needs are unique. It is important to respect the person's autonomy while considering the extent to which they are able to make decisions for themselves. Equally, you should respect the person's privacy and confidentiality unless you are concerned that the person is at risk of harming themselves or others.
+Each person's situation and needs are
+unique. It is important to respect the person's
+autonomy while considering the extent to
+which they are able to make decisions for
+themselves. Equally, you should respect the
+person's privacy and confidentiality unless
+you are concerned that the person is at risk
+of harming themselves or others.
 
 ## Do not blame the person for their illness
 
-Depression is a real health problem and the person cannot help being affected by depression. It is important to remind the person that they have a health problem and that they are not to blame for feeling 'down'. 
+Depression is a real health problem and
+the person cannot help being affected by
+depression. It is important to remind the
+person that they have a health problem and
+that they are not to blame for feeling 'down'.
 
+<!-- Page 22 -->
 ### Have realistic expectations for the person
-
 You should accept the person as they are and have realistic expectations for them. Everyday activities like cleaning the house, paying bills, or feeding the dog may seem overwhelming to the person. You should let them know that they are not weak or a failure because they have depression, and that you don't think less of them as a person. You should acknowledge that the person is not 'faking', 'lazy', 'weak' or 'selfish'.
 
 ### Offer consistent emotional support and understanding
-
 It is more important for you to be genuinely caring than for you to say all the 'right things'. The person genuinely needs additional care and understanding to help them through their illness so you should be empathetic, compassionate and patient. People with depression are often overwhelmed by irrational fears; you need to be gently understanding of someone in this state. It is important to be patient, persistent and encouraging when supporting someone with depression. You should also offer the person kindness and attention, even if it is not reciprocated. Let the person know that they will not be abandoned. You should be consistent and predictable in your interactions with the person.
 
 ### Give the person hope for recovery
-
 You need to encourage the person to maintain hope by saying that, with time and treatment, they will feel better. Offer emotional support and hope of a more positive future in whatever form the person will accept.
 
 ### Provide practical help
-
 Ask the person if they would like any practical assistance with tasks but be careful not to take over or encourage dependency.
 
 ### Offer information
-
 Ask the person if they would like some information about depression. If they do want some information, it is important that you give them resources that are accurate and appropriate to their situation. Don't assume that the person knows nothing about depression as they, or someone else close to them, may have experienced depression before.
 
 ### What isn't supportive
-
-* There's no point in just telling someone with depression to get better as they cannot 'snap out of it' or 'get over it'.
-* Do not be hostile or sarcastic when their responses are not what you usually expect of them. Rather, accept these responses as the best the person has to offer at that time.
-* Do not adopt an over-involved or over-protective attitude towards someone who is depressed.
-* Do not nag the person to try to get them to do what they normally would.
-* Do not trivialise the person's experiences by pressuring them to 'put a smile on their face', to 'get their act together', or to 'lighten up'.
-* Do not belittle or dismiss the person's feelings by attempting to say something positive like, "You don't seem that bad to me".
-* Avoid speaking with a patronising tone of voice and do not use overly-compassionate looks of concern.
-* Resist the urge to try to cure the person's depression or to come up with answers to their problems.
+*   There's no point in just telling someone with depression to get better as they cannot 'snap out of it' or 'get over it'.
+*   Do not be hostile or sarcastic when their responses are not what you usually expect of them. Rather, accept these responses as the best the person has to offer at that time.
+*   Do not adopt an over-involved or over-protective attitude towards someone who is depressed.
+*   Do not nag the person to try to get them to do what they normally would.
+*   Do not trivialise the person's experiences by pressuring them to 'put a smile on their face', to 'get their act together', or to 'lighten up'.
+*   Do not belittle or dismiss the person's feelings by attempting to say something positive like, "You don't seem that bad to me".
+*   Avoid speaking with a patronising tone of voice and do not use overly-compassionate looks of concern.
+*   Resist the urge to try to cure the person's depression or to come up with answers to their problems.
 
 ## ACTION 4:
-
-### Encourage the person to get appropriate professional help
-
+### ENCOURAGE THE PERSON TO GET APPROPRIATE PROFESSIONAL HELP
 Everybody feels down or sad at times, but it is important to be able to recognise when depression has become more than a temporary experience for someone and when to encourage that person to seek professional help. Professional help is warranted when depression lasts for weeks and affects a person's functioning in daily life. Many people with depressive disorders do not seek professional help. In Australia, only 59% of the people who had a depressive disorder in the past year received professional help for their problem. Even when people do eventually seek help, they can wait for many years before doing so. These delays can affect their long-term recovery. People with mental health problems are more likely to seek help if someone close to them suggests it. Also, people can help a GP make a quicker diagnosis by telling the doctor directly about their psychological symptoms and that they may be suffering from depression.
 
 ### Discuss options for seeking professional help
-
 You should ask the person if they need help to manage how they are feeling. If they feel they do need help, discuss the options that they have for seeking help and encourage them to use these options. If the person does not know where to get help, offer to help them seek assistance. It is important to encourage the person to get appropriate professional help and effective treatment as early as possible. If the person would like you to support them by accompanying them to an appointment with a health professional, you must not take over completely; a person with depression needs to make their own decisions as much as possible. Depression is not always recognised by health professionals; it may take some time to get a diagnosis and find a healthcare provider with whom the person is able to establish a good relationship. You should encourage the person not to give up seeking appropriate professional help.
 
 ### What if the person doesn't want help?
-
 The person may not want to seek professional help. You should find out if there are specific reasons why this is the case. For example, the person might be concerned about the cost of the service, or about not having a doctor they like, or they might be worried they will be sent to hospital. These reasons may be based on mistaken beliefs and you may be able to help the person overcome their worry about seeking help. If the person still doesn't want help after you have explored their reasons with them, let them know that if they change their mind in the future about seeking help they can contact you. You must respect the person's right not to seek help unless you believe that they are at risk of harming themselves or others.
 
+<!-- Page 23 -->
 # ACTION 5:
-
-# Encourage other supports
+# ENCOURAGE OTHER SUPPORTS
 
 ## Other people who can help
 
@@ -993,38 +1208,33 @@ Self-help strategies may be useful in conjunction with other treatments and may 
 _(IMAGE: A painting of a woman with multiple arms holding flowers and a paintbrush, set against a landscape.)_
 
 ## Blue Woman
-
 By Alexis Apfelbaum
 
 "I experienced depression while living in the Blue Mountains, NSW, Blue Woman shows the outside appearance of beauty and serenity while inside is the unseen pain of depression. She is floating and not whole; unable to connect with others or the world. Yet in her hand is a tool of release through the act of art and expression."
 
-# Helpful resources for depression and suicidal thoughts
+# HELPFUL RESOURCES FOR DEPRESSION AND SUICIDAL THOUGHTS
 
-## Telephone and online support
+## TELEPHONE AND ONLINE SUPPORT
 
 ### Lifeline 24-Hour Counselling and Crisis Support Chat
-
 13 11 14
 www.lifeline.org.au/crisischat
 
 Lifeline has trained crisis supporters available 24 hours a day, 7 days a week. They also offer an online Crisis Support Chat 7 days a week between 7pm - 4am AEDT.
 
 ### Kids Help Line
-
 1800 55 1800
 www.kidshelp.com.au
 
 This is a telephone, web-based and email counselling service. It is available 24 hours a day, 7 days a week, for young people aged up to 25 years.
 
 ### Mensline Australia
-
 1300 78 99 78
 www.menslineaus.org.au
 
 This is a telephone counselling service available 24 hours, 7 days a week, for men with relationship or family concerns.
 
-### Panda
-
+### PANDA
 1300 726 306
 www.panda.org.au
 
@@ -1033,124 +1243,107 @@ PANDA supports women, men and families across Australia affected by anxiety and 
 Alternatively, you can email support@panda. org.au and a team member will get back to you during helpline hours.
 
 ### Suicide Call Back Service
-
 1300 659 467
 www.suicidecallbackservice.org.au
 
 This is a free nationwide professional telephone and online counselling service for anyone affected by suicide, available 24 hours a day, 7 days a week.
 
 ### Beyond Blue Support Service
-
 1300 224 636
 www.beyondblue.org.au/get-support
 
 This is a telephone counselling service available 24 hours a day, 7 days a week.
 
 ### Mental Health Crisis Numbers (24/7)
+*   ACT: Mental Health Triage Service, 24 hours, 7 days, 1800 629 354 or 02 6205 1065
+*   NSW: Ring nearest hospital or the Mental Health Line on 1800 011 511
+*   NT: Northern Territory Mental Health Services on 1800 682 288
+*   QLD: MH CALL Triage Service, 24 hours, 7 days, 1300 642 255
+*   SA: Mental Health Triage Service 13 14 65
+*   TAS: Mental Health Services Helpline, 24 hours, 7 days, 1800 332 388
+*   VIC: SuicideLine 1300 651 251 or ring nearest hospital for closest crisis team
+*   WA: Mental Health Emergency Response Line 1300 555 788 (Metro local call) or 1800 676 822 (Peel, free call). Elsewhere, call RuralLink on 1800 552 002.
 
-* ACT: Mental Health Triage Service, 24 hours, 7 days, 1800 629 354 or 02 6205 1065
-* NSW: Ring nearest hospital or the Mental Health Line on 1800 011 511
-* NT: Northern Territory Mental Health Services on 1800 682 288
-* QLD: MH CALL Triage Service, 24 hours, 7 days, 1300 642 255
-* SA: Mental Health Triage Service 13 14 65
-* TAS: Mental Health Services Helpline, 24 hours, 7 days, 1800 332 388
-* VIC: SuicideLine 1300 651 251 or ring nearest hospital for closest crisis team
-* WA: Mental Health Emergency Response Line 1300 555 788 (Metro local call) or 1800 676 822 (Peel, free call). Elsewhere, call RuralLink on 1800 552 002.
-
-# Websites
+<!-- Page 24 -->
+# WEBSITES
 
 ## Beyond Blue
-
 www.beyondblue.org.au
 
 This website provides a checklist to allow self-assessment of depression and anxiety, information sheets on depressive and anxiety disorders, and a 24-hour helpline which gives information and referral to services for anxiety and depression. There is also access to the BeyondNow suicide safety planning app.
 
 ## Bipolar Caregivers
-
 www.bipolarcaregivers.org
 
 This website provides information on how to support a person with bipolar disorder. The advice on this site is based on the consensus of expert panels of clinicians, caregivers and people with bipolar disorder.
 
 ## Black Dog Institute
-
 www.blackdoginstitute.org.au
 
 The Black Dog Institute is particularly good for information about bipolar disorder.
 
 ## BluePages
-
 www.bluepages.anu.edu.au
 
 This website provides information about symptoms, treatments, help and resources, and prevention. The BluePages site has been evaluated in a scientific trial and found to be effective in relieving depression symptoms if people work through it systematically.
 
 ## Head to Health
-
 www.headtohealth.gov.au
 
 This website is managed by the Australian Department of Health with input from people with lived experience of mental health issues and mental health organisations. It is a portal providing links to mental health organisations, evidence-based apps and online programs, forums, phone chat and email services.
 
 ## Mindspot
-
 www.mindspot.org.au
 
 Mindspot is a free telephone and online service for Australians with depression and anxiety problems. It provides mental health screening assessments, therapist-guided treatment courses and referrals to help people recover and stay well.
 
 ## MoodGYM
-
 www.moodgym.anu.edu.au
 
 This cognitive behaviour website teaches people to use ways of thinking that will help prevent and reduce depression. It has been evaluated in a scientific trial and found to be effective in relieving depression symptoms if people work though it systematically.
 
 ## myCompass
-
 www.mycompass.org.au
 
 This is an internet and mobile phone self-help program provided by the Black Dog Institute. It is designed for people with mild-to-moderate anxiety and depression. It allows the user to self-monitor feelings and behaviours that may be troubling then and provides self-help modules to learn the skills to manage these better.
 
 ## National Institute of Mental Health
-
 www.nimh.nih.gov
 
 This US government site gives a wealth of excellent, up-to-date information on depression and suicide in the form of downloadable booklets and fact sheets.
 
-## Panda
-
+## PANDA
 www.panda.org.au
 
 PANDA supports women, men and families across Australia affected by anxiety and depression during pregnancy and in the first year of parenthood. They also provide support relating to postnatal psychosis. Their website provides a range of useful factsheets, resources and checklists.
 
 ## Suicide Prevention Australia
-
 www.suicidepreventionaust.org
 
 Links and referrals to suicide prevention related helplines and services throughout Australia.
 
-## Qpr
-
+## QPR
 www.qprinstituteaustralia.com.au
 
 QPR (Question, Persuade and Refer) is a free online suicide prevention training course which takes about one hour to complete. It covers warning signs of suicide, how to apply QPR and how to offer hope and support.
 
-## This way up
-
+## THIS WAY UP
 www.thiswayup.org.au/self-help
 
 THIS WAY UP is run by the Clinical Research Unit for Anxiety and Depression in Sydney. It offers free information on depression and anxiety disorders, and brief online courses designed to help a person learn to overcome these disorders. The courses can be taken either as self-help or used under the guidance of a GP or mental health professional.
 
-# Support and education groups
+# SUPPORT AND EDUCATION GROUPS
 
 ## Partners in Depression
-
 www.partnersindepression.com.au
 
 Partners in Depression is a six week (2 hours per week) group education and support group program for people who love, live with or support someone experiencing depression, run by trained health and community professionals in community settings around Australia. It is an initiative of the Hunter Institute of Mental Health.
 
 ## Local Support Groups
-
 For information about support groups anywhere in Australia, see:
 www.blackdoginstitute.org.au/public/gettinghelp/othersupportgroups
 
-# Books
+# BOOKS
 
 Johnstone M. *I Had a Black Dog: His Name Was Depression*. Sydney, NSW, Australia: Pan Macmillan Australia; 2005.
 
@@ -1168,7 +1361,8 @@ Tanner S, Ball J. *Beating the Blues: A Self-Help Approach to Overcoming Depress
 
 This is an Australian self-help book based on cognitive behaviour therapy.
 
-## 2.2 anxiety problems
+<!-- Page 25 -->
+## 2.2 ANXIETY PROBLEMS
 
 _(IMAGE: An artistic collage depicting anxiety and panic attacks.)_
 
@@ -1177,21 +1371,22 @@ By Alexis Apfelboum
 
 "The picture takes on a comical look at the state of anxiety and panic attacks and employs the wide-eyed theatrics of silent film to do so. The sea in the picture threatens to swallow up the characters while the sea monsters are also a projection of the fear that threatens to overwhelm the personality during the panic attack. Humour has been one of the best tools to use against the fear that takes place in anxiety - against the inability to meet strangers, connect with others and feel safe."
 
-## 2.2 anxiety problems
+<!-- Page 26 -->
+## 2.2 ANXIETY PROBLEMS
 
-### What are anxiety problems?
+### WHAT ARE ANXIETY PROBLEMS?
 
 Everyone experiences anxiety at some time. When people describe their anxiety, they may use terms such as: anxious, stressed, uptight, nervous, frazzled, worried, tense or hassled. Although anxiety is an unpleasant state, it can be quite useful in helping a person to avoid dangerous situations and motivate the solving of everyday problems. Anxiety is mostly caused by perceived threats in the environment, but some people are more likely than others to react with anxiety when they are threatened.
 
 Anxiety can vary in severity from mild uneasiness through to a terrifying panic attack. Anxiety can also vary in how long it lasts, from a few moments to many years. Anxiety problems differ from normal anxiety in the following ways. They are:
 
-* more severe
-* longer lasting
-* interfere with the person's work, other activities or relationships.
+*   more severe
+*   longer lasting
+*   interfere with the person's work, other activities or relationships.
 
 Anxiety can affect someone's thinking, feeling, behaviour and physical well-being, as shown in the box below.
 
-### Signs and symptoms of anxiety
+### SIGNS AND SYMPTOMS OF ANXIETY
 
 **Thinking**
 
@@ -1207,13 +1402,13 @@ Avoidance of situations, obsessive or compulsive behaviour, distress in social s
 
 **Physical**
 
-* Pounding heart, chest pain, rapid heartbeat, blushing
-* Rapid, shallow breathing and shortness of breath
-* Dizziness, headache, sweating, tingling and numbness
-* Choking, dry mouth, stomach pains, nausea, vomiting and diarrhoea
-* Muscle aches and pains (especially neck, shoulders and back), restlessness, tremors and shaking.
+*   Pounding heart, chest pain, rapid heartbeat, blushing
+*   Rapid, shallow breathing and shortness of breath
+*   Dizziness, headache, sweating, tingling and numbness
+*   Choking, dry mouth, stomach pains, nausea, vomiting and diarrhoea
+*   Muscle aches and pains (especially neck, shoulders and back), restlessness, tremors and shaking.
 
-### What are anxiety disorders?
+### WHAT ARE ANXIETY DISORDERS?
 
 People with anxiety problems may be diagnosed with different types of anxiety disorders. These disorders differ from each other by the types of situations or things that the person feels anxious about and by the sorts of beliefs they have that exacerbate their anxiety. The main types of disorders where anxiety is a major feature are post-traumatic stress disorder, social anxiety disorder (social phobia), agoraphobia, generalised anxiety disorder, panic disorder, and obsessive-compulsive disorder. It is not unusual for a person to have more than one of these disorders. The table below shows how common each of these is.
 
@@ -1227,18 +1422,19 @@ A major symptom is re-experiencing the trauma. This may be in the form of recurr
 
 Percentage of Australians aged 16-85 with anxiety disorders in any one year\*
 
-| Type of Anxiety Disorder      | Males  | Females | All   |
+| Type of Anxiety Disorder                      | Males  | Females | All   |
 | :-------------------------------------------- | :----- | :------ | :---- |
-| Post-traumatic stress disorder    | 4.6%   | 8.3%    | 6.4%  |
-| Social anxiety disorder (social phobia)   | 3.8%   | 5.7%    | 4.7%  |
-| Agoraphobia       | 2.1%   | 3.5%    | 2.8%  |
-| Generalised anxiety disorder      | 2.0%   | 3.5%    | 2.7%  |
-| Panic disorder        | 2.3%   | 2.9%    | 2.6%  |
-| Obsessive-compulsive disorder     | 1.6%   | 2.2%    | 1.9%  |
-| **Any anxiety disorder**      | **10.8%** | **17.9%**   | **14.4%** |
+| Post-traumatic stress disorder                | 4.6%   | 8.3%    | 6.4%  |
+| Social anxiety disorder (social phobia)       | 3.8%   | 5.7%    | 4.7%  |
+| Agoraphobia                                   | 2.1%   | 3.5%    | 2.8%  |
+| Generalised anxiety disorder                  | 2.0%   | 3.5%    | 2.7%  |
+| Panic disorder                                | 2.3%   | 2.9%    | 2.6%  |
+| Obsessive-compulsive disorder                 | 1.6%   | 2.2%    | 1.9%  |
+| **Any anxiety disorder**                      | **10.8%** | **17.9%**   | **14.4%** |
 
 \* The National Survey of Mental Health and Wellbeing included post-traumatic stress disorder and obsessive-compulsive disorder in the types of anxiety disorders. However, since 2013, the American Psychiatric Association has classified them as separate types of disorders, while acknowledging that anxiety is an important factor in both.
 
+<!-- Page 27 -->
 # Anxiety Disorders
 
 It is common for people to feel greatly distressed immediately following a traumatic event. If their distress lasts longer than a month, they may have post-traumatic stress disorder. Only some people who are distressed following a traumatic event will go on to develop a mental illness such as post-traumatic stress disorder or depression.
@@ -1277,48 +1473,49 @@ Many people with anxiety problems do not fit neatly into a particular type of an
 
 People with anxiety disorders frequently use substances as a form of self-medication to help cope. This can lead to substance use problems. Furthermore, heavy use of alcohol and drugs can lead to increased anxiety.
 
-# Risk factors for anxiety disorders
+<!-- Page 28 -->
+# RISK FACTORS FOR ANXIETY DISORDERS
 
 People most at risk are those who: 34, 55
-* Have a more sensitive emotional nature and who tend to see the world as threatening
-* Have a history of anxiety in childhood or adolescence, including marked shyness
-* Are female
-* Misuse alcohol
-* Experience a traumatic event.
+*   Have a more sensitive emotional nature and who tend to see the world as threatening
+*   Have a history of anxiety in childhood or adolescence, including marked shyness
+*   Are female
+*   Misuse alcohol
+*   Experience a traumatic event.
 
 There are some family factors that increase risk for anxiety disorders:
 
-* A difficult childhood (for example, experiencing physical, emotional, or sexual abuse, neglect, or over-strictness)
-* A family background which involves poverty or a lack of job skills
-* A family history of anxiety disorders
-* Parental alcohol problems
-* Separation and divorce.
+*   A difficult childhood (for example, experiencing physical, emotional, or sexual abuse, neglect, or over-strictness)
+*   A family background which involves poverty or a lack of job skills
+*   A family history of anxiety disorders
+*   Parental alcohol problems
+*   Separation and divorce.
 
 Anxiety symptoms can also result from:
 
-* Some medical conditions such as hyperthyroidism, arrhythmias, respiratory conditions such as chronic obstructive pulmonary disorder, metabolic conditions such as vitamin B12 deficiency¹
-* Side effects of certain prescription and non-prescription medications
-* Intoxication with alcohol, amphetamines, caffeine, cannabis, cocaine, hallucinogens and inhalants
-* Withdrawal from alcohol, cocaine, sedatives and anti-anxiety medications.
+*   Some medical conditions such as hyperthyroidism, arrhythmias, respiratory conditions such as chronic obstructive pulmonary disorder, metabolic conditions such as vitamin B12 deficiency¹
+*   Side effects of certain prescription and non-prescription medications
+*   Intoxication with alcohol, amphetamines, caffeine, cannabis, cocaine, hallucinogens and inhalants
+*   Withdrawal from alcohol, cocaine, sedatives and anti-anxiety medications.
 
 Some people develop ways of reducing their anxiety that cause further problems. For example, people with phobias avoid anxiety-provoking situations. This avoidance reduces their anxiety in the short term, but can limit their lives in significant ways. Similarly, people with compulsions reduce their anxiety by repetitive acts such as washing hands. The compulsions then become problems in themselves. Some people will use drugs and alcohol to cope with anxiety, which can increase anxiety in the long term.
 
-# Interventions for anxiety disorders
+# INTERVENTIONS FOR ANXIETY DISORDERS
 
-## Professionals who can help
+## PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with an anxiety disorder:
 
-* GPs
-* Psychologists
-* Mental health nurses
-* Counsellors
-* Psychiatrists
-* Occupational therapists and social workers with mental health training.
+*   GPs
+*   Psychologists
+*   Mental health nurses
+*   Counsellors
+*   Psychiatrists
+*   Occupational therapists and social workers with mental health training.
 
 More information about how these professionals can help is available in Section 1.1 Mental Health Problems in Australia. If the person is uncertain about what to do, encourage the person to consult a GP first, as they can check whether there is an underlying physical health problem causing this anxiety and refer the person to the appropriate specialist help.
 
-## Treatments available for anxiety disorders
+## TREATMENTS AVAILABLE FOR ANXIETY DISORDERS
 
 Research shows that a wide range of treatments can help with anxiety disorders. 56
 
@@ -1326,25 +1523,26 @@ Research shows that a wide range of treatments can help with anxiety disorders. 
 
 Various psychological therapies are used for anxiety disorders, but the following have the strongest evidence for effectiveness:
 
-* **Cognitive behaviour therapy** is the best treatment for anxiety disorders of all types. It involves working with a therapist to look at patterns of thinking (cognition) and acting (behaviour) that are making the person more likely to have problems with anxiety or are making their anxiety worse. Once these patterns are recognised, then the person can make changes to replace these patterns with new ones that reduce anxiety and improve coping. To get the full benefit of cognitive behaviour therapy, a person needs to have sufficient number of sessions. As a guide, it is recommended that a person has 12-15 sessions of treatment for generalized anxiety disorder, 14-16 for social anxiety disorder, 4-14 for panic disorder, 8-12 for post-traumatic stress disorder and 10 for obsessive-compulsive disorder. 37
-* **Behaviour therapy (also known as exposure therapy)** is often a component of cognitive behaviour therapy. It involves exposing the person to the things that make them anxious. The person might be exposed to feared situations in real life or in imagination, usually in a gradual way. This type of therapy teaches the person that their fear will reduce without the need to avoid or escape the situation, and that their fears about the situation often do not come true or are not as bad as they thought.
-* **Self-help books** which are based on cognitive behaviour therapy or behaviour therapy can be useful (see *Helpful resources at the end of this chapter*). These are more effective when used under the guidance of a health professional.
-* **Computerised therapy** is self-help treatment delivered over the Internet or on a computer. Some are available for free (see *Helpful resources at the end of this chapter*). These are more effective when used under the guidance of a health professional. 38
+*   **Cognitive behaviour therapy** is the best treatment for anxiety disorders of all types. It involves working with a therapist to look at patterns of thinking (cognition) and acting (behaviour) that are making the person more likely to have problems with anxiety or are making their anxiety worse. Once these patterns are recognised, then the person can make changes to replace these patterns with new ones that reduce anxiety and improve coping. To get the full benefit of cognitive behaviour therapy, a person needs to have sufficient number of sessions. As a guide, it is recommended that a person has 12-15 sessions of treatment for generalized anxiety disorder, 14-16 for social anxiety disorder, 4-14 for panic disorder, 8-12 for post-traumatic stress disorder and 10 for obsessive-compulsive disorder. 37
+*   **Behaviour therapy (also known as exposure therapy)** is often a component of cognitive behaviour therapy. It involves exposing the person to the things that make them anxious. The person might be exposed to feared situations in real life or in imagination, usually in a gradual way. This type of therapy teaches the person that their fear will reduce without the need to avoid or escape the situation, and that their fears about the situation often do not come true or are not as bad as they thought.
+*   **Self-help books** which are based on cognitive behaviour therapy or behaviour therapy can be useful (see *Helpful resources at the end of this chapter*). These are more effective when used under the guidance of a health professional.
+*   **Computerised therapy** is self-help treatment delivered over the Internet or on a computer. Some are available for free (see *Helpful resources at the end of this chapter*). These are more effective when used under the guidance of a health professional. 38
 
 ### Medical treatments
 
 Scientific evidence supports the effectiveness of a number of medications:
 
-* **Antidepressant medications** are effective for most anxiety disorders as well as for depression.
-* **Other types of medication** can also be of help, particularly for generalised anxiety disorder. These include benzodiazepines, anticonvulsants, antihistamines, antipsychotics and azapirones. However, these medications can involve risks as well as benefits. For example, benzodiazepines should be restricted to short-term use only because of concerns about possible side effects of dependency, sedation, rebound anxiety and memory impairment.
+*   **Antidepressant medications** are effective for most anxiety disorders as well as for depression.
+*   **Other types of medication** can also be of help, particularly for generalised anxiety disorder. These include benzodiazepines, anticonvulsants, antihistamines, antipsychotics and azapirones. However, these medications can involve risks as well as benefits. For example, benzodiazepines should be restricted to short-term use only because of concerns about possible side effects of dependency, sedation, rebound anxiety and memory impairment.
 
 ### Complementary therapies and lifestyle changes
 
 The following has good scientific evidence for effectiveness in helping people with anxiety disorders:
 
-* **Relaxation training** involves learning to relax by tensing or relaxing specific groups of muscles, or by thinking of relaxing scenes or places. Recorded instructions are available for free on the Internet or can be bought on CDs (see *Helpful resources at the end of this chapter*). Relaxation training is most useful when learned under the guidance of a health professional.
+*   **Relaxation training** involves learning to relax by tensing or relaxing specific groups of muscles, or by thinking of relaxing scenes or places. Recorded instructions are available for free on the Internet or can be bought on CDs (see *Helpful resources at the end of this chapter*). Relaxation training is most useful when learned under the guidance of a health professional.
 
-# Action plan for anxiety problems
+<!-- Page 29 -->
+# ACTION PLAN FOR ANXIETY PROBLEMS
 
 _(IMAGE: A green banner with the words Mental Health First Aid Action Plan and the acronym ALGEE)_
 
@@ -1357,17 +1555,16 @@ _(IMAGE: A green banner with the words Mental Health First Aid Action Plan and t
 **E** ncourage other supports
 
 ## ACTION 1:
-
-### Approach the person, assess and assist with any crisis
+### APPROACH THE PERSON, ASSESS AND ASSIST WITH ANY CRISIS
 
 #### How to approach
 
 The approach that is helpful to someone with anxiety problems is very similar to that for someone experiencing depression - see Section 2.1 Depression. The key points are:
 
-* Approach the person about your concerns about their anxiety
-* Find a suitable time and space where you both feel comfortable
-* If the person does not initiate a conversation with you about how they are feeling, you should say something to them
-* Respect the person's privacy and confidentiality.
+*   Approach the person about your concerns about their anxiety
+*   Find a suitable time and space where you both feel comfortable
+*   If the person does not initiate a conversation with you about how they are feeling, you should say something to them
+*   Respect the person's privacy and confidentiality.
 
 #### How to assess and assist in a crisis
 
@@ -1385,18 +1582,18 @@ If you have concerns that the person may be engaging in *non-suicidal self-injur
 
 There is weaker evidence that acupuncture and yoga may help with some types of anxiety disorders. For further information see *A Guide to What Works for Anxiety Disorders* in the Helpful resources at the end of this chapter.
 
-### Importance of early intervention for anxiety problems
+### IMPORTANCE OF EARLY INTERVENTION FOR ANXIETY PROBLEMS
 
 It is important that anxiety problems are recognised and treated early because they can have a major impact on a person's subsequent life. Anxiety disorders often develop in childhood and adolescence and, if they are not treated, the person is more likely to have a range of adverse outcomes later in life such as depression, alcohol and drug problems, suicide attempts, lowered educational achievement and early motherhood. 55 Because of these long-term consequences, it is very important that anxiety disorders are recognised early and people get appropriate professional help.
 
-### Crises associated with anxiety problems
+### CRISES ASSOCIATED WITH ANXIETY PROBLEMS
 
 Associated anxiety crises include:
 
-* The person experiences an extreme level of anxiety such as a *panic attack*.
-* The person has severe anxiety following a *traumatic event*.
-* The person has suicidal thoughts and behaviours.
-* The person is engaging in non-suicidal self-injury.
+*   The person experiences an extreme level of anxiety such as a *panic attack*.
+*   The person has severe anxiety following a *traumatic event*.
+*   The person has suicidal thoughts and behaviours.
+*   The person is engaging in non-suicidal self-injury.
 
 #### Panic attack
 
@@ -1414,33 +1611,32 @@ Extreme levels of anxiety are the most obvious crisis seen in people with anxiet
 
 Anxiety disorders greatly increase the risk for non-suicidal self-injury. 42, 43 Non-suicidal self-injury may be a coping mechanism for feelings of unbearable anxiety. Almost 60% or people who engage in non-suicidal self- injury have been diagnosed with an anxiety disorder at some time in their lives. 43
 
+<!-- Page 30 -->
 # ACTION 2:
-
-## Listen and communicate non-judgementally
+## LISTEN AND COMMUNICATE NON-JUDGEMENTALLY
 
 See Action 2 in Section 2.1 Depression for more tips on non-judgemental listening and communication. Some main points to remember are:
 
-* Engage the person in discussing how they are feeling and listen carefully to what they say.
-* Do not express any negative judgements about the person's character or situation.
-* Be aware of your body language, including posture, eye contact, and physical position in relation to the other person.
-* To ensure you understand what the person says, reflect back what you hear and ask clarifying questions.
-* Allow silences; be patient, do not interrupt the person, and use only minimal prompts such as "I see" and "Ah".
-* Do not give flippant or unhelpful advice, such as "pull yourself together".
-* Avoid confrontation unless necessary to prevent harmful acts.
+*   Engage the person in discussing how they are feeling and listen carefully to what they say.
+*   Do not express any negative judgements about the person's character or situation.
+*   Be aware of your body language, including posture, eye contact, and physical position in relation to the other person.
+*   To ensure you understand what the person says, reflect back what you hear and ask clarifying questions.
+*   Allow silences; be patient, do not interrupt the person, and use only minimal prompts such as "I see" and "Ah".
+*   Do not give flippant or unhelpful advice, such as "pull yourself together".
+*   Avoid confrontation unless necessary to prevent harmful acts.
 
 # ACTION 3:
-
-## Give support and information
+## GIVE SUPPORT AND INFORMATION
 
 See Action 3 in Section 2.1 Depression for more advice about giving support and Information. The support and information that is helpful to someone with an anxiety problem is very similar to that given to someone experiencing depression. You can support the person in the following ways:
 
-* Treat the person with respect and dignity
-* Do not blame the person for their illness
-* Have realistic expectations for the person
-* Offer consistent emotional support and understanding
-* Give the person hope for recovery
-* Provide practical help
-* Offer information.
+*   Treat the person with respect and dignity
+*   Do not blame the person for their illness
+*   Have realistic expectations for the person
+*   Offer consistent emotional support and understanding
+*   Give the person hope for recovery
+*   Provide practical help
+*   Offer information.
 
 ### What isn't supportive
 
@@ -1449,8 +1645,7 @@ It is important for the first aider to know that recovery from anxiety problems 
 Other actions that are also not supportive include: dismissing their fears as trivial (for example, by saying "That is nothing to be afraid of"), telling them to "toughen up" or "don't be so weak", and speaking in a patronising tone of voice.
 
 # ACTION 4:
-
-## Encourage the person to get appropriate professional help
+## ENCOURAGE THE PERSON TO GET APPROPRIATE PROFESSIONAL HELP
 
 Many people with anxiety disorders do not realise there are treatments that can help them have a better life. In Australia, only 38% of the people who had an anxiety disorder in the past year received professional help for their problem. People can sometimes delay seeking help for many years. Delays of 10 years or more are not unusual. These delays can cause serious consequences in the person's life, limiting social and occupational opportunities and increasing the risk for depression, and drug and alcohol problems.
 
@@ -1458,18 +1653,17 @@ Many people with anxiety disorders do not realise there are treatments that can 
 
 Ask the person if they need help to manage how they are feeling. If they feel they do need help, then respond as follows:
 
-* Discuss the appropriate professional help and effective treatment options that they have for seeking help
-* Encourage the person to use these options
-* Offer to help them seek out these options
-* Encourage the person not to give up seeking appropriate professional help.
+*   Discuss the appropriate professional help and effective treatment options that they have for seeking help
+*   Encourage the person to use these options
+*   Offer to help them seek out these options
+*   Encourage the person not to give up seeking appropriate professional help.
 
 ### What if the person doesn't want help?
 
 The person may not want to seek professional help. You should find out if there are specific reasons why this is the case. For example, the person might be concerned about the cost of the service, or about not having a doctor they like. You may be able to help the person overcome their worry about seeking help. If the person still doesn't want help after you have explored their reasons with them, let them know that if they change their mind in the future about seeking help they can contact you. You must respect the person's right not to seek help unless you believe that they are at risk of harming themselves or others.
 
 # ACTION 5:
-
-## Encourage other supports
+## ENCOURAGE OTHER SUPPORTS
 
 ### Other people who can help
 
@@ -1481,9 +1675,10 @@ People who are troubled by anxiety frequently use self-help strategies. The pers
 
 People wishing to use self-help strategies should discuss these with a professional. Some self-help strategies may not be suitable for every person with an anxiety problem and people with more severe anxiety problems may need to use self-help strategies in conjunction with medical or psychological treatments.
 
-# Helpful resources for anxiety problems
+<!-- Page 31 -->
+# HELPFUL RESOURCES FOR ANXIETY PROBLEMS
 
-## Telephone and online
+## TELEPHONE AND ONLINE
 
 Lifeline 24-Hour Counselling and Crisis Support Chat
 13 11 14
@@ -1499,7 +1694,7 @@ PANDA supports women, men and families across Australia affected by anxiety and 
 
 Alternatively, you can email support@panda.org.au and a team member will get back to you during helpline hours.
 
-## Websites
+## WEBSITES
 
 Beyond Blue
 www.beyondblue.org.au
@@ -1541,7 +1736,7 @@ www.thiswayup.org.au
 
 THIS WAY UP is run by the Clinical Research Unit for Anxiety and Depression in Sydney. It offers free information on anxiety disorders and depression, online therapy and brief courses essentially in cartoon form, designed to help a person learn to overcome these disorders. The courses can be taken either as self-help or used under the guidance of a GP or mental health professional.
 
-## Support and education groups
+## SUPPORT AND EDUCATION GROUPS
 
 Mental Health Association NSW
 www.mentalhealth.asn.au
@@ -1558,7 +1753,7 @@ LOCAL SUPPORT GROUPS
 These groups exist in many regions and go under various names. They can be contacted through local mental health services or search online at:
 www.blackdoginstitute.org.au/public/gettinghelp/othersupportgroups.cfm
 
-## Books
+## BOOKS
 
 ### General books
 
@@ -1572,14 +1767,13 @@ Reavley NJ, Allen NB, Jorm, AF, Morgan AJ, Ryan S, Purcell R. A Guide to What Wo
 This booklet looks at what the scientific evidence has to say about a wide range of treatments for anxiety disorders. It is designed to help consumers make informed choices when seeking treatment. It is available for download from:
 http://resources.beyondblue.org.au/prism/file?token=BL/0762
 
+<!-- Page 32 -->
 ### Panic book
-
 Antony MM, McCabe R. *10 Simple Solutions to Panic: How to Overcome Panic Attacks, Calm Physical Symptoms, and Reclaim Your Life.* Oakland: New Harbinger Publications; 2004.
 
 This small-format self-help book is based on cognitive behaviour therapy principles and may help people who experience panic attacks. The focus is on thinking realistically about future attacks rather than worrying about them.
 
 ### Social anxiety books
-
 Rapee RM. *Overcoming Shyness and Social Phobia: A Step-by-step Guide.* Lanham: Rowman and Littlefield Publishers; 2004.
 
 This self-help book is based on cognitive behaviour therapy. Research has shown that people who work through the book systematically reduce their anxiety.
@@ -1589,19 +1783,16 @@ Antony MM, Swinson RP. *The Shyness and Social Anxiety Workbook: Proven Techniqu
 This large-format self-help workbook uses the principles of cognitive behaviour therapy to help people overcome shyness and social phobia.
 
 ### Phobia books
-
 *The I Can Do It* series of books describe cognitive behaviour therapy techniques for people to work on specific phobias. They are published by New Harbinger Publications, Oakland, CA, USA.
 
 Topics include: animal and insect phobias, medical phobias and fear of heights.
 
 ### Post-traumatic stress disorder book
-
 Williams MB, Piojula S. *The PTSD Workbook: Simple, Effective Techniques for Overcoming Traumatic Stress Symptoms* (2nd edition). Oakland: New Harbinger Publications; 2013.
 
 This self-help book draws on techniques and interventions used by post-traumatic stress disorder experts to offer trauma survivors the most effective tools available to conquer their most distressing symptoms.
 
 ### Obsessive-compulsive disorder books
-
 Foa EB, Wilson R. *Stop Obsessing: How to Overcome Your Obsessions and Compulsions.* New York: Bantam Books; 2001.
 
 A cognitive behaviour therapy based self-help manual for overcoming obsessive-compulsive disorder. Readers are encouraged to tailor a cognitive behaviour therapy program for themselves to target their specific obsessions and compulsions. It also includes self-tests and case studies from the authors' significant clinical backgrounds.
@@ -1616,7 +1807,7 @@ Munford P. *Overcoming Compulsive Checking: Free Your Mind From OCD.* Oakland: N
 
 Purdon C, Clark DA. *Overcoming Obsessive Thoughts: How to Gain Control of Your OCD.* Oakland: New Harbinger Publications; 2005.
 
-## 2.3 psychosis
+## 2.3 PSYCHOSIS
 
 _(IMAGE: An abstract painting titled "Dividing Psyche" by Mark.)_
 
@@ -1625,9 +1816,10 @@ by Mark
 
 "This is how it feels to have schizophrenia: disjointed."
 
-## 2.3 psychosis
+<!-- Page 33 -->
+## 2.3 PSYCHOSIS
 
-### What is psychosis?
+### WHAT IS PSYCHOSIS?
 
 Psychosis is a general term to describe a mental health problem in which a person has lost some contact with reality. There are severe disturbances in thinking, emotion and behaviour. Psychosis can severely disrupt a person's life. Relationships, work and other usual activities, and self-care can be difficult to initiate or maintain.
 
@@ -1635,11 +1827,11 @@ Psychotic disorders are less common than other mental illnesses, affecting aroun
 
 People usually experience psychosis in episodes. An episode can involve the following phases, which vary in length from person to person.
 
-* Premorbid (at risk phase) - the person does not experience any symptoms but has risk factors for developing psychosis.
-* Prodromal (becoming unwell phase) - the person has some changes in their emotions, motivation, thinking and perception or behaviour as described in the box below. The prodrome cannot be diagnosed and is only identifiable in retrospect. During the prodromal phase, it may be uncertain whether the person is developing a psychotic disorder or another more common mental illness.
-* Acute (psychotic phase) - the person is unwell with psychotic symptoms such as delusions, hallucinations, disorganised thinking and reduction in ability to maintain social relationships, work or study.
-* Recovery - this is an individual process the person goes through to attain a level of well-being.
-* Relapse - the person may only have one episode in their life or may go on to have other episodes.
+*   Premorbid (at risk phase) - the person does not experience any symptoms but has risk factors for developing psychosis.
+*   Prodromal (becoming unwell phase) - the person has some changes in their emotions, motivation, thinking and perception or behaviour as described in the box below. The prodrome cannot be diagnosed and is only identifiable in retrospect. During the prodromal phase, it may be uncertain whether the person is developing a psychotic disorder or another more common mental illness.
+*   Acute (psychotic phase) - the person is unwell with psychotic symptoms such as delusions, hallucinations, disorganised thinking and reduction in ability to maintain social relationships, work or study.
+*   Recovery - this is an individual process the person goes through to attain a level of well-being.
+*   Relapse - the person may only have one episode in their life or may go on to have other episodes.
 
 Some people have a single episode of psychosis. However, most people have multiple episodes with either full recovery between episodes or partial recovery between episodes. Around a third have a continuous illness.?
 
@@ -1667,9 +1859,9 @@ For 65% of people with psychosis, their first episode occurs before the age 25 y
 
 Many young people will have some of these symptoms without developing a psychosis. Others showing these symptoms will eventually be diagnosed as having one of the following disorders.
 
-### Substance use and psychosis
+### SUBSTANCE USE AND PSYCHOSIS
 
-### Mental illnesses where psychosis can occur
+### MENTAL ILLNESSES WHERE PSYCHOSIS CAN OCCUR
 
 #### Schizophrenia
 
@@ -1677,21 +1869,22 @@ The mental illness in which psychosis most commonly occurs is schizophrenia. Con
 
 The major symptoms of schizophrenia include:
 
-* **Delusions.** These are fixed false beliefs, for example of persecution, guilt, having a special mission or being under outside control. Although the delusions may seem bizarre to others, they are very real to the person experiencing them.
-* **Hallucinations.** These are false perceptions. Hallucinations most commonly involve hearing voices, but can also involve seeing, feeling, tasting or smelling things. These are perceived as very real by the person, but are not actually there. The hallucinations can be very frightening, especially voices making negative comments about the
+*   **Delusions.** These are fixed false beliefs, for example of persecution, guilt, having a special mission or being under outside control. Although the delusions may seem bizarre to others, they are very real to the person experiencing them.
+*   **Hallucinations.** These are false perceptions. Hallucinations most commonly involve hearing voices, but can also involve seeing, feeling, tasting or smelling things. These are perceived as very real by the person, but are not actually there. The hallucinations can be very frightening, especially voices making negative comments about the
 
 People with psychotic disorders have very high rates of substance use. In Australia in 2010, over two-thirds of people with psychotic disorders smoked tobacco daily' (compared to about 15% of adults generally in 2010), and they also smoked more cigarettes per day than others in the community. However, most people with psychotic disorders who smoke want to quit and they can be successfully helped by 'quit smoking' programs.
 
 Half of the people with psychotic disorders in Australia have at some time in their lives had harmful use or been dependent on alcohol (compared to 25% in the population as a whole). Similarly, half have had at some time in their lives had harmful use or been dependent on illicit drugs (compared to 9% in the population as a whole). These problems with alcohol and illicit drugs contribute to poorer functioning, increased risk of relapse and increased risk of health problems.
 
+<!-- Page 34 -->
 # Schizophrenia
 
 ...person. The person may hear more than one voice or experience many types of hallucinations. Because their delusions and hallucinations are so real to them, it is common for people with schizophrenia to be unaware they are ill.
 
-* Thinking difficulties. There may be difficulties in concentration, memory and ability to plan. These make it more difficult for the person to reason, communicate and complete daily tasks.
-* Loss of drive. The person lacks motivation even for self-care. It is not laziness.
-* Blunted or inappropriate emotions. The person does not react to the things around them or reacts inappropriately. Examples include speaking in a monotone, lack of facial expressions or gestures, lack of eye contact or reacting with anger or laughter when these are not appropriate.
-* Social withdrawal. The person may withdraw from contact with other people, even family and close friends. There may be a number of factors that lead to this withdrawal such as loss of drive, delusions that cause fear of interacting, difficulty concentrating on conversations and loss of social skills.
+*   Thinking difficulties. There may be difficulties in concentration, memory and ability to plan. These make it more difficult for the person to reason, communicate and complete daily tasks.
+*   Loss of drive. The person lacks motivation even for self-care. It is not laziness.
+*   Blunted or inappropriate emotions. The person does not react to the things around them or reacts inappropriately. Examples include speaking in a monotone, lack of facial expressions or gestures, lack of eye contact or reacting with anger or laughter when these are not appropriate.
+*   Social withdrawal. The person may withdraw from contact with other people, even family and close friends. There may be a number of factors that lead to this withdrawal such as loss of drive, delusions that cause fear of interacting, difficulty concentrating on conversations and loss of social skills.
 
 Approximately 0.4% of the population have been diagnosed with schizophrenia at some point in their life. ⁵⁶ Most people experience the onset of schizophrenia between the ages of 15 to 30 years, thus coinciding with the main period of social and educational achievement in life. In 77% of all people with schizophrenia, the onset of the disorder was before the age of 30, in 41% before the age of 20 and in 4% before the age of 10.⁶⁷ Schizophrenia affects males more than females and males tend to develop it earlier. ⁶⁸
 
@@ -1715,7 +1908,7 @@ Sometimes it is difficult to tell the difference between schizophrenia and bipol
 
 This is a psychosis brought on by intoxication with drugs or withdrawal from drugs or alcohol. The symptoms usually appear quickly and last a short time (from a few hours to a few days) until the effects of the drug wears off. The most common symptoms are visual hallucinations, disorientation and memory problems. Both legal and illegal drugs can contribute to a psychotic episode, including marijuana (cannabis), alcohol, cocaine, amphetamines (speed and ice), hallucinogens, inhalants, opioids, sedatives, hypnotics and anxiolytics.¹
 
-## Risk factors for psychotic disorders
+## RISK FACTORS FOR PSYCHOTIC DISORDERS
 
 It is believed that psychosis is caused by a combination of factors including genetics, biochemistry and stress. Biological factors could be genetic vulnerability, changes in the brain or a dysfunction in the neurotransmitters in the brain. Stress or drug use may trigger psychotic symptoms in vulnerable people.
 
@@ -1723,37 +1916,38 @@ It is believed that psychosis is caused by a combination of factors including ge
 
 The most significant risk factors include:
 
-* Having a close relative with schizophrenia. For someone with a parent or sibling with schizophrenia, the risk is around 10-15%. Although the risk is higher, it is important to note that 85-90% will not develop schizophrenia.
-* Male gender. Males are more likely to develop schizophrenia and tend to have an earlier age of onset.
-* Urban living. People who are born and grow up in urban areas are at higher risk than people from rural areas. The reason is unknown, but could be related to differences in the health of mothers during pregnancy, cannabis use, or social stressors.
-* Migration. People who are immigrants or the children of immigrants, have increased risk. The reason is unknown, but social stress from feeling like an outsider could be a factor.
-* Cannabis use. Cannabis use during adolescence increases risk, particularly in people who have other risk factors.⁷¹
+*   Having a close relative with schizophrenia. For someone with a parent or sibling with schizophrenia, the risk is around 10-15%. Although the risk is higher, it is important to note that 85-90% will not develop schizophrenia.
+*   Male gender. Males are more likely to develop schizophrenia and tend to have an earlier age of onset.
+*   Urban living. People who are born and grow up in urban areas are at higher risk than people from rural areas. The reason is unknown, but could be related to differences in the health of mothers during pregnancy, cannabis use, or social stressors.
+*   Migration. People who are immigrants or the children of immigrants, have increased risk. The reason is unknown, but social stress from feeling like an outsider could be a factor.
+*   Cannabis use. Cannabis use during adolescence increases risk, particularly in people who have other risk factors.⁷¹
 
 There are other risk factors that are far less significant and increase risk by only a very small amount. These include events during the mother's pregnancy (such as infections, severe nutritional deficiency, very stressful life events), birth complications, winter/ spring birth and older age of father.
 
 While there are a large number of possible risk factors for schizophrenia, these are thought to affect the development of the brain early in life and lead to changes in levels of the neurotransmitter (chemical messenger) dopamine. ⁷² Antipsychotic medications that are used for schizophrenia work by altering dopamine levels in the brain.
 
-## Risk factors for bipolar disorder
+## RISK FACTORS FOR BIPOLAR DISORDER
 
 The risk factors for bipolar disorder have been listed previously in Section 2.1 Depression.
 
-# Interventions for psychotic disorders
+<!-- Page 35 -->
+# INTERVENTIONS FOR PSYCHOTIC DISORDERS
 
-## Professionals who can help
+## PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with psychosis. They are:
 
-* GPs
-* Psychiatrists
-* Mental health nurses
-* Psychologists
-* Occupational therapists and social workers with mental health training
-* Counsellors
-* Case managers.
+*   GPs
+*   Psychiatrists
+*   Mental health nurses
+*   Psychologists
+*   Occupational therapists and social workers with mental health training
+*   Counsellors
+*   Case managers.
 
 More information about how these professionals can help is available in Section 1.1 Mental Health Problems in Australia.
 
-## Treatments available for psychosis
+## TREATMENTS AVAILABLE FOR PSYCHOSIS
 
 There are two aspects to professional help for psychosis that need to be considered. The first is medication and the second is treatments that improve outcomes and maximise quality of life.
 
@@ -1767,13 +1961,13 @@ The pattern of recovery from psychosis varies from person to person. Some people
 
 In the past people with schizophrenia were considered to have a chronic illness with no hope of recovery. It is now known that people who receive proper treatment can lead productive and fulfilling lives. In fact, research has demonstrated that recovery is possible for many people who are treated with medications and psychosocial rehabilitation programs. People with schizophrenia and other psychotic disorders need to be treated with optimism for a good outcome and in a spirit of partnership. They need to live in a stable and secure social environment. This includes a pleasant home environment, support from family and friends, an adequate income and a meaningful role in society.<sup>74</sup> There is evidence that the following specific treatments help people with schizophrenia:
 
-* ***Antipsychotic medications.*** These are effective for psychotic symptoms such as delusions and hallucinations. However, they are less effective for other symptoms such as lack of motivation, poor memory and problems with concentration. Antipsychotic medications can sometimes lead to weight gain and associated physical health problems such as diabetes, so a person taking this type of medication needs to have their physical health closely monitored.
-* ***Antidepressant medications.*** People with schizophrenia may have depression symptoms as well. Antidepressants are effective for treating these symptoms.
-* ***Physical health checks.*** People with schizophrenia often have poor physical health and may die prematurely as a result of preventable or treatable illnesses. It is important to have ongoing physical health check-ups with a GP.
-* ***Psychoeducation*** means education and empowerment of the person and their family about their illness and how best to manage it. This helps to reduce relapses. Family tension, a common result of trying to deal with a poorly understood disability, may contribute to a relapse in the person with schizophrenia, and psychoeducation can help to avoid this.
-* ***Cognitive behaviour therapy.*** This type of psychological therapy can help reduce psychotic symptoms by helping the person to develop alternative explanations of schizophrenia symptoms, reducing the impact of the symptoms on their life, and encouraging the person to take their medication.
-* ***Social skills training*** is used to improve social and independent living skills.
-* ***Assertive community treatment*** is an approach for people experiencing more severe illness. The care of the person is managed by a team of various kinds of health professionals, such as psychiatrist, nurse, psychologist and social worker. Care is available 24 hours a day and is tailored to the person's individual needs. Support is provided to family members as well. Assertive community treatment has been found to reduce relapses and the need for hospitalisation.
+*   ***Antipsychotic medications.*** These are effective for psychotic symptoms such as delusions and hallucinations. However, they are less effective for other symptoms such as lack of motivation, poor memory and problems with concentration. Antipsychotic medications can sometimes lead to weight gain and associated physical health problems such as diabetes, so a person taking this type of medication needs to have their physical health closely monitored.
+*   ***Antidepressant medications.*** People with schizophrenia may have depression symptoms as well. Antidepressants are effective for treating these symptoms.
+*   ***Physical health checks.*** People with schizophrenia often have poor physical health and may die prematurely as a result of preventable or treatable illnesses. It is important to have ongoing physical health check-ups with a GP.
+*   ***Psychoeducation*** means education and empowerment of the person and their family about their illness and how best to manage it. This helps to reduce relapses. Family tension, a common result of trying to deal with a poorly understood disability, may contribute to a relapse in the person with schizophrenia, and psychoeducation can help to avoid this.
+*   ***Cognitive behaviour therapy.*** This type of psychological therapy can help reduce psychotic symptoms by helping the person to develop alternative explanations of schizophrenia symptoms, reducing the impact of the symptoms on their life, and encouraging the person to take their medication.
+*   ***Social skills training*** is used to improve social and independent living skills.
+*   ***Assertive community treatment*** is an approach for people experiencing more severe illness. The care of the person is managed by a team of various kinds of health professionals, such as psychiatrist, nurse, psychologist and social worker. Care is available 24 hours a day and is tailored to the person's individual needs. Support is provided to family members as well. Assertive community treatment has been found to reduce relapses and the need for hospitalisation.
 
 ## Shared decision-making about treatment for psychotic disorders
 
@@ -1787,30 +1981,31 @@ Unfortunately, side effects are the main reason people stop taking medication. C
 
 For this reason, it is important to negotiate the best treatments with a skilled clinician and discuss the various risks and benefits with them before making decisions about treatment. Choosing the right medication and reaching agreement on the right dose can take time and requires good communication.
 
+<!-- Page 36 -->
 ## Bipolar disorder treatments
 
 The treatments for bipolar disorder have been listed previously in Section 2.1 Depression.
 
-## Importance of early intervention for psychosis
+## IMPORTANCE OF EARLY INTERVENTION FOR PSYCHOSIS
 
 Early intervention for people with psychosis is most important. Research has shown that the longer the delay between the onset of psychosis and the start of treatment, the less likely the person is to recover.9 Other consequences of delayed treatment include: 62
 
-* Poorer long-term functioning
-* Increased risk of depression and suicide
-* Slower psychological maturation and slower uptake of adult responsibilities
-* Strain on relationships with friends and family and subsequent loss of social supports
-* Disruption of study and employment
-* Increased use of drugs and alcohol
-* Loss of self-esteem and confidence
-* Greater chance of problems with the law.
+*   Poorer long-term functioning
+*   Increased risk of depression and suicide
+*   Slower psychological maturation and slower uptake of adult responsibilities
+*   Strain on relationships with friends and family and subsequent loss of social supports
+*   Disruption of study and employment
+*   Increased use of drugs and alcohol
+*   Loss of self-esteem and confidence
+*   Greater chance of problems with the law.
 
-## Crises associated with psychosis
+## CRISES ASSOCIATED WITH PSYCHOSIS
 
 Crises that may be associated with psychosis are:
 
-* The person is in a severe psychotic state.
-* The person is showing aggressive behaviours.
-* The person has suicidal thoughts or behaviours.
+*   The person is in a severe psychotic state.
+*   The person is showing aggressive behaviours.
+*   The person has suicidal thoughts or behaviours.
 
 ### Severe psychotic states
 
@@ -1826,15 +2021,16 @@ Psychotic disorders involve a high risk of suicide. Around 67% of people with a 
 
 The main factors to be taken into account when assessing risk of suicide in people experiencing psychotic symptoms are:82 83
 
-* Depression
-* Previous suicide attempt
-* Poor adherence to treatment
-* Fears of the impact of the illness on mental functioning
-* Recent loss
-* Family history of suicide
-* Younger age of onset
-* Drug use problems.
+*   Depression
+*   Previous suicide attempt
+*   Poor adherence to treatment
+*   Fears of the impact of the illness on mental functioning
+*   Recent loss
+*   Family history of suicide
+*   Younger age of onset
+*   Drug use problems.
 
+<!-- Page 37 -->
 # MENTAL HEALTH FIRST AID® ACTION PLAN FOR PSYCHOSIS
 
 ## MENTAL HEALTH FIRST AID® ACTION PLAN
@@ -1850,13 +2046,11 @@ The main factors to be taken into account when assessing risk of suicide in peop
 **E**ncourage other supports
 
 ## ACTION 1:
-
 APPROACH THE PERSON,
 ASSESS AND ASSIST
 WITH ANY CRISIS
 
 ### How to approach
-
 People developing a psychotic disorder will often not reach out for help. Someone who is experiencing profound and frightening changes such as psychotic symptoms will often try to keep them a secret. If you are concerned about someone, approach the person in a caring and non-judgemental manner to discuss your concerns. Let the person know that you are concerned about them and want to help. The person you are trying to help might not trust you or might be afraid of being perceived as 'different', and therefore may not be open with you.
 
 If possible, you should approach the person privately about their experiences in a place that is free of distractions. Try to tailor your approach and interaction to the way the person is behaving (e.g. if the person is suspicious and avoiding eye contact, be sensitive to this and give them the space they need). Do not touch the person without their permission. If the person is unwilling to talk with you, do not try to force them to talk about their experiences. Rather, let them know that you will be available if they would like to talk in the future.
@@ -1864,7 +2058,6 @@ If possible, you should approach the person privately about their experiences in
 You should state the specific behaviours you are concerned about and should not speculate about the person's diagnosis. It is important to allow the person to talk about their experiences and beliefs if they want to. As far as possible, let the person set the pace and style of the interaction. You should recognise that they may be frightened by their thoughts and feelings.
 
 ### How to assess and assist in a crisis
-
 As you talk with the person, be on the lookout for any indications that the person may be in crisis.
 
 If you have concerns that the person is in a **severe psychotic state**, find out how to **assess** and **assist** this person in Section 3.5 *First Aid for Severe Psychotic States*.
@@ -1873,122 +2066,105 @@ If you have concerns that the person is showing **aggressive behaviour**, find o
 
 If you have concerns that the person may be having **suicidal thoughts and behaviours**, find out how to **assess** and **assist** this person in Section 3.1 *First Aid for Suicidal Thoughts and Behaviours*.
 
-<!-- Page 65 -->
-
-## Action 2:
-
+## ACTION 2:
 LISTEN AND COMMUNICATE
 NON-JUDGEMENTALLY
 
 The person may be behaving and talking differently due to psychotic symptoms. They may also find it difficult to tell what is real from what is not.
 
 What you should try to do:
-* Understand the symptoms for what they are
-* Empathise with how the person feels about their beliefs and experiences.
+*   Understand the symptoms for what they are
+*   Empathise with how the person feels about their beliefs and experiences.
 
 Things you should not do:
-* Do not confront the person
-* Do not criticise or blame them
-* Try not to take their delusional comments personally
-* Do not use sarcasm
-* Do not use patronising statements
-* Do not state any judgements about the content of those beliefs and experiences.
+*   Do not confront the person
+*   Do not criticise or blame them
+*   Try not to take their delusional comments personally
+*   Do not use sarcasm
+*   Do not use patronising statements
+*   Do not state any judgements about the content of those beliefs and experiences.
 
 See Action 2 in Section 2.1 *Depression* for more on non-judgemental listening and communication.
 
 ## Dealing with delusions and hallucinations
-
 It is important to recognise that the delusions and hallucinations are very real to the person. Because of this, you should not do the following:
-* Do not dismiss, minimise or argue with the person about their delusions or hallucinations
-* Do not act alarmed, horrified or embarrassed by the person's delusions or hallucinations
-* Do not laugh at the person's symptoms of psychosis
-* Do not encourage or inflame the person's paranoia, if the person exhibits paranoid behaviour.
+*   Do not dismiss, minimise or argue with the person about their delusions or hallucinations
+*   Do not act alarmed, horrified or embarrassed by the person's delusions or hallucinations
+*   Do not laugh at the person's symptoms of psychosis
+*   Do not encourage or inflame the person's paranoia, if the person exhibits paranoid behaviour.
 
 You can respond to the person's delusions without agreeing with them by saying something like "That must be horrible for you" or "I can see that you are upset".
 
 ## Dealing with communication difficulties
-
 People experiencing symptoms of psychosis are often unable to think or communicate clearly. Ways to deal with communication difficulties include:
-* Responding to disorganised speech by communicating in an uncomplicated and succinct manner
-* Repeating things if necessary
-* Being patient and allow plenty of time for the person to process the information and respond to what you have said
-* Being aware that it does not mean that the person is not feeling anything, even if the person is showing a limited range of feelings
-* Not assuming the person cannot understand what you are saying, even if their response is limited.
+*   Responding to disorganised speech by communicating in an uncomplicated and succinct manner
+*   Repeating things if necessary
+*   Being patient and allow plenty of time for the person to process the information and respond to what you have said
+*   Being aware that it does not mean that the person is not feeling anything, even if the person is showing a limited range of feelings
+*   Not assuming the person cannot understand what you are saying, even if their response is limited.
 
+<!-- Page 38 -->
 # ACTION 3:
-
-## Give support and information
+## GIVE SUPPORT AND INFORMATION
 
 ### Treat the person with respect and dignity
-
 It is important to respect the person's autonomy while considering the extent to which they are able to make decisions for themselves. Equally, you should respect the person's privacy and confidentiality unless you are concerned that the person is at risk of harming themselves or others. It is important that you are honest when interacting with the person.
 
 ### Offer consistent emotional support and understanding
-
 Reassure them that you are there to help and support them, and that you want to keep them safe.
 
 ### Give the person hope for recovery
-
 Convey a message of hope by assuring them that help is available and things can get better.
 
 ### Provide practical help
-
 Try to find out what type of assistance they need by asking what will help them to feel safe and in control. If possible, offer the person choices of how you can help them so that they are in control. Do not make any promises that you cannot keep. This can create an atmosphere of distrust and add to the person's distress.
 
 ### Offer information
-
 When a person is in a severe psychotic state, it is usually difficult and inappropriate to give information about psychosis. When the person is more lucid and in touch with reality, you could ask the person if they would like some information about psychosis. If they do want some information, it is important that you give them resources that are accurate and appropriate to their situation.
 
 # ACTION 4:
-
-## Encourage the person to get appropriate professional help
+## ENCOURAGE THE PERSON TO GET APPROPRIATE PROFESSIONAL HELP
 
 ### Discuss options for seeking professional help
-
 You could ask the person if they have felt this way before and, if so, what they have done in the past that has been helpful. If the person decides to seek professional help, you should make sure that they are supported both emotionally and practically in accessing services. If the person does seek help, and either they or you lack confidence in the medical advice they have received, they should seek a second opinion from another medical or mental health professional.
 
 ### What if the person doesn't want help?
-
 The person may refuse to seek help even if they realise they are unwell. Their confusion and fear about what is happening to them may lead them to deny that anything is wrong. In this case you should encourage them to talk to someone they trust. It is also possible that a person may refuse to seek help because they lack insight that they are unwell. They might actively resist your attempts to encourage them to seek help. In either case, your course of action should depend on the type and severity of the person's symptoms.
 
 It is important to recognise that unless a person with psychosis meets the criteria for involuntary treatment procedures, they cannot be forced into treatment. If they are not at risk of harming themselves or others, you should remain patient, as people experiencing psychosis often need time to develop insight regarding their illness. Never threaten the person with mental health legislation or hospitalisation. Instead remain friendly and open to the possibility that they may want your help in the future.
 
 # ACTION 5:
-
-## Encourage other supports
+## ENCOURAGE OTHER SUPPORTS
 
 ### Other people who can help
-
 Try to determine whether the person has a supportive social network and, if they do, encourage them to utilise these supports.
 
 Family and friends are an important source of support for a person experiencing a psychotic Illness. A person is less likely to relapse if they have good relationships with family. Family and friends can help by:
 
-* Listening to the person without judging or being critical
-* Keeping the person's life as stress-free as possible to reduce the chance of relapse
-* Encouraging the person to get appropriate treatment and support
-* Checking if the person is feeling suicidal and taking immediate action if the person is suicidal
-* Providing the same support as they would for a physically ill person - these include sending get-well cards, flowers, phoning or visiting the person, and helping out if they cannot manage
-* Having an understanding of psychosis
-* Looking for support from a carers' support group
-* Helping the person to develop an Advance Care Directive, wellness plan, relapse prevention plan or personal directive (see box).
+*   Listening to the person without judging or being critical
+*   Keeping the person's life as stress-free as possible to reduce the chance of relapse
+*   Encouraging the person to get appropriate treatment and support
+*   Checking if the person is feeling suicidal and taking immediate action if the person is suicidal
+*   Providing the same support as they would for a physically ill person - these include sending get-well cards, flowers, phoning or visiting the person, and helping out if they cannot manage
+*   Having an understanding of psychosis
+*   Looking for support from a carers' support group
+*   Helping the person to develop an Advance Care Directive, wellness plan, relapse prevention plan or personal directive (see box).
 
 Support groups can be helpful to the person experiencing psychosis and their family members.
 
 ### What is an Advance Care Directive?
-
 An Advance Care Directive is a document describing how the person wants to be treated when they are unable to make their own decisions due to their present state of Illness. This is an agreement made between the person, their family, and hopefully their usual healthcare professional. It is not usually a legal document, but this varies between states and territories.
 
 ### What is an Enduring Power of Attorney?
-
 An Enduring Power of Attorney is a legal agreement where a person appoints someone of their choice to manage their legal and financial affairs. This is developed when a person is of sound mind. As the agreement is 'enduring', it will continue to apply if the person becomes unable to make their own decisions (legally described as being of 'unsound mind').
 
 ### What is an Enduring Power of Guardianship?
-
 An Enduring Power of Guardianship is a legal agreement where a person appoints someone of their choice to manage, where necessary, medical and welfare decisions on their behalf. It only comes into effect when the person becomes unable to make their own decisions.
 
 The laws regarding Advance Care Directives, Enduring Power of Attorney and Enduring Power of Guardianship can vary between different states and territories, and legal advice should be sought.
 
-# Self-help strategies
+<!-- Page 39 -->
+# SELF-HELP STRATEGIES
 
 People experiencing psychosis should avoid the use of alcohol, cannabis and other drugs. People sometimes take substances as a way of coping with a developing psychotic illness, but these drugs can make the symptoms worse, initiate relapse and make the disorder difficult to diagnose. The use of cannabis can also slow down recovery.
 
@@ -1996,9 +2172,9 @@ Many people experiencing psychosis also have a depressive or anxiety disorder. M
 
 Not all self-help strategies are suitable for all people with psychotic illnesses; for example, SAMe may trigger mania in people with bipolar disorder. The benefits of exercise for depression have been well studied, but little research has been done on exercise in bipolar disorder. People with bipolar disorder may benefit from an exercise regime, but should be wary when there are warning signs of a manic episode. If exercise appears too stimulating during those times, decreasing the frequency or intensity of exercise may be a good idea.
 
-# Helpful resources for psychosis
+# HELPFUL RESOURCES FOR PSYCHOSIS
 
-## Telephone support
+## TELEPHONE SUPPORT
 
 **SANE Helpline**
 1800 18 SANE (7263)
@@ -2028,7 +2204,7 @@ WA: Mental Health Emergency Response Line 1300 555 788 (Metro, local call) or 18
 
 PANDA supports women, men and families across Australia affected by anxiety and depression during pregnancy and in the first year of parenthood. They also provide support relating to postnatal psychosis. The national helpline is available from 9am-7.30pm Monday to Friday AEST. Alternatively, you can email support@panda.org.au and a team member will get back to you during helpline hours.
 
-# Websites
+# WEBSITES
 
 **Schizophrenia 24x7**
 www.schizophrenia24x7.com
@@ -2055,7 +2231,7 @@ www.panda.org.au
 
 PANDA supports women, men and families across Australia affected by anxiety and depression during pregnancy and in the first year of parenthood. They also provide support relating to postnatal psychosis. Their website provides a range of useful factsheets, resources and checklists.
 
-# Support and education groups
+# SUPPORT AND EDUCATION GROUPS
 
 **Mental Illness Fellowship of Australia**
 www.mifa.org.au
@@ -2072,7 +2248,8 @@ Mental Health Carers Australia supports and promotes the well-being of families 
 These groups exist in many regions and go under various names. They can be contacted through local mental health services or search online at:
 www.blackdoginstitute.org.au/public/gettinghelp/othersupportgroups.cfm
 
-# Books
+<!-- Page 40 -->
+# BOOKS
 
 ## Schizophrenia
 
@@ -2098,7 +2275,7 @@ Eyers K, Parker G (eds). *Mastering Bipolar Disorder: An Insider's Guide to Mana
 
 This book, produced by the Black Dog Institute, incorporates the latest research on bipolar disorder and personal stories of people with bipolar disorder.
 
-## 2.4 substance use problems
+## 2.4 SUBSTANCE USE PROBLEMS
 
 _(IMAGE: A painting of a syringe in a martini glass, with pills and powder below. A skull is faintly visible in the background.)_
 
@@ -2107,31 +2284,32 @@ By Hien Bui
 
 "The pink background describes the 'high' feelings but in the dark part as depression comes out when all the 'high' feelings smoke coming out of the pot has a figure of a skull of the
 
-## 2.4 substance use problems
+<!-- Page 41 -->
+## 2.4 SUBSTANCE USE PROBLEMS
 
-### What are substance use problems?
+### WHAT ARE SUBSTANCE USE PROBLEMS?
 
 Not all people who use a substance will have substance use problems. Substance use problems occur when a person is using alcohol or other drugs at levels that are associated with short-term or long-term harm. Substance use problems are not just a matter of how much of a substance a person uses, but how their use affects their life and those around them.
 
 For a person to have a substance use disorder, their substance use problems must have an adverse effect on their life during the past year in two or more of the following areas:
 
-* The substance is often taken in larger amounts or for a longer period than intended.
-* The person wants to cut down use, but finds this difficult.
-* A lot of time is spent obtaining the substance, using it or recovering from its effects.
-* Craving (i.e. a strong urge) to use the substance.
-* Repeated use that affects their ability to fulfil their work, school or home responsibilities, e.g. repeated absences from work, poor work performance, neglect of children or household.
-* Repeated use despite this causing ongoing problems with other people, e.g. arguments, fights.
-* Other important activities are neglected because of the substance use.
-* Repeated use in situations where it is physically hazardous, e.g. driving a car or using machinery while affected by a substance.
-* Continued use despite knowing that they have a mental or physical health problem caused by the substance.
-* Tolerance for the substance, i.e. the person needs to use increasing amounts to get the desired effect or they get less effect with the same amount of the substance.
-* Withdrawal symptoms or the substance is needed to avoid withdrawal symptoms.
+*   The substance is often taken in larger amounts or for a longer period than intended.
+*   The person wants to cut down use, but finds this difficult.
+*   A lot of time is spent obtaining the substance, using it or recovering from its effects.
+*   Craving (i.e. a strong urge) to use the substance.
+*   Repeated use that affects their ability to fulfil their work, school or home responsibilities, e.g. repeated absences from work, poor work performance, neglect of children or household.
+*   Repeated use despite this causing ongoing problems with other people, e.g. arguments, fights.
+*   Other important activities are neglected because of the substance use.
+*   Repeated use in situations where it is physically hazardous, e.g. driving a car or using machinery while affected by a substance.
+*   Continued use despite knowing that they have a mental or physical health problem caused by the substance.
+*   Tolerance for the substance, i.e. the person needs to use increasing amounts to get the desired effect or they get less effect with the same amount of the substance.
+*   Withdrawal symptoms or the substance is needed to avoid withdrawal symptoms.
 
 Approximately 5.1% of Australians aged 16 or over have a substance use disorder in a given year. Alcohol use disorders affect 4.3% and other drug use disorders 1.4%. Males are affected by substance use disorders more than females (7.0% vs. 3.3%). Substance use disorders tend to begin in adolescence or early adulthood with a median age of onset of 18 years which means that half the people who will ever have a substance use disorder will experience its onset before this age.
 
 Substance use disorders often co-occur with depressive, bipolar, anxiety and psychotic disorders. People with a psychotic disorder are over twice as likely to have an alcohol use disorder and six times as likely to have drug use disorder compared to people without a psychotic disorder. People with an anxiety or depressive disorder are three times as likely to have a substance use disorder. One reason for this is that many people use alcohol or other drugs to relieve unpleasant emotions. However, alcohol or other drug use can also cause other problems in a person's life (e.g. relationship or financial problems) and heavy use may contribute to or exacerbate a mental illness.
 
-### Alcohol use problems
+### ALCOHOL USE PROBLEMS
 
 Alcohol makes people less alert and impairs concentration and coordination. Some people use alcohol to reduce anxiety and, in the short term, it can help with this. In small quantities, alcohol causes people to relax and lower their inhibitions. They can feel more confident and often act more extroverted. However, alcohol use can produce a range of short-term and long-term problems.
 
@@ -2139,37 +2317,38 @@ Alcohol makes people less alert and impairs concentration and coordination. Some
 
 When a person is intoxicated, they are at risk of a number of problems, such as:
 
-* **Physical injuries.** People are more likely to engage in risky behaviour which can lead to injury or death. Alcohol is a big contributor to traffic accidents. Also, intoxication can in itself lead to poor motor co-ordination resulting in staggering or falling and slurred speech, and even to medical emergencies such as continual vomiting or unconsciousness.
-* **Aggression and antisocial behaviour.** People can become aggressive and are at a much higher risk of committing crimes.
-* **Sexual risk taking and unplanned sexual contact.** People are more likely to engage in unsafe sex practices while affected by substances. People may engage in sexual activity that they wouldn't agree to while sober. Sexual risk taking may result in unwanted pregnancy or sexually transmitted infections.
-* **Becoming a victim of crime.** While affected by alcohol and other drugs, people are at an increased risk of becoming victims of violent crime including physical or sexual assault.
-* **Suicide and self-injury.** When a person is intoxicated, they are more likely to act on suicidal thoughts or injure themselves. Alcohol increases risk in several ways. It acts as a mood amplifier, intensifying feelings of anxiety, depression, or anger, reduces inhibitions, and inhibits the use of more effective coping strategies.
+*   **Physical injuries.** People are more likely to engage in risky behaviour which can lead to injury or death. Alcohol is a big contributor to traffic accidents. Also, intoxication can in itself lead to poor motor co-ordination resulting in staggering or falling and slurred speech, and even to medical emergencies such as continual vomiting or unconsciousness.
+*   **Aggression and antisocial behaviour.** People can become aggressive and are at a much higher risk of committing crimes.
+*   **Sexual risk taking and unplanned sexual contact.** People are more likely to engage in unsafe sex practices while affected by substances. People may engage in sexual activity that they wouldn't agree to while sober. Sexual risk taking may result in unwanted pregnancy or sexually transmitted infections.
+*   **Becoming a victim of crime.** While affected by alcohol and other drugs, people are at an increased risk of becoming victims of violent crime including physical or sexual assault.
+*   **Suicide and self-injury.** When a person is intoxicated, they are more likely to act on suicidal thoughts or injure themselves. Alcohol increases risk in several ways. It acts as a mood amplifier, intensifying feelings of anxiety, depression, or anger, reduces inhibitions, and inhibits the use of more effective coping strategies.
 
 #### Long-term problems caused by alcohol use
 
 With heavy and prolonged use, alcohol can cause physical, psychological and social problems.
 
-* **Alcohol use disorders.** People who regularly drink alcohol above the recommended levels (see below), particularly those who start at an early age, have an increased risk of developing an alcohol use disorder.
-* **Other substance use disorders.** People who use alcohol are more likely to be introduced to other drugs.
-* **Depression and anxiety.** Heavy alcohol use increases risk of depression and anxiety. If a person is feeling suicidal, they are more likely to attempt suicide when under the effect of alcohol.
-* **Social problems.** Misuse of alcohol is associated with family conflict, dropping out of school, unemployment, social isolation and legal problems.
-* **Physical health problems.** In the long term, heavy use of alcohol can produce problems such as liver disease, brain damage, heart impairment, cancers, diabetes, muscle weakness, pancreatitis, ulcers and gastrointestinal bleeding, nerve damage to hands and feet, weight gain, and risks to unborn babies.
+*   **Alcohol use disorders.** People who regularly drink alcohol above the recommended levels (see below), particularly those who start at an early age, have an increased risk of developing an alcohol use disorder.
+*   **Other substance use disorders.** People who use alcohol are more likely to be introduced to other drugs.
+*   **Depression and anxiety.** Heavy alcohol use increases risk of depression and anxiety. If a person is feeling suicidal, they are more likely to attempt suicide when under the effect of alcohol.
+*   **Social problems.** Misuse of alcohol is associated with family conflict, dropping out of school, unemployment, social isolation and legal problems.
+*   **Physical health problems.** In the long term, heavy use of alcohol can produce problems such as liver disease, brain damage, heart impairment, cancers, diabetes, muscle weakness, pancreatitis, ulcers and gastrointestinal bleeding, nerve damage to hands and feet, weight gain, and risks to unborn babies.
 
-# How much is too much?
+<!-- Page 42 -->
+# HOW MUCH IS TOO MUCH?
 
 In 2020, the National Health and Medical Research Council (NHMRC) made the following recommendations for levels of drinking to help reduce the risk of alcohol-related harm over a person's lifetime: 91
 
 **For healthy adults aged 18 years and over:**
 
-* To reduce the risk of harm from alcohol-related disease or injury, healthy men and women should drink no more than 10 standard drinks a week and no more than 4 standard drinks on any one day.
-* The less you drink, the lower your risk of harm from alcohol.
+*   To reduce the risk of harm from alcohol-related disease or injury, healthy men and women should drink no more than 10 standard drinks a week and no more than 4 standard drinks on any one day.
+*   The less you drink, the lower your risk of harm from alcohol.
 
 **For women who are pregnant, are planning a pregnancy or are breastfeeding:**
 
-* To prevent harm from alcohol to their unborn child, women who are pregnant or planning a pregnancy should not drink alcohol.
-* For women who are breastfeeding, not drinking alcohol is safest for their baby.
+*   To prevent harm from alcohol to their unborn child, women who are pregnant or planning a pregnancy should not drink alcohol.
+*   For women who are breastfeeding, not drinking alcohol is safest for their baby.
 
-# Measuring drinks
+# MEASURING DRINKS
 
 A standard drink contains about 10 grams of alcohol. The table below shows different alcoholic drinks that are equal to one standard drink. The average time taken by the human liver to break down 10g of alcohol is one hour.
 
@@ -2177,32 +2356,32 @@ It is useful to be aware of the terms used to describe different drink sizes. In
 
 Number of standard drinks in various alcoholic beverages?t
 
-| Alcoholic Beverage      | Standard Drinks |
+| Alcoholic Beverage                  | Standard Drinks |
 | :---------------------------------- | :-------------- |
-| **Low strength beer (2.75% alcohol)** |     |
-| 1 can or stubby     | 0.8     |
-| 285ml glass     | 0.6     |
-| 425ml glass     | 0.9     |
-| **Mid strength /light beer (3.5% alcohol)** |     |
-| 1 can or stubby     | 1   |
-| 285ml glass     | 0.8     |
-| 425ml glass     | 1.2     |
-| **Full strength beer (4.9% alcohol)** |     |
-| 1 can or stubby     | 1.4     |
-| 285ml glass     | 1.1     |
-| 425ml glass     | 1.6     |
-| **Wine (9.5%-13% alcohol)**     |     |
-| 100ml glass     | 1   |
-| Average restaurant serving (150ml)  | 1.4 - 1.6   |
-| 750ml bottle        | 7 - 8   |
-| **Spirits (37%-40% alcohol)**    |     |
-| 1 nip (30ml)        | 1   |
-| 700ml bottle        | 22      |
-| **Pre-mixed spirits (5%-7% alcohol)** |     |
-| 1 can (375ml)       | 1.5-2.1     |
-| 1 bottle (275ml)    | 1.1-1.5     |
+| **Low strength beer (2.75% alcohol)** |                 |
+| 1 can or stubby                     | 0.8             |
+| 285ml glass                         | 0.6             |
+| 425ml glass                         | 0.9             |
+| **Mid strength /light beer (3.5% alcohol)** |                 |
+| 1 can or stubby                     | 1               |
+| 285ml glass                         | 0.8             |
+| 425ml glass                         | 1.2             |
+| **Full strength beer (4.9% alcohol)** |                 |
+| 1 can or stubby                     | 1.4             |
+| 285ml glass                         | 1.1             |
+| 425ml glass                         | 1.6             |
+| **Wine (9.5%-13% alcohol)**         |                 |
+| 100ml glass                         | 1               |
+| Average restaurant serving (150ml)  | 1.4 - 1.6       |
+| 750ml bottle                        | 7 - 8           |
+| **Spirits (37%-40% alcohol)**        |                 |
+| 1 nip (30ml)                        | 1               |
+| 700ml bottle                        | 22              |
+| **Pre-mixed spirits (5%-7% alcohol)** |                 |
+| 1 can (375ml)                       | 1.5-2.1         |
+| 1 bottle (275ml)                    | 1.1-1.5         |
 
-# Drug use problems
+# DRUG USE PROBLEMS
 
 While alcohol is the main substance that is misused in Australia, there is a wide variety of other drugs that can cause problems and lead to substance use disorders.
 
@@ -2230,118 +2409,260 @@ Even when used under prescription, some people will become dependent on these me
 
 Cocaine is a highly addictive stimulant drug. Although sometimes thought of as a modern drug problem, cocaine has been misused for more than a century, and the coca leaves from which it is made have been used for thousands of years. The 2019 National Drug Strategy Household Survey of Australians showed that 4.2% of people aged 14 or older had used cocaine in the past year.
 
-Cocaine gives very strong euphoric effects and people can develop dependence after using it for a very short time. With long- term use people can develop mental health problems such as paranoia, aggression, anxiety and depression. Cocaine can bring on an episode of drug-induced psychosis.
+<!-- Page 43 -->
+Cocaine gives very strong euphoric effects
+and people can develop dependence after
+using it for a very short time. With long-
+term use people can develop mental health
+problems such as paranoia, aggression,
+anxiety and depression. Cocaine can bring
+on an episode of drug-induced psychosis.
 
-## Amphetamines **(including methamphetamine)**
+## Amphetamines
+**(including methamphetamine)**
 
-Amphetamines belong to a category of stimulant drugs and have the temporary effect of increasing energy and apparent mental alertness. However, as the effect wears off, a person may experience a range of problems including depression, irritability, agitation, increased appetite and sleepiness. Amphetamines come in many shapes and forms and are taken in many ways. They can be in the form of powder, tablets, capsules, crystals or liquid. Methamphetamine (ice) has a chemical structure similar to that of amphetamine, but it has stronger effects on the brain. The effects of methamphetamine can last 6-8 hours. After the initial 'rush', there can be a state of agitation, which can lead to violent behaviour in some individuals. The 2019 National Drug Strategy Household Survey found that 1.3% of Australians aged 14 or over had used amphetamines over the past year. 64 High doses of amphetamine can lead to aggression, intense anxiety, paranoia, and psychotic symptoms. Withdrawal symptoms can include temporary depression. A particular mental health risk is amphetamine psychosis or 'speed psychosis', which involves symptoms similar to schizophrenia. The person may experience hallucinations, delusions and uncontrolled violent behaviour. The person will recover as the drug wears off, but is vulnerable to further episodes of drug-induced psychosis if the drug is used again.
+Amphetamines belong to a category of
+stimulant drugs and have the temporary
+effect of increasing energy and apparent
+mental alertness. However, as the effect
+wears off, a person may experience a range
+of problems including depression, irritability,
+agitation, increased appetite and sleepiness.
+Amphetamines come in many shapes and
+forms and are taken in many ways. They can
+be in the form of powder, tablets, capsules,
+crystals or liquid. Methamphetamine (ice)
+has a chemical structure similar to that of
+amphetamine, but it has stronger effects on
+the brain. The effects of methamphetamine
+can last 6-8 hours. After the initial 'rush',
+there can be a state of agitation, which can
+lead to violent behaviour in some individuals.
+The 2019 National Drug Strategy Household
+Survey found that 1.3% of Australians aged
+14 or over had used amphetamines over
+the past year. 64 High doses of amphetamine
+can lead to aggression, intense anxiety,
+paranoia, and psychotic symptoms.
+Withdrawal symptoms can include temporary
+depression. A particular mental health
+risk is amphetamine psychosis or 'speed
+psychosis', which involves symptoms similar
+to schizophrenia. The person may experience
+hallucinations, delusions and uncontrolled
+violent behaviour. The person will recover
+as the drug wears off, but is vulnerable to
+further episodes of drug-induced psychosis if
+the drug is used again.
 
-Some types of amphetamines have legitimate medical uses. They are used under prescription to treat attention-deficit/ hyperactivity disorder and some other medical conditions.
+Some types of amphetamines have
+legitimate medical uses. They are used
+under prescription to treat attention-deficit/
+hyperactivity disorder and some other
+medical conditions.
 
 ## Hallucinogens
 
-Hallucinogens are drugs that affect a person's perceptions of reality. Some hallucinogens also produce rapid, intense emotional changes. The 2019 National Drug Strategy Household Survey found that 1.6% of people aged 14 or older used hallucinogens in the past year. 64 In Australia the most widely used hallucinogenic drugs are 'magic mushrooms' (psylocibin) and 'acid' (LSD). A particular problem associated with hallucinogens is flashbacks, where the person re-experiences some of the perceptual effects of the drug when they have not been recently using it.
+Hallucinogens are drugs that affect a person's
+perceptions of reality. Some hallucinogens
+also produce rapid, intense emotional
+changes. The 2019 National Drug Strategy
+Household Survey found that 1.6% of people
+aged 14 or older used hallucinogens in the
+past year. 64 In Australia the most widely used
+hallucinogenic drugs are 'magic mushrooms'
+(psylocibin) and 'acid' (LSD). A particular
+problem associated with hallucinogens is
+flashbacks, where the person re-experiences
+some of the perceptual effects of the drug
+when they have not been recently using it.
 
 ## Ecstasy
 
-Ecstasy (MDMA) (also known as "E") is a stimulant drug that also has hallucinogenic properties. Some people use it at dance parties. The 2019 National Drug Strategy Household Survey found that 3.0% of Australians aged 14 or over had used ecstasy in the past year. 64 Users can develop an adverse reaction that in extreme cases can lead to death. To reduce this risk, users need to maintain a steady fluid intake and take rest breaks from vigorous activity. While intoxicated, ecstasy users report that they feel emotionally close to others. When coming off the drug they often experience depressed mood. The long-term effects of using ecstasy are of particular concern. There is considerable evidence that ecstasy damages nerve cells in the brain that use a chemical messenger called serotonin. 94 Research on people who have used ecstasy regularly shows that they have reduced sexual interest and a range of mental health problems, 95
+Ecstasy (MDMA) (also known as "E") is a
+stimulant drug that also has hallucinogenic
+properties. Some people use it at dance
+parties. The 2019 National Drug Strategy
+Household Survey found that 3.0% of
+Australians aged 14 or over had used
+ecstasy in the past year. 64 Users can develop
+an adverse reaction that in extreme cases
+can lead to death. To reduce this risk, users
+need to maintain a steady fluid intake and
+take rest breaks from vigorous activity.
+While intoxicated, ecstasy users report that
+they feel emotionally close to others. When
+coming off the drug they often experience
+depressed mood. The long-term effects
+of using ecstasy are of particular concern.
+There is considerable evidence that ecstasy
+damages nerve cells in the brain that use
+a chemical messenger called serotonin. 94
+Research on people who have used ecstasy
+regularly shows that they have reduced
+sexual interest and a range of mental health
+problems, 95
 
-It is important to note that while ecstasy refers to the drug MDMA, people buying ecstasy may be buying pills that contain other substances. This means that ecstasy users are risking the use of other drugs and poisonous substances.
+It is important to note that while ecstasy
+refers to the drug MDMA, people buying
+ecstasy may be buying pills that contain
+other substances. This means that ecstasy
+users are risking the use of other drugs and
+poisonous substances.
 
 ## Inhalants
 
-Inhalants are breathable chemical vapours that produce mind-altering effects. The effects of inhalants range from an alcohol-like intoxication and euphoria to hallucinations, depending on the substance and the dosage. Use of inhalants also starves the brain of oxygen, causing a brief 'rush'. Inhalants may be solvents (e.g. paint thinners, petrol, glues), gases (e.g. aerosols, butane lighters), nitrites, and other substances. Although people are exposed to volatile solvents and other inhalants in the home and in the workplace, many do not think of inhalable substances as drugs because most of them were never meant to be used in that way. Young people are the most likely to misuse inhalants, partly because inhalants are readily available and inexpensive. In 2019, 1.4% of people aged 14 or older used inhalants in the past year. 64
+Inhalants are breathable chemical vapours
+that produce mind-altering effects. The
+effects of inhalants range from an alcohol-like
+intoxication and euphoria to hallucinations,
+depending on the substance and the dosage.
+Use of inhalants also starves the brain of
+oxygen, causing a brief 'rush'. Inhalants
+may be solvents (e.g. paint thinners,
+petrol, glues), gases (e.g. aerosols, butane
+lighters), nitrites, and other substances.
+Although people are exposed to volatile
+solvents and other inhalants in the home
+and in the workplace, many do not think of
+inhalable substances as drugs because most
+of them were never meant to be used in that
+way. Young people are the most likely to
+misuse inhalants, partly because inhalants
+are readily available and inexpensive. In
+2019, 1.4% of people aged 14 or older used
+inhalants in the past year. 64
 
-The intentional misuse of common household products used by people to get high can be fatal, through 'sudden sniffing death' or as a result of long-term use. Others become addicted to the inhalants. Young people are usually unaware of the serious health risks and those who start using them at an early age are likely to become dependent on them. These agents will destroy the cells in the brain, the liver, and the kidneys.
+The intentional misuse of common household
+products used by people to get high can be
+fatal, through 'sudden sniffing death' or as
+a result of long-term use. Others become
+addicted to the inhalants. Young people are
+usually unaware of the serious health risks
+and those who start using them at an early
+age are likely to become dependent on them.
+These agents will destroy the cells in the
+brain, the liver, and the kidneys.
 
 ## Tobacco
 
-In 2019, tobacco was used daily by 11.0% of Australians aged 14 or older, with this figure steadily decreasing from 25% in 1993. 64 There is a high rate of mental health problems in people who use tobacco. Smokers are around twice as likely to experience mental Illness compared to people who have never smoked. Smoking is particularly high in people with psychosis (approximately 66%) and is a major contributor to their poorer physical health. It is possible that tobacco is used as a type of self-medication by some people with mental illnesses in order to improve mood and cognitive functioning.
+In 2019, tobacco was used daily by 11.0% of
+Australians aged 14 or older, with this figure
+steadily decreasing from 25% in 1993. 64
+There is a high rate of mental health problems
+in people who use tobacco. Smokers are
+around twice as likely to experience mental
+Illness compared to people who have never
+smoked. Smoking is particularly high in
+people with psychosis (approximately 66%)
+and is a major contributor to their poorer
+physical health. It is possible that tobacco
+is used as a type of self-medication by some
+people with mental illnesses in order to
+improve mood and cognitive functioning.
 
-## RISK FACTORS FOR SUBSTANCE ## USE DISORDERS
+## RISK FACTORS FOR SUBSTANCE
+## USE DISORDERS
 
-Most of our knowledge about the risk factors of substance use disorders relates to alcohol, but the risk factors for drug use disorders are likely to be similar.
+Most of our knowledge about the risk factors
+of substance use disorders relates to alcohol,
+but the risk factors for drug use disorders are
+likely to be similar.
 
-### Risk factors for alcohol use ### disorders
+### Risk factors for alcohol use
+### disorders
 
-There is no single cause of alcohol use disorders. Rather, there are many factors that increase a person's chances of developing such a disorder. 96 These include:
+There is no single cause of alcohol use
+disorders. Rather, there are many factors that
+increase a person's chances of developing
+such a disorder. 96 These include:
 
-* Availability and tolerance of alcohol in society. Where alcohol is readily available and socially acceptable, alcohol use disorders are more likely to develop. This applies not only to society as a whole, but also to particular social groups within a society.
+*   Availability and tolerance of alcohol
+    in society. Where alcohol is readily
+    available and socially acceptable, alcohol
+    use disorders are more likely to develop.
+    This applies not only to society as a whole,
+    but also to particular social groups within
+    a society.
 
-* Alcohol use in the family. People who grow up in families where alcohol use is acceptable, where parents model use of alcohol and alcohol is readily available are more likely to develop an alcohol use disorder. 97, 98
+*   Alcohol use in the family. People who
+    grow up in families where alcohol use is
+    acceptable, where parents model use of
+    alcohol and alcohol is readily available
+    are more likely to develop an alcohol use
+    disorder. 97, 98
 
-* Social factors. Certain groups are more prone to alcohol use disorders, including males, people with low education and income, people who have had a relationship breakdown, and certain occupations with a drinking culture. 
+*   Social factors. Certain groups are more
+    prone to alcohol use disorders, including
+    males, people with low education
+    and income, people who have had a
+    relationship breakdown, and certain
+    occupations with a drinking culture.
 
+<!-- Page 44 -->
 # Genetic predisposition.
-
 People who have a biological parent with an alcohol use disorder are more likely to develop the disorder, even if adopted into a family with no alcohol use disorder.
 
 # Alcohol sensitivity.
-
 Some people are physiologically less sensitive to the effects of alcohol than others and these people are more likely to drink heavily and develop an alcohol use disorder.
 
 # Enjoyment from drinking.
-
 People can learn a habit of heavy drinking. This habit is maintained because alcohol has been associated with pleasant effects or a reduction of stress.
 
 # Other mental illnesses.
-
 People who have other mental problems may use alcohol as a type of self-medication.
 
-# Interventions for substance use disorders
+# INTERVENTIONS FOR SUBSTANCE USE DISORDERS
 
-## Professionals who can help
+## PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with substance use disorders. If the person is uncertain about what to do, encourage the person to consult a GP first. The GP might refer the person to a drug or alcohol service, or to a mental health professional if there are other mental health problems.
 
-## Treatments available for substance use disorders
+## TREATMENTS AVAILABLE FOR SUBSTANCE USE DISORDERS
 
 Treatments depend on the nature and severity of the problem, how motivated the person is to change, and what other physical and mental health problems they also have. Treatment may need to do several things:
 
-* Overcome any physiological dependence on alcohol or drugs
-* Overcome any psychological dependence, e.g. use of alcohol or drugs to help the person cope with anxiety or depression
-* Overcome habits that have been formed, e.g. a social life that revolves around drinking or drug use.
+*   Overcome any physiological dependence on alcohol or drugs
+*   Overcome any psychological dependence, e.g. use of alcohol or drugs to help the person cope with anxiety or depression
+*   Overcome habits that have been formed, e.g. a social life that revolves around drinking or drug use.
 
 The following treatments are known to be effective:
 
 ### Brief intervention.
-
 If a person is drinking at a level that could damage their health or using drugs, then brief counselling by a GP can help them reduce or stop using. If they have a substance use disorder, it can help to motivate them to enter long-term treatment. This type of intervention generally takes four or fewer sessions, each lasting from a few minutes up to an hour. The GP looks at how much the person is using, gives information about risks to their health, advises them to cut down, discusses the advantages and disadvantages of changing and options for how to change, motivates the person to act by emphasising personal responsibility, and monitors progress. In doing these things, the GP adopts an empathic rather than a coercive approach.
 
 ### Withdrawal management.
-
 If the person is dependent on alcohol or drugs, they will have to withdraw from the substance before other treatments commence. This should be done under professional supervision. However, withdrawal is not enough and should be combined with other treatments to prevent the person from relapsing. It is only part of the recovery process and many lifestyle changes are required to change behaviours associated with drinking or drug use.
 
 ### Psychological treatments.
-
 These include:
 
-* **Cognitive behaviour therapy,** which teaches the person how to cope with craving and how to recognise and cope with situations that might trigger relapse. To get the full benefit of cognitive behaviour therapy, a person needs to have a sufficient number of sessions. As a guide, around 12 sessions is recommended.
+*   **Cognitive behaviour therapy,** which teaches the person how to cope with craving and how to recognise and cope with situations that might trigger relapse. To get the full benefit of cognitive behaviour therapy, a person needs to have a sufficient number of sessions. As a guide, around 12 sessions is recommended.
 
-* **Motivational enhancement therapy,** which helps motivate and empower a person to change. It allows the person to consider the gains they receive from using substances, while helping to improve their awareness of the negative aspects and consequences of their use, and helps them to identify reasons to choose not to use.
+*   **Motivational enhancement therapy,** which helps motivate and empower a person to change. It allows the person to consider the gains they receive from using substances, while helping to improve their awareness of the negative aspects and consequences of their use, and helps them to identify reasons to choose not to use.
 
-* **Contingency management** is used with people who have a drug use disorder and involves offering the person incentives, such as shopping vouchers or privileges for negative drug test results or for harm reduction actions such as having a hepatitis or HIV test.
+*   **Contingency management** is used with people who have a drug use disorder and involves offering the person incentives, such as shopping vouchers or privileges for negative drug test results or for harm reduction actions such as having a hepatitis or HIV test.
 
 ### Medications.
-
 There are a number of types of medications that can assist a person to stay off substances. For people with an alcohol use disorder, these include anti-craving medications, medications that give an unpleasant effect if the person drinks or medications for the treatment of underlying anxiety and depression. For people dependent on opioid drugs, methadone maintenance therapy is available.
 
 ### For a person with both a substance use disorder and other mental illness
 
 People with a substance use disorder often have another mental illness. Use of the substance may have started as a way to deal with emotional difficulties. This means that it is important that any other mental illness is treated as well, preferably at the same time.
 
-## Importance of early intervention for substance use problems
+## IMPORTANCE OF EARLY INTERVENTION FOR SUBSTANCE USE PROBLEMS
 
 Substance use problems typically begin in adolescence and early adulthood, so this is the critical time for early intervention. There is evidence that the brains of adolescents and young adults are still developing and are more sensitive to the effects of alcohol and other drugs than the brains of older adults. Substance use during this period of life can affect brain development and lead to cognitive impairments. Early intervention will also prevent many of the long-term effects on a person's physical health, social relationships, educational progress, financial status and job prospects. It will also reduce the possibility of serious problems with the law.
 
-# Crises associated with substance use
+<!-- Page 45 -->
+# CRISES ASSOCIATED WITH SUBSTANCE USE
 
 The main crises that may be associated with substance use are:
 
-* The person has **severe effects from alcohol use**.
-* The person has **severe effects from drug use**.
-* The person is showing **aggressive behaviours**.
-* The person has **suicidal thoughts and behaviours**.
+*   The person has **severe effects from alcohol use**.
+*   The person has **severe effects from drug use**.
+*   The person is showing **aggressive behaviours**.
+*   The person has **suicidal thoughts and behaviours**.
 
 ## Severe effects from alcohol use
 
@@ -2397,16 +2718,16 @@ If you are concerned about someone's substance use, talk to the person about it 
 
 Consider the following when making your approach:
 
-* **The person's own perception of their use.** Try to understand the person's own perception of their use. Ask the person about their substance use (for example, about how much of the substance the person is using) and if they believe their substance use is a problem.
-* **The person's readiness to talk.** Consider the person's readiness to talk about their substance use problem by asking about areas of their life that it may be affecting, for example, their mood, work performance and relationships. Be aware that the person may deny, or might not recognise, that they have a substance use problem and that trying to force the person to admit they have a problem may cause conflict.
+*   **The person's own perception of their use.** Try to understand the person's own perception of their use. Ask the person about their substance use (for example, about how much of the substance the person is using) and if they believe their substance use is a problem.
+*   **The person's readiness to talk.** Consider the person's readiness to talk about their substance use problem by asking about areas of their life that it may be affecting, for example, their mood, work performance and relationships. Be aware that the person may deny, or might not recognise, that they have a substance use problem and that trying to force the person to admit they have a problem may cause conflict.
 
+<!-- Page 46 -->
 - Use 'I' statements. Express your point of view by using 'I' statements, for example, "I am concerned about how much you've been drinking lately" rather than 'you' statements such as "You have been drinking too much lately".
 - Rate the act, not the person. Identify and discuss the person's behaviour rather than criticise their character, for example, "Your drug use seems to be getting in the way of your friendships" rather than "You're a pathetic druggie".
 - The person's recall of events. When discussing the person's substance use, bear in mind that the person may recall events that occurred while they were using in a different way to how they actually happened, or that they may not recall events at all.
 - Stick to the point. Focus on the person's substance use and do not get drawn into arguments or discussion about other issues.
 
 ### How to assess and assist in a crisis
-
 As you talk with the person, be on the lookout for any indications that the person may be in crisis.
 
 If you have concerns that the person has **severe effects from alcohol use** (intoxication, alcohol poisoning or severe withdrawal), find out how to **assess** and **assist** this person in Section 3.6 *First Aid for Severe Effects from Alcohol Use*.
@@ -2418,8 +2739,7 @@ If you have concerns that the person is showing **aggressive behaviours**, find 
 If you have concerns that the person may be having **suicidal thoughts and behaviours**, find out how to **assess** and **assist** this person in Section 3.1 *First Aid for Suicidal Thoughts and Behaviours*.
 
 ## ACTION 2:
-
-### Listen and communicate non-judgementally
+### LISTEN AND COMMUNICATE NON-JUDGEMENTALLY
 
 See Action 2 in Section 2.1 *Depression* for more tips on non-judgemental listening and communication. Below are some specific points that apply to talking with someone with a substance use problem.
 
@@ -2432,12 +2752,11 @@ See Action 2 in Section 2.1 *Depression* for more tips on non-judgemental listen
 - Try not to express your frustration at the person for having a substance use problem.
 
 ## ACTION 3:
-
-### Give support and information
+### GIVE SUPPORT AND INFORMATION
 
 Ask the person if they would like information about substance use problems or any associated risks. If they agree, provide them with relevant information. Try to find out whether the person wants help to change their substance use problem. If they do, offer your help and discuss what you are willing and able to do. Have the phone number for an alcohol and other drug helpline and perhaps the address of a reputable website with you to offer them (see *Helpful resources* at the end of this chapter).
 
-### Stages of change
+### STAGES OF CHANGE
 
 A person who has a substance problem may not be ready to change. Major behaviour changes take time to be achieved and often involve the person going through a number of stages. There are five 'stages of change', and the person may move back and forth between the stages at different times. The information and support you offer to the person can be tailored to their level of readiness as shown below:
 
@@ -2473,6 +2792,7 @@ Do not expect a change in the person's thinking or behaviour right away. Bear in
 - A person may try to change or stop their substance use more than once before they are successful.
 - If abstinence from drinking is not the person's goal, reducing the quantity of alcohol consumed is still a worthwhile objective.
 
+<!-- Page 47 -->
 # Supporting the person who wants to change
 
 Tell the person what you are willing and able to do to help. This may range from simply being a good listener to organising professional help. In the sections below are some specific ways to help a person who wants to change their alcohol problem. Some of these suggestions may also be helpful for a person with a drug use problem.
@@ -2481,30 +2801,30 @@ Tell the person what you are willing and able to do to help. This may range from
 
 To encourage low-risk drinking, the following may assist the person to change their drinking behaviours:
 
-* Help them to realise that only they can take responsibility for reducing their alcohol intake and that although changing drinking patterns is difficult, they should not give up trying.
-* Encourage and assist the person to find some information on how to reduce the harms associated with their problem drinking.
-* If appropriate, inform the person that alcohol may interact with other drugs (illicit, prescribed, or over-the-counter) in an unpredictable way which may lead to a medical emergency.
-* Ask the person if they would like some tips on low-risk drinking.
+*   Help them to realise that only they can take responsibility for reducing their alcohol intake and that although changing drinking patterns is difficult, they should not give up trying.
+*   Encourage and assist the person to find some information on how to reduce the harms associated with their problem drinking.
+*   If appropriate, inform the person that alcohol may interact with other drugs (illicit, prescribed, or over-the-counter) in an unpredictable way which may lead to a medical emergency.
+*   Ask the person if they would like some tips on low-risk drinking.
 
 If the person wants to change their drinking behaviour, suggest some of the following tips for low-risk drinking.
 
-## Tips for low-risk drinking
+## TIPS FOR LOW-RISK DRINKING
 
-* Know what a standard drink is and be aware the number of standard drinks they consume.
-* Know the alcohol content of their drink.
-* See if the number of standard drinks is listed on the beverage's packaging.
-* Eat while drinking.
-* Drink plenty of water on a drinking occasion to prevent dehydration.
-* Drink beverages with lower alcohol content, e.g. drinking light beer instead of full strength beer.
-* Switch to non-alcoholic drinks when they start to feel the effects of alcohol.
-* Do not let people top up their drink before it is finished, so as not to lose track of how much alcohol they have consumed.
-* Avoid keeping up with their friends drink for drink.
-* Avoid drinking competitions and drinking games.
-* Drink slowly, for example, by taking sips instead of gulps and putting their drink down between sips
-* Have one drink at a time.
-* Spend their time in activities that don't involve drinking.
-* Make drinking alcohol a complementary activity instead of the sole activity.
-* Identify situations where drinking is likely and avoid them if practical.
+*   Know what a standard drink is and be aware the number of standard drinks they consume.
+*   Know the alcohol content of their drink.
+*   See if the number of standard drinks is listed on the beverage's packaging.
+*   Eat while drinking.
+*   Drink plenty of water on a drinking occasion to prevent dehydration.
+*   Drink beverages with lower alcohol content, e.g. drinking light beer instead of full strength beer.
+*   Switch to non-alcoholic drinks when they start to feel the effects of alcohol.
+*   Do not let people top up their drink before it is finished, so as not to lose track of how much alcohol they have consumed.
+*   Avoid keeping up with their friends drink for drink.
+*   Avoid drinking competitions and drinking games.
+*   Drink slowly, for example, by taking sips instead of gulps and putting their drink down between sips
+*   Have one drink at a time.
+*   Spend their time in activities that don't involve drinking.
+*   Make drinking alcohol a complementary activity instead of the sole activity.
+*   Identify situations where drinking is likely and avoid them if practical.
 
 There is often social pressure to get drunk when drinking. Encourage the person to be assertive when they feel pressured to drink more than they want or intend. Tell the person that they have the right to refuse alcohol. Tell them that they can say "No thanks" without explanation, or suggest different ways they can say "No" such as "I don't feel like it", "I don't feel well" or "I am taking medication". Encourage the person to practise different ways of saying "No". Suggest to the person that saying "no" to alcohol gets easier the more they do it and that the people who care about them will accept their decision not to drink or to reduce the amount that they drink.
 
@@ -2518,17 +2838,17 @@ If the person continues to have a substance use problem, you should encourage th
 
 If the person is unwilling to change their substance use:
 
-* Do not feel guilty or responsible.
-* Do not join in using substances with the person.
-* Do not use negative approaches (e.g. lecturing or making them feel guilty) as these are unlikely to promote change.
-* Do not try to control the person by bribing, nagging, threatening or crying.
-* Do not make excuses for the person or cover up their substance use or related behaviour.
-* Do not take on the person's responsibilities except if not doing so would cause harm, e.g. to their own or other's lives.
-* Do not deny their basic needs, e.g. food or shelter.
+*   Do not feel guilty or responsible.
+*   Do not join in using substances with the person.
+*   Do not use negative approaches (e.g. lecturing or making them feel guilty) as these are unlikely to promote change.
+*   Do not try to control the person by bribing, nagging, threatening or crying.
+*   Do not make excuses for the person or cover up their substance use or related behaviour.
+*   Do not take on the person's responsibilities except if not doing so would cause harm, e.g. to their own or other's lives.
+*   Do not deny their basic needs, e.g. food or shelter.
 
+<!-- Page 48 -->
 # ACTION 4:
-
-# Encourage the person to get appropriate professional help
+# ENCOURAGE THE PERSON TO GET APPROPRIATE PROFESSIONAL HELP
 
 Many people with alcohol and drug problems do not receive health or other services for these problems. In Australia, only 24% of the people who had a substance use disorder in the past year received such help.8 A failure to seek help can cause problems with family and employment, damage physical health and increase the risk of developing other mental illnesses such as depression and anxiety disorders.
 
@@ -2545,8 +2865,7 @@ If the person is still unwilling to seek professional help, you should set bound
 Be prepared to talk to the person about seeking professional help again in the future. Be compassionate and patient while waiting for the person to accept they need professional help - it is ultimately the person's decision. Changing a substance use problem is a process that can take time. Remember that the person cannot be forced to get professional help except under certain circumstances, for example, if a violent incident results in the police being called or following a medical emergency.
 
 # ACTION 5:
-
-# Encourage other supports
+# ENCOURAGE OTHER SUPPORTS
 
 ## Other people who can help
 
@@ -2560,18 +2879,19 @@ There are numerous groups that support individuals who are recovering from subst
 
 Research has shown that people are more likely to recover if: 107
 
-* They have stable family relationships.
-* They are not treated with criticism and hostility by their family.
-* They have supportive friends.
-* Their friends do not use alcohol or drugs themselves and they encourage the person not to use.
+*   They have stable family relationships.
+*   They are not treated with criticism and hostility by their family.
+*   They have supportive friends.
+*   Their friends do not use alcohol or drugs themselves and they encourage the person not to use.
 
 ## Self-help strategies
 
 There are websites that allow a person to screen themselves for alcohol problems and which encourage the person to change (see Helpful resources at end of chapter). There is evidence that such websites can be effective. 109
 
-# Helpful resources for substance use problems
+<!-- Page 49 -->
+# HELPFUL RESOURCES FOR SUBSTANCE USE PROBLEMS
 
-## Telephone and online
+## TELEPHONE AND ONLINE
 
 **Quitline**
 137 848
@@ -2607,7 +2927,6 @@ WA: phone (08) 9442 5000, statewide freecall 1800 198 024
 Family Drug Support is a caring, non-religious and non-judgemental organisation that assists families throughout Australia to deal with alcohol and drug issues in a way that strengthens relationships and achieves positive outcomes.
 
 ## Screening for Substance Use Disorders
-
 Questionnaires to screen for substance use disorders are available on the internet. These give feedback on whether a person is likely to have a substance use disorder and motivate the person to change.
 
 Research has shown that the following website is effective in motivating change in people with alcohol problems:
@@ -2616,7 +2935,7 @@ Research has shown that the following website is effective in motivating change 
 The following website gives screening questionnaires for drug use disorders:
 [www.drugscreening.org](www.drugscreening.org)
 
-## Websites
+## WEBSITES
 
 **Alcohol and Drug Foundation**
 [www.adf.org.au](www.adf.org.au)
@@ -2634,7 +2953,7 @@ This website gives information on alcohol-related health, science, news and gove
 [www.quitnow.gov.au](www.quitnow.gov.au)
 This website gives online information and advice on quitting smoking.
 
-## Support and education groups
+## SUPPORT AND EDUCATION GROUPS
 
 **Alcoholics Anonymous and Narcotics Anonymous**
 [www.aa.org.au](www.aa.org.au)
@@ -2649,13 +2968,14 @@ This organisation provides information and support for the family members and fr
 [www.smartrecoveryaustralia.com.au](www.smartrecoveryaustralia.com.au)
 SMART (Self Management and Recovery Training) is a free weekly group program to assist with problematic behaviours including addiction to drugs, alcohol, cigarettes, gambling, food, shopping, internet and others. Guided by trained peers and professionals, participants come to help themselves and each other using cognitive behaviour therapy and motivational techniques.
 
-## Book
+## BOOK
 
 Fletcher AM. *Sober for Good: New Solutions for Drinking Problems - Advice from Those Who Have Succeeded.* New York: Houghton Mifflin; 2001.
 
 Based on interviews with over 200 recovered problem drinkers, this book gives guidance about different paths to recovery, whether the goal is abstinence or occasional use. It also includes advice for friends and family on helping someone who is reluctant to change.
 
-## 2.5 gambling problems
+<!-- Page 50 -->
+## 2.5 GAMBLING PROBLEMS
 
 _(IMAGE: A collage-style painting titled "Different Faces of Gamblers in London" by Thalma Goldman Cohen, depicting various faces and gambling-related imagery.)_
 
@@ -2664,196 +2984,199 @@ by Thalma Goldman Cohen
 
 "This painting shows the dramatic increase of people who gamble in the bookies in the UK. It shows the expressions of these people while gambling including sadness, hopelessness and disappointment of not being able to free themselves from this addiction."
 
-## 2.5 gambling problems
+<!-- Page 51 -->
+## 2.5 GAMBLING PROBLEMS
 
-### What are gambling problems?
+### WHAT ARE GAMBLING PROBLEMS?
 
 **Gambling problems** refer to difficulties over time in limiting money or time spent on gambling, which leads to adverse consequences for the person, others, or for the community. This could include someone whose gambling is having a great enough impact on their life to receive a diagnosis of a gambling disorder, but may also include people with less severe problems.
 
 A **gambling disorder** involves persistent or repeated gambling behaviour that significantly impairs the person's life or causes distress. In addition, the person will have a number of the following symptoms over a 12-month period:
 
-* Spends more money gambling over time in order to get the same amount of excitement
-* Feelings of irritation and restlessness when trying to reduce or stop gambling
-* Has made repeated unsuccessful attempts to control their gambling
-* Spends a lot of time thinking about gambling
-* Often gambles to cope with negative feelings
-* Gambles to chase losses
-* Lies to hide the extent of their gambling
-* Has been affected in their relationships or employment because of gambling
-* Relies on financial aid from others to cover gambling losses.
+*   Spends more money gambling over time in order to get the same amount of excitement
+*   Feelings of irritation and restlessness when trying to reduce or stop gambling
+*   Has made repeated unsuccessful attempts to control their gambling
+*   Spends a lot of time thinking about gambling
+*   Often gambles to cope with negative feelings
+*   Gambles to chase losses
+*   Lies to hide the extent of their gambling
+*   Has been affected in their relationships or employment because of gambling
+*   Relies on financial aid from others to cover gambling losses.
 
 Gambling problems affect around 0.4% of Australian adults in any year, with a further 2% at risk of developing gambling problems.
 
 People with gambling problems are likely to have other common mental health problems, such as depression, anxiety and substance use problems. A person with bipolar disorder may gamble heavily during a manic episode.
 
-### Signs that indicate a person may have gambling problems
+### SIGNS THAT INDICATE A PERSON MAY HAVE GAMBLING PROBLEMS
 
 Shown below are the warning signs for gambling problems. A person may exhibit a few of these signs and not have gambling problems, or exhibit only one sign and experience significant gambling problems. These signs are only an indication that there may be a problem. However, the more signs a person exhibits, the more likely they are to have gambling problems.
 
 #### Gambling behaviours
 
-* Frequently thinks and talks about gambling
-* Gambles almost every day
-* Increases the time they spend gambling or has a pattern of gambling for longer than intended
-* Expresses a strong desire or craving to gamble
-* Complains of boredom or is restless when they are not gambling
-* Gambles rather than doing things they previously enjoyed
-* Continues to gamble despite promising to stop
-* Repeated unsuccessful attempts to control, cut back or stop gambling
-* Gambles to escape problems
-* Celebrates their wins by gambling more
-* Demonstrates a pattern of returning to gambling in order to recover losses
-* Is evasive about gambling losses
-* Lies to cover up or fund gambling activities
-* Commits illegal acts to fund gambling, e.g. embezzlement, fraud
-* Experiences legal problems related to gambling
-* Becomes defensive or angry when asked about their gambling
-* Blames others for their gambling or its consequences
-* After gambling, expresses:
+*   Frequently thinks and talks about gambling
+*   Gambles almost every day
+*   Increases the time they spend gambling or has a pattern of gambling for longer than intended
+*   Expresses a strong desire or craving to gamble
+*   Complains of boredom or is restless when they are not gambling
+*   Gambles rather than doing things they previously enjoyed
+*   Continues to gamble despite promising to stop
+*   Repeated unsuccessful attempts to control, cut back or stop gambling
+*   Gambles to escape problems
+*   Celebrates their wins by gambling more
+*   Demonstrates a pattern of returning to gambling in order to recover losses
+*   Is evasive about gambling losses
+*   Lies to cover up or fund gambling activities
+*   Commits illegal acts to fund gambling, e.g. embezzlement, fraud
+*   Experiences legal problems related to gambling
+*   Becomes defensive or angry when asked about their gambling
+*   Blames others for their gambling or its consequences
+*   After gambling, expresses:
     *   Remorse
     *   Guilt
     *   Depressed feelings
     *   Hopelessness
-* Fear of others finding out
-* Worry over where they will get money to cover living expenses
-* Anger towards themselves, or family and friends.
+*   Fear of others finding out
+*   Worry over where they will get money to cover living expenses
+*   Anger towards themselves, or family and friends.
 
 #### Signs evident while gambling
 
-* Gambles for three or more hours without a break of at least 15 minutes
-* Focuses so intensely on gambling that they don't react to what is going on around them
-* Stays on to gamble after friends leave the venue
-* Stops gambling only when the venue is closing
-* Finds it difficult to stop gambling at closing time
-* Regularly starts gambling as soon as the venue is open
-* Friends or relatives call or arrive at the venue asking if the person is still there
-* Withdraws cash two or more times while at the gambling venue
-* Leaves the venue to find money so that they can continue gambling
-* Asks for a loan or credit from the venue
-* Borrows money from others while at the venue
-* Gambles until all the money they have with them is used up
-* Shows significant changes in mood during a gambling session
-* Looks very sad or depressed after gambling
-* Displays anger, e.g. swears to themselves, grunts, kicks or strikes gaming machine
-* Blames the venue or gaming machine for losing.
+*   Gambles for three or more hours without a break of at least 15 minutes
+*   Focuses so intensely on gambling that they don't react to what is going on around them
+*   Stays on to gamble after friends leave the venue
+*   Stops gambling only when the venue is closing
+*   Finds it difficult to stop gambling at closing time
+*   Regularly starts gambling as soon as the venue is open
+*   Friends or relatives call or arrive at the venue asking if the person is still there
+*   Withdraws cash two or more times while at the gambling venue
+*   Leaves the venue to find money so that they can continue gambling
+*   Asks for a loan or credit from the venue
+*   Borrows money from others while at the venue
+*   Gambles until all the money they have with them is used up
+*   Shows significant changes in mood during a gambling session
+*   Looks very sad or depressed after gambling
+*   Displays anger, e.g. swears to themselves, grunts, kicks or strikes gaming machine
+*   Blames the venue or gaming machine for losing.
 
 #### Mental and physical health signs
 
-* Does not look after their health as a result of their gambling activities, e.g. does not take medication or eat a healthy diet
-* Has experienced negative emotions as a result of gambling, e.g. sadness, anxiety, stress, anger.
+*   Does not look after their health as a result of their gambling activities, e.g. does not take medication or eat a healthy diet
+*   Has experienced negative emotions as a result of gambling, e.g. sadness, anxiety, stress, anger.
 
 #### Financial signs
 
-* Does not want to spend money on anything but gambling
-* Increases their usage of or acquires additional credit cards
-* Complains about mounting debts
-* Takes on extra jobs or works for overtime pay, but has no money to show for it
-* Makes promises to pay back family and friends but never does so
-* Consistently late in paying bills or misses payments entirely
-* Frequently contacted by debt collectors
-* Owes money to a loan shark
-* Believes that gambling will solve financial difficulties or bring material wealth
-* Experiences financial hardship as a result of gambling
-* Valuables disappear (and may reappear) without explanation
-* Hides financial statements or is secretive about money
+*   Does not want to spend money on anything but gambling
+*   Increases their usage of or acquires additional credit cards
+*   Complains about mounting debts
+*   Takes on extra jobs or works for overtime pay, but has no money to show for it
+*   Makes promises to pay back family and friends but never does so
+*   Consistently late in paying bills or misses payments entirely
+*   Frequently contacted by debt collectors
+*   Owes money to a loan shark
+*   Believes that gambling will solve financial difficulties or bring material wealth
+*   Experiences financial hardship as a result of gambling
+*   Valuables disappear (and may reappear) without explanation
+*   Hides financial statements or is secretive about money
 
+<!-- Page 52 -->
 # Gambling Problems
 
-* Unexplained missing amounts of money from the house or bank accounts
-* Pattern of unexplained loss of money
-* Borrows money to gamble or to pay gambling debts
-* Over time, increases the amount of money spent on gambling.
+*   Unexplained missing amounts of money from the house or bank accounts
+*   Pattern of unexplained loss of money
+*   Borrows money to gamble or to pay gambling debts
+*   Over time, increases the amount of money spent on gambling.
 
 ## Social signs
 
-* Social life or relationships have been negatively affected as a result of gambling
-* Becomes isolated from others because of gambling
-* Disappears from social events where gambling is also available, in order to gamble
-* Unable to be emotionally present or involved in social situations because they are pre-occupied with gambling
-* Has conflicts with others about money
-* Is criticised by others for their gambling.
+*   Social life or relationships have been negatively affected as a result of gambling
+*   Becomes isolated from others because of gambling
+*   Disappears from social events where gambling is also available, in order to gamble
+*   Unable to be emotionally present or involved in social situations because they are pre-occupied with gambling
+*   Has conflicts with others about money
+*   Is criticised by others for their gambling.
 
 ## Signs evident at home
 
-* Neglects the basic care of their children, or breaks promises to their children about buying them things or spending time with them due to gambling activities
-* Steals from family or friends to fund gambling
-* Family members:
+*   Neglects the basic care of their children, or breaks promises to their children about buying them things or spending time with them due to gambling activities
+*   Steals from family or friends to fund gambling
+*   Family members:
     *   find evidence of regular gambling, e.g. gambling receipts, Internet browser history, bank statements
     *   hide money from the person in order to cover living expenses
     *   believe they can't trust the person with money
     *   are frequently contacted by debt collectors
     *   experience negative emotions as a result of the person's gambling, e.g. sadness, anxiety, stress, anger
-* threaten to leave or break up the family due to the person's gambling
-* experience financial hardship as a result of the person's gambling.
+*   threaten to leave or break up the family due to the person's gambling
+*   experience financial hardship as a result of the person's gambling.
 
 ## Signs evident in the workplace
 
-* Gambles during work time
-* Ability to work or study has been negatively affected as a result of gambling
-* Steals items from their workplace to resell
-* Repeatedly violates workplace gambling policy.
+*   Gambles during work time
+*   Ability to work or study has been negatively affected as a result of gambling
+*   Steals items from their workplace to resell
+*   Repeatedly violates workplace gambling policy.
 
-## Risk factors for gambling problems
+## RISK FACTORS FOR GAMBLING PROBLEMS
 
 The motivations for gambling vary. Some people gamble to win money, while for others, it offers fun and excitement or an opportunity to socialise. However, when gambling becomes a problem these motivations may change. A person with gambling problems may be more likely to gamble in order to:
 
-* Escape problems or negative emotions
-* Build self-esteem
-* Make up for gambling or other financial losses.
+*   Escape problems or negative emotions
+*   Build self-esteem
+*   Make up for gambling or other financial losses.
 
 People who have gambling problems often have false beliefs about the chances of winning, e.g. superstitions about luck or a belief that they can beat the system. They may also feel the need to gamble with increasing amounts of money as a way to achieve the same amount of excitement they experienced when they first started gambling. Any form of gambling can become a problem. However, some types of gambling can cause more problems than others, e.g. gaming machines.
 
 People have a higher risk of developing gambling problems if they:
 
-* Have an early big win (leading to a false expectation of future wins)
-* Have easy access to their preferred form of gambling
-* Hold mistaken or unrealistic beliefs about the odds of winning, e.g. "It must be my turn for a large win" or "If I don't gamble today my lucky numbers will come up and I will miss out"
-* Do not monitor gambling wins and losses
-* Have had a recent negative life event or change, e.g. divorce, job loss, death of a loved one
-* Often feel bored or lonely
-* Have a history of risk-taking or impulsive behaviour
-* Have financial problems
-* Have few interests or hobbies, or feel their life lacks direction
-* Have a history of mental health problems, particularly depression and anxiety
-* Have been abused or traumatised
-* Have previously had gambling problems
-* Have a parent who also has (or has had) problems with gambling
-* Have (or have had) problems with alcohol or other drugs, or overspending
-* Have self-esteem that is tied to their gambling wins or losses.
+*   Have an early big win (leading to a false expectation of future wins)
+*   Have easy access to their preferred form of gambling
+*   Hold mistaken or unrealistic beliefs about the odds of winning, e.g. "It must be my turn for a large win" or "If I don't gamble today my lucky numbers will come up and I will miss out"
+*   Do not monitor gambling wins and losses
+*   Have had a recent negative life event or change, e.g. divorce, job loss, death of a loved one
+*   Often feel bored or lonely
+*   Have a history of risk-taking or impulsive behaviour
+*   Have financial problems
+*   Have few interests or hobbies, or feel their life lacks direction
+*   Have a history of mental health problems, particularly depression and anxiety
+*   Have been abused or traumatised
+*   Have previously had gambling problems
+*   Have a parent who also has (or has had) problems with gambling
+*   Have (or have had) problems with alcohol or other drugs, or overspending
+*   Have self-esteem that is tied to their gambling wins or losses.
 
-# Interventions for gambling problems
+# INTERVENTIONS FOR GAMBLING PROBLEMS
 
-## Professionals who can help
+## PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with gambling problems. They are:
 
-* GPs
-* Psychologists
-* Gambling counsellors
-* Psychiatrists
-* Financial counsellors.
+*   GPs
+*   Psychologists
+*   Gambling counsellors
+*   Psychiatrists
+*   Financial counsellors.
 
 Financial counsellors don't provide counselling for the gambling problems, but can provide information, support and advocacy to assist people in financial difficulty. More information about the other professionals above can be found in Section 1.1 Mental Health Problems in Australia.
 
-## Treatments available for gambling problems
+## TREATMENTS AVAILABLE FOR GAMBLING PROBLEMS
 
 The following treatments have evidence of effectiveness:
 
 *Cognitive behaviour therapy*. This is a psychological treatment that changes the way the person sees situations and their thinking patterns (the cognitive component) and also reduces negative feelings and behaviours (the behaviour component). This therapy attempts to overcome gambling-specific thinking errors that may maintain problem gambling, such as a belief in particular superstitions that increase 'luck' and selectively recalling wins over losses. It can be carried out by a therapist working with an individual or a group.
 
+<!-- Page 53 -->
 ### Motivational interviewing
 
 Motivational Interviewing is a counselling method that helps people to explore and resolve uncertainties about whether they want to change. It allows the person to consider the gains they receive from gambling, while helping to improve their awareness of the negative aspects and consequences of their gambling behaviour, and helps them to identify reasons to choose not to gamble.
 
-### Importance of early intervention for gambling problems
+### IMPORTANCE OF EARLY INTERVENTION FOR GAMBLING PROBLEMS
 
 It is important to treat gambling problems as soon as possible. The consequences of untreated gambling include: the development of other mental health problems such as depression and anxiety, and increased risk of suicide; interpersonal problems such as the loss of important relationships and arguing with family and friends; poor work or study performance or loss of employment; financial difficulties and financial hardship for other family members; and legal problems relating to gambling behaviour or financial problems.
 
-### Crises associated with gambling problems
+### CRISES ASSOCIATED WITH GAMBLING PROBLEMS
 
 The main mental health crisis that may be associated with gambling problems is:
 
-* The person has suicidal thoughts and behaviours.
+*   The person has suicidal thoughts and behaviours.
 
 #### Suicidal thoughts and behaviours
 
@@ -2883,74 +3206,177 @@ Do not assume that gambling problems are a phase that the person is likely to pa
 
 When talking to the person, be prepared for the full range of responses you may encounter, from relief through to anger. If you are concerned that the person may become violent, you should not approach them alone. The person may deny, minimise, rationalise or lie about their gambling problems, or they may blame others. Also be aware that the person may feel ashamed or embarrassed and may not want to talk. To decrease the chances of this happening, use empathy and compassion.
 
-If the person does not want to talk about their gambling problems, you can tell them about gambling help that is available, and that you are willing to talk when they are ready. If the conversation becomes unproductive or aggressive, you should end the discussion and try again at another time.
+<!-- Page 54 -->
+If the person does not want to talk about their
+gambling problems, you can tell them about
+gambling help that is available, and that you
+are willing to talk when they are ready. If
+the conversation becomes unproductive or
+aggressive, you should end the discussion
+and try again at another time.
 
-### How to assess and assist in a crisis As you talk with the person, be on the lookout for any indications that the person may be in crisis.
+### How to assess and assist in a crisis
+As you talk with the person, be on the
+lookout for any indications that the person
+may be in crisis.
 
-If you have concerns that the person may be having suicidal thoughts, find out how to *assess* and *assist* this person in Section 3.1 *First Aid for Suicidal Thoughts and Behaviours*.
+If you have concerns that the person may
+be having suicidal thoughts, find out how
+to *assess* and *assist* this person in Section
+3.1 *First Aid for Suicidal Thoughts and
+Behaviours*.
 
-## ACTION 2: 
+## ACTION 2:
+### LISTEN AND COMMUNICATE
+### NON-JUDGEMENTALLY
+When talking to the person about their
+gambling problems, you should talk to them
+in a calm and rational manner. First state
+some positive things about the person and
+your relationship with them. It is important
+to talk about what behaviours you have
+noticed, rather than to focus on the person
+themselves as the problem. Avoid statements
+that may imply you are judging the person.
+Explain to the person that you will try not to
+be judgemental and ask them to tell you if
+you are. You should also:
 
-### Listen and communicate
-
-### Non-judgementally
-
-When talking to the person about their gambling problems, you should talk to them in a calm and rational manner. First state some positive things about the person and your relationship with them. It is important to talk about what behaviours you have noticed, rather than to focus on the person themselves as the problem. Avoid statements that may imply you are judging the person. Explain to the person that you will try not to be judgemental and ask them to tell you if you are. You should also:
-
-* Use 'I' statements rather than 'you' statements, e.g. "I feel worried when I don't know when you are coming home or how much money you will have spent" rather than "You upset me when you are late and have spent all our money".
-* Make suggestions rather than telling the person what to do, e.g. "Would you be comfortable seeing a gambling counsellor?" rather than "You should see a gambling counsellor".
-* Ask the person for their perspective, while validating their experience and feelings, e.g. "I understand that gambling is important to you".
-* Give the person enough time to tell their story, because this will help them to open up and trust you.
+*   Use 'I' statements rather than 'you'
+    statements, e.g. "I feel worried when I
+    don't know when you are coming home
+    or how much money you will have spent"
+    rather than "You upset me when you are
+    late and have spent all our money".
+*   Make suggestions rather than telling
+    the person what to do, e.g. "Would
+    you be comfortable seeing a gambling
+    counsellor?" rather than "You should see
+    a gambling counsellor".
+*   Ask the person for their perspective,
+    while validating their experience
+    and feelings, e.g. "I understand that
+    gambling is important to you".
+*   Give the person enough time to tell their
+    story, because this will help them to open
+    up and trust you.
 
 Things you should not do:
 
-* Do not tell the person to "just stop gambling".
-* Do not lecture, interrogate or argue with the person about their gambling problems.
-* Do not try to control the person by threatening, bribing, crying or nagging.
-* Do not use shame or guilt in an attempt to force the person to change.
-* Do not verbally or physically attack the person.
+*   Do not tell the person to "just stop
+    gambling".
+*   Do not lecture, interrogate or argue
+    with the person about their gambling
+    problems.
+*   Do not try to control the person by
+    threatening, bribing, crying or nagging.
+*   Do not use shame or guilt in an attempt
+    to force the person to change.
+*   Do not verbally or physically attack the
+    person.
 
-If you think that your ability to help the person is impeded by any negative attitudes towards the person's gambling, or gambling in general, you should suggest that the person talks with someone else.
+If you think that your ability to help the
+person is impeded by any negative attitudes
+towards the person's gambling, or gambling
+in general, you should suggest that the
+person talks with someone else.
 
-Keep private any discussions you have with the person, unless you are concerned about their safety or the safety of others.
+Keep private any discussions you have with
+the person, unless you are concerned about
+their safety or the safety of others.
 
-## ACTION 3: 
+## ACTION 3:
+### GIVE SUPPORT
+### AND INFORMATION
+As a mental health first aider, you are
+not personally responsible for 'fixing' the
+person's gambling problems. However, you
+can encourage and support the person to
+change their behaviours. You can help the
+person to make a list of strategies they can
+use. These could include to:
 
-### Give support and information
-As a mental health first aider, you are not personally responsible for 'fixing' the person's gambling problems. However, you can encourage and support the person to change their behaviours. You can help the person to make a list of strategies they can use. These could include to:
+*   Learn about the strategies that gambling
+    providers use to keep people gambling
+    and maximise profits, e.g. gaming
+    machines are designed to keep people
+    playing and spending money.
+*   Find out about and use self-exclusion
+    mechanisms in gambling venues.
+*   Avoid going to gambling venues, even
+    if they are not planning on gambling,
+    e.g. going to a pub for a meal where
+    gambling is available.
+*   Avoid spending time with people who are
+    associated with gambling activities.
+*   Identify and use other ways to handle
+    gambling urges.
+*   Be transparent about finances with their
+    partner or family, e.g. mutual access to
+    bank and credit card records.
+*   Allow someone else to manage their
+    finances, e.g. partner or family member.
+*   Set up accounts and loans so that a
+    second signature is required.
+*   Have a trusted relative or close friend take
+    temporary control of their access to funds.
+*   Arrange to have access to a limited
+    amount of money each day that covers
+    daily expenses, e.g. lunch, parking, coffee.
+*   Set and stick to a budget.
+*   Find out about and use software programs
+    that block or restrict access to gambling
+    websites.
+*   Acknowledge that they will not win back
+    past gambling losses.
 
-* Learn about the strategies that gambling providers use to keep people gambling and maximise profits, e.g. gaming machines are designed to keep people playing and spending money.
-* Find out about and use self-exclusion mechanisms in gambling venues.
-* Avoid going to gambling venues, even if they are not planning on gambling, e.g. going to a pub for a meal where gambling is available.
-* Avoid spending time with people who are associated with gambling activities.
-* Identify and use other ways to handle gambling urges.
-* Be transparent about finances with their partner or family, e.g. mutual access to bank and credit card records.
-* Allow someone else to manage their finances, e.g. partner or family member.
-* Set up accounts and loans so that a second signature is required.
-* Have a trusted relative or close friend take temporary control of their access to funds.
-* Arrange to have access to a limited amount of money each day that covers daily expenses, e.g. lunch, parking, coffee.
-* Set and stick to a budget.
-* Find out about and use software programs that block or restrict access to gambling websites.
-* Acknowledge that they will not win back past gambling losses.
-
-If the person decides to use these or any other self-help strategies, offer to support them. Note any positive changes the person has made and congratulate them on these. As the person attempts to change their gambling, it is important to focus on the future rather than on past mistakes.
+If the person decides to use these or any
+other self-help strategies, offer to support
+them. Note any positive changes the person
+has made and congratulate them on these.
+As the person attempts to change their
+gambling, it is important to focus on the
+future rather than on past mistakes.
 
 Things you should not do:
 
-* Do not cover for the person by lying about their gambling.
-* Do not deny, justify or minimise the person's problems to yourself or to others.
-* Do not accept blame for the person's gambling problems.
-* Do not gamble with the person.
-* Do not drop off or pick up the person from gambling activities.
+*   Do not cover for the person by lying
+    about their gambling.
+*   Do not deny, justify or minimise the
+    person's problems to yourself or to others.
+*   Do not accept blame for the person's
+    gambling problems.
+*   Do not gamble with the person.
+*   Do not drop off or pick up the person
+    from gambling activities.
 
-Do not give the person money. If the person asks for money to help cover bills or debts, know that it is unlikely to be repaid. Rather than giving them money, refer the person to a relief agency or financial counselling service.
+Do not give the person money. If the person
+asks for money to help cover bills or debts,
+know that it is unlikely to be repaid. Rather
+than giving them money, refer the person
+to a relief agency or financial counselling
+service.
 
-Do not expect the person to be rational about or to immediately change their gambling. Work with the person to agree on acceptable behaviours, e.g. talking to a professional, staying within agreed spending limits. Be clear about what you are willing to do to help the person, and what behaviours you will tolerate, although these boundaries can be revisited over time.
+Do not expect the person to be rational about
+or to immediately change their gambling.
+Work with the person to agree on acceptable
+behaviours, e.g. talking to a professional,
+staying within agreed spending limits. Be
+clear about what you are willing to do to help
+the person, and what behaviours you will
+tolerate, although these boundaries can be
+revisited over time.
 
-### If the person does not want to change 
+### If the person does not want
+### to change
+Although it may be obvious to those around
+them, the person may not see their gambling
+as a problem, or they may not see it as a
+problem until they experience a crisis that
+they cannot solve themselves. The person
+may also go through cycles of awareness and
 
-Although it may be obvious to those around them, the person may not see their gambling as a problem, or they may not see it as a problem until they experience a crisis that they cannot solve themselves. The person may also go through cycles of awareness and 
-
+<!-- Page 55 -->
 # Supporting the person through relapse
 
 Be aware that the person may have tried and failed repeatedly to control, cut back or stop gambling. In the course of changing their gambling, the person may make promises that they are unable to keep and may experience a relapse. Although this is a problem, a relapse does not indicate that the person cannot recover. If the person experiences a relapse you should continue to offer support. Tell them that this is not a sign of long-term failure of recovery. Explain that gambling problems took time to develop and it may take some time, and more than one attempt, to change.
@@ -2961,25 +3387,25 @@ Keep in mind that supporting a person with gambling problems can be difficult an
 
 # ACTION 4:
 
-## Encourage the person to get appropriate professional help
+## ENCOURAGE THE PERSON TO GET APPROPRIATE PROFESSIONAL HELP
 
 There is effective professional help available for gambling problems. However, not everyone needs or wants professional help. The goals of treatment can be abstinence from gambling or setting limits on gambling activities.
 
-## Reducing the negative impact of gambling
+## REDUCING THE NEGATIVE IMPACT OF GAMBLING
 
 Whether or not the person wants to change, you can help the person to reduce the negative impact of gambling by encouraging the person to:
 
-* Limit the amount of time and money spent on gambling
-* Only gamble with money that they can afford to lose
-* Leave bankcards or credit cards at home
-* Restrict gambling activities to ones that they have greater control over
-* Balance time spent on gambling with other activities
-* Take regular breaks while gambling
-* Not gamble to earn money, pay debts or to win back gambling losses
-* Not use borrowed money, personal investments or savings to gamble
-* Not gamble when alcohol or other drugs have impaired judgement
-* Not gamble when angry or upset, or to escape from problems or feelings
-* Stop any illegal activities related to gambling.
+*   Limit the amount of time and money spent on gambling
+*   Only gamble with money that they can afford to lose
+*   Leave bankcards or credit cards at home
+*   Restrict gambling activities to ones that they have greater control over
+*   Balance time spent on gambling with other activities
+*   Take regular breaks while gambling
+*   Not gamble to earn money, pay debts or to win back gambling losses
+*   Not use borrowed money, personal investments or savings to gamble
+*   Not gamble when alcohol or other drugs have impaired judgement
+*   Not gamble when angry or upset, or to escape from problems or feelings
+*   Stop any illegal activities related to gambling.
 
 Encourage the person to seek the type of help that is most appropriate for them.
 
@@ -2989,14 +3415,14 @@ Because financial problems can be a big part of gambling, you should be aware of
 
 You can encourage the person to seek professional help for their gambling problems by pointing out that:
 
-* Gambling problems can be successfully treated. Many people with gambling problems have benefited from professional help, support groups and self-help strategies.
-* Seeking help for a problem is a sensible thing to do, rather than a sign of weakness.
-* The sooner the problem is addressed, the easier it is to overcome.
-* Any professional help will be confidential.
+*   Gambling problems can be successfully treated. Many people with gambling problems have benefited from professional help, support groups and self-help strategies.
+*   Seeking help for a problem is a sensible thing to do, rather than a sign of weakness.
+*   The sooner the problem is addressed, the easier it is to overcome.
+*   Any professional help will be confidential.
 
 # ACTION 5:
 
-## Encourage other supports
+## ENCOURAGE OTHER SUPPORTS
 
 ### Other people who can help
 
@@ -3013,9 +3439,10 @@ by Thalma Goldman Cohen
 
 "This picture shows how involved and excited someone can be while playing the slot machine, with the greediness shown in his fingers with the hope of winning."
 
-# Helpful resources for gambling problems
+<!-- Page 56 -->
+# HELPFUL RESOURCES FOR GAMBLING PROBLEMS
 
-## Telephone and online support
+## TELEPHONE AND ONLINE SUPPORT
 
 **Gambling Help Online**
 1800 858 858
@@ -3023,7 +3450,7 @@ by Thalma Goldman Cohen
 
 This free, confidential helpline provides counselling, information and referral for people with gambling problems and concerned family members, over the phone or as an online chat service.
 
-## Websites
+## WEBSITES
 
 **Gambling Help Online**
 [www.gamblinghelponline.org.au](www.gamblinghelponline.org.au)
@@ -3035,7 +3462,7 @@ This website provides information about gambling and gambling problems. Anyone a
 
 Financial counsellors provide information, support and advocacy to assist people in financial difficulty. The FCA website enables people to search for a financial counsellor in their local area.
 
-## Support and education groups
+## SUPPORT AND EDUCATION GROUPS
 
 **Gamblers Anonymous**
 [www.gaaustralia.org.au](www.gaaustralia.org.au)
@@ -3052,7 +3479,7 @@ Gam-Anon provides support and information for the family members and friends of 
 
 Peer Connection is free and confidential telephone support from people who have experienced gambling problems.
 
-## 2.6 eating disorders
+## 2.6 EATING DISORDERS
 
 _(IMAGE: A painting of a young woman with a tape measure around her waist.)_
 
@@ -3061,9 +3488,10 @@ By Victoria
 
 "It is hard to love yourself the way you are, particularly in such a visual world like today, with increasing amounts of photo shopping and the idealisation of women. It is a sad aspect of many adolescents' struggles. These expectations have really had a major impact on how negatively I have seen myself over the years and I still find it very challenging to view myself the way others see me."
 
-# 2.6 eating disorders
+<!-- Page 57 -->
+# 2.6 EATING DISORDERS
 
-## What are eating disorders?
+## WHAT ARE EATING DISORDERS?
 
 Eating disorders are not just about food, weight, appearance or willpower but are serious and potentially life threatening illnesses.^(119) Most eating disorders occur when a person has incorrect beliefs about their appearance, body shape and weight, leading to marked changes in eating or exercise behaviours that interfere with their life. Whereas most people evaluate themselves by achievements in various areas, such as social relationships, school, work or sporting ability, those with eating disorders see their self-worth largely in terms of their body shape and weight and their ability to control these. Most people with eating disorders are very distressed with feeling or appearing overweight or physically unattractive. A person with an eating disorder can be underweight, overweight or fall within the healthy weight range.
 
@@ -3077,52 +3505,52 @@ A high proportion of people with eating disorders also have another mental disor
 
 A survey of Australians aged 15 or over found that 16% of the population have either an eating disorder or some symptoms of an eating disorder in the previous 3 months.^(121) Diagnosable eating disorders were less common, with anorexia nervosa and bulimia nervosa both affecting less than 1%, although they are much more common in young women. Binge eating disorder affects around 7%.
 
-## Signs and symptoms of eating disorders
+## SIGNS AND SYMPTOMS OF EATING DISORDERS
 
 It is important to know the signs that indicate that someone has or is developing an eating disorder. These include behavioural, physical and psychological signs.^(122)
 
 ### Behavioural warning signs
 
-* Dieting behaviours, e.g. fasting, counting calories/kilojoules, avoidance of food groups or types
-* Evidence of binge eating, e.g. disappearance or hoarding of food
-* Evidence of deliberate vomiting or laxative use, e.g. taking trips to the bathroom during or immediately after meals
-* Excessive, obsessive or ritualistic exercise patterns, e.g. exercising when injured or in bad weather, feeling compelled to perform a certain number of repetitions of exercises or experiencing distress if unable to exercise
-* Changes in food preferences, e.g. refusing to eat certain 'fatty' or 'bad' foods, or cutting out whole food groups such as meat or dairy, claiming to dislike foods previously enjoyed, a sudden concern with 'healthy eating', or replacing meals with fluids
-* Development of rigid patterns around food selection, preparation and eating, e.g. cutting food into small pieces, eating very slowly
-* Avoidance of eating meals, especially when in a social setting, e.g. skipping meals by claiming they have already eaten or have an intolerance/allergy to particular foods
-* Lying about amount or type of food consumed or evading questions about eating and weight
-* Behaviours focused on food, e.g. planning, buying, preparing and cooking meals for others but not consuming meals themselves, interest in cookbooks, recipes and nutrition
-* Behaviours focused on body shape and weight, e.g. interest in weight-loss websites, books and magazines, or images of thin people
-* Development of repetitive or obsessive behaviours relating to body shape and weight, e.g. body-checking such as pinching waist or wrists, repeated weighing of self, excessive time spent looking in mirrors
-* Social withdrawal or avoidance of previously enjoyed activities.
+*   Dieting behaviours, e.g. fasting, counting calories/kilojoules, avoidance of food groups or types
+*   Evidence of binge eating, e.g. disappearance or hoarding of food
+*   Evidence of deliberate vomiting or laxative use, e.g. taking trips to the bathroom during or immediately after meals
+*   Excessive, obsessive or ritualistic exercise patterns, e.g. exercising when injured or in bad weather, feeling compelled to perform a certain number of repetitions of exercises or experiencing distress if unable to exercise
+*   Changes in food preferences, e.g. refusing to eat certain 'fatty' or 'bad' foods, or cutting out whole food groups such as meat or dairy, claiming to dislike foods previously enjoyed, a sudden concern with 'healthy eating', or replacing meals with fluids
+*   Development of rigid patterns around food selection, preparation and eating, e.g. cutting food into small pieces, eating very slowly
+*   Avoidance of eating meals, especially when in a social setting, e.g. skipping meals by claiming they have already eaten or have an intolerance/allergy to particular foods
+*   Lying about amount or type of food consumed or evading questions about eating and weight
+*   Behaviours focused on food, e.g. planning, buying, preparing and cooking meals for others but not consuming meals themselves, interest in cookbooks, recipes and nutrition
+*   Behaviours focused on body shape and weight, e.g. interest in weight-loss websites, books and magazines, or images of thin people
+*   Development of repetitive or obsessive behaviours relating to body shape and weight, e.g. body-checking such as pinching waist or wrists, repeated weighing of self, excessive time spent looking in mirrors
+*   Social withdrawal or avoidance of previously enjoyed activities.
 
 ### Physical warning signs
 
-* Weight loss or weight fluctuations
-* Sensitivity to the cold or feeling cold most of the time, even in warm temperatures
-* Changes in or loss of menstrual patterns
-* Swelling around the cheeks or jaw, calluses on knuckles, or dental discoloration from vomiting
-* Fainting.
+*   Weight loss or weight fluctuations
+*   Sensitivity to the cold or feeling cold most of the time, even in warm temperatures
+*   Changes in or loss of menstrual patterns
+*   Swelling around the cheeks or jaw, calluses on knuckles, or dental discoloration from vomiting
+*   Fainting.
 
 ### Psychological warning signs
 
-* Pre-occupation with food, body shape and weight
-* Extreme body dissatisfaction
-* Distorted body image, e.g. complaining of being, feeling or looking fat when a healthy weight or underweight
-* Sensitivity to comments or criticism about exercise, food, body shape or weight
-* Heightened anxiety around meal times
-* Depression, anxiety or irritability
-* Low self-esteem, e.g. negative opinions of self, feelings of shame, guilt or self-loathing
-* Rigid 'black and white' thinking, e.g. labelling of food as either 'good' or 'bad'.
+*   Pre-occupation with food, body shape and weight
+*   Extreme body dissatisfaction
+*   Distorted body image, e.g. complaining of being, feeling or looking fat when a healthy weight or underweight
+*   Sensitivity to comments or criticism about exercise, food, body shape or weight
+*   Heightened anxiety around meal times
+*   Depression, anxiety or irritability
+*   Low self-esteem, e.g. negative opinions of self, feelings of shame, guilt or self-loathing
+*   Rigid 'black and white' thinking, e.g. labelling of food as either 'good' or 'bad'.
 
 Some warning signs may be difficult to detect. This is because someone with an eating disorder:
 
-* May feel shame, guilt and distress about their eating or exercising behaviours and therefore these will often occur in secret
-* May use deceit to hide their eating and exercising behaviours
-* Will usually deny having a problem
-* May find it difficult to ask for help.
+*   May feel shame, guilt and distress about their eating or exercising behaviours and therefore these will often occur in secret
+*   May use deceit to hide their eating and exercising behaviours
+*   Will usually deny having a problem
+*   May find it difficult to ask for help.
 
-## Types of eating disorders
+## TYPES OF EATING DISORDERS
 
 Health professionals recognise a number of different types of eating disorders, including anorexia nervosa, bulimia nervosa and binge eating disorder.
 
@@ -3130,11 +3558,12 @@ Health professionals recognise a number of different types of eating disorders, 
 
 If the person is underweight and using extreme weight-loss strategies, they may have anorexia nervosa. Extreme weight-loss strategies are used in an attempt to control body weight and can include: dieting, fasting, over-exercising, using diet pills, diuretics, laxatives and vomiting.
 
+<!-- Page 58 -->
 ## The main characteristics of anorexia nervosa are:
 
-* Focussing on body shape and weight as the main measure of self-worth
-* Dramatic weight loss
-* An intense fear of gaining weight or becoming fat, even if they are underweight.
+*   Focussing on body shape and weight as the main measure of self-worth
+*   Dramatic weight loss
+*   An intense fear of gaining weight or becoming fat, even if they are underweight.
 
 Anorexia mainly affects young people, with females affected much more often than males. Anorexia is not common. It often starts in adolescence with dieting that becomes out of control. For some people, the disorder is brief, but in others it becomes a long-term problem and there is risk of death. People who get help early in the course of anorexia tend to have a better outcome.
 
@@ -3144,10 +3573,10 @@ Someone may have bulimia nervosa if they have recurrent and frequent episodes of
 
 The main characteristics of bulimia nervosa are:
 
-* Focussing on body shape and weight as the main measure of self-worth
-* Repeated episodes of uncontrolled over-eating (binge eating) for at least twice a week for three months or more
-* Extreme weight control behaviour: e.g. extreme dieting, frequent use of vomiting or laxatives to control weight, diuretic and enema abuse, or excessive use of exercise
-* Not meeting the characteristics of anorexia.
+*   Focussing on body shape and weight as the main measure of self-worth
+*   Repeated episodes of uncontrolled over-eating (binge eating) for at least twice a week for three months or more
+*   Extreme weight control behaviour: e.g. extreme dieting, frequent use of vomiting or laxatives to control weight, diuretic and enema abuse, or excessive use of exercise
+*   Not meeting the characteristics of anorexia.
 
 Bulimia is more common than anorexia and still affects more females than males. It usually starts in the same way as anorexia, but episodes of binge eating prevent the severe weight loss seen in anorexia. For this and other reasons, only a minority of people with bulimia get some form of treatment.
 
@@ -3167,47 +3596,48 @@ Overweight and obesity are associated with illness and premature death. In the l
 
 Eating disorders frequently occur together with depression, anxiety disorders and substance use disorders. When adolescents with eating disorders are followed into adulthood, most Individuals recover from the eating disorder but continue to have a high level of depression and anxiety.<sup>124</sup>
 
-## Risk factors for eating disorders
+## RISK FACTORS FOR EATING DISORDERS
 
 As with other mental illnesses, there is no single cause. A range of biological, psychological and social factors may be contributing factors. More is known about the risk factors in adolescents than adults. The following factors increase a person's risk of developing an eating disorder: <sup>119, 125</sup>
 
 ### Life experiences
 
-* Conflict in the home; parents who have little contact with their children, or high expectations of children
-* Abuse (physical, psychological or sexual) or neglect
-* Family history of dieting
-* Parental obesity
-* Critical comments from others about eating, weight or body shape
-* Pressure to be slim because of occupation (e.g. a model or jockey) or recreation (e.g. ballet, gymnastics or bodybuilding).
+*   Conflict in the home; parents who have little contact with their children, or high expectations of children
+*   Abuse (physical, psychological or sexual) or neglect
+*   Family history of dieting
+*   Parental obesity
+*   Critical comments from others about eating, weight or body shape
+*   Pressure to be slim because of occupation (e.g. a model or jockey) or recreation (e.g. ballet, gymnastics or bodybuilding).
 
 ### Personal characteristics
 
-* Dieting
-* Low self-esteem
-* Perfectionism
-* Anxiety
-* Obesity (increases risk for bulimia)
-* Childhood obesity (increases risk for anorexia and bulimia)
-* Early onset of menstruation (≤12 years; increases risk for anorexia and bulimia).
+*   Dieting
+*   Low self-esteem
+*   Perfectionism
+*   Anxiety
+*   Obesity (increases risk for bulimia)
+*   Childhood obesity (increases risk for anorexia and bulimia)
+*   Early onset of menstruation (≤12 years; increases risk for anorexia and bulimia).
 
 ### Mental illnesses in family members
 
-* Family members with an eating disorder
-* Family members with other mental illnesses, such as depression, anxiety, or substance use disorders.
+*   Family members with an eating disorder
+*   Family members with other mental illnesses, such as depression, anxiety, or substance use disorders.
 
-# Interventions for eating disorders
+<!-- Page 59 -->
+# INTERVENTIONS FOR EATING DISORDERS
 
-## Professionals who can help
+## PROFESSIONALS WHO CAN HELP
 
 A variety of health professionals can provide help to a person with eating disorders. They are:
 
-* GPs
-* Psychologists
-* Psychiatrists
-* Counsellors
-* Mental health nurses
-* Dietitians
-* Allied health professionals such as occupational therapists and social workers.
+*   GPs
+*   Psychologists
+*   Psychiatrists
+*   Counsellors
+*   Mental health nurses
+*   Dietitians
+*   Allied health professionals such as occupational therapists and social workers.
 
 **Dietitians** may be helpful to incorporate education about nutritional needs, and planning and monitoring eating choices. More information about the other professionals can be found in Section 1.1 *Mental Health Problems*.
 
@@ -3215,7 +3645,7 @@ Because successful treatment involves both medical and psychological components,
 
 Treatment is best provided by professionals who have had some training and experience in managing eating disorders. If you can't find a professional in your area with such experience, either you or your health professional may wish to look into what resources are available to them for getting advice on treating eating disorders.
 
-## Treatments available for eating disorders
+## TREATMENTS AVAILABLE FOR EATING DISORDERS
 
 Treatment is often long-term and intensive, depending on the severity of the eating disorder. The following treatments have evidence that they work for eating disorders:<sup>126</sup>
 
@@ -3233,17 +3663,17 @@ Self-help books and internet therapy based on cognitive behaviour therapy have b
 
 Self-help strategies may help with co-occurring problems such as depression and anxiety. However, while exercise is a useful treatment for depression, care should be taken with any exercise undertaken by people with eating disorders. People who are underweight may be using exercise to lose more weight and maintain their eating disorder. People who are overweight may need to ease into an exercise program more slowly. In either case, exercise should only be done with professional advice and monitoring.
 
-## Importance of early intervention for eating disorders
+## IMPORTANCE OF EARLY INTERVENTION FOR EATING DISORDERS
 
 Eating disorders often start in adolescence. If a young person gets to adulthood without treatment, recovery becomes much more difficult and the risk of poor health or premature death increases, but regardless of age of onset, early intervention is important to decrease the negative impacts on the body. For most people with eating disorders, the earlier effective treatment is received, the easier it will be to overcome the problem.<sup>128</sup> A delay in seeking treatment can lead to serious long-term consequences. As with many other types of health problems, early detection and treatment helps to prevent the eating disorder behaviours becoming more entrenched, and to increase the chances of full recovery.
 
-## Crises associated with eating disorders
+## CRISES ASSOCIATED WITH EATING DISORDERS
 
 The three main crises that may be associated with eating disorders are:
 
-* The person is experiencing a medical emergency.
-* The person has suicidal thoughts or behaviours.
-* The person is engaging in non-suicidal self-injury.
+*   The person is experiencing a medical emergency.
+*   The person has suicidal thoughts or behaviours.
+*   The person is engaging in non-suicidal self-injury.
 
 ### Medical emergency
 
@@ -3259,21 +3689,22 @@ Eating disorders increase the risk of non- suicidal self-injury.<sup>42</sup> In
 
 If a person is significantly underweight or their health is otherwise compromised by an eating disorder, any episode of accidental or intentional self-injury may be complicated by slower healing and increased risk of infection. For this reason, even injuries that do not appear to be serious should be checked by a health professional.
 
+<!-- Page 60 -->
 ## Symptoms that indicate a medical emergency
 
 Emergency help should be sought if the person has any of the following symptoms:
 
-* Disordered thinking and not making any reasonable sense (a person who is malnourished may appear to have psychotic symptoms such as disordered thinking, delusions or hallucinations)
-* Disorientation; not knowing what day it is, where they are or who they are
-* Throwing up several times a day
-* Fainting spells
-* Collapsing or being too weak to walk
-* Painful muscle spasms
-* Chest pain or difficulty breathing
-* Blood in their bowel movements, urine or vomit
-* Appears extremely thin
-* An irregular heart beat or very low heart beat (less than 50 beats per minute)
-* Cold or clammy skin indicating a low body temperature or a body temperature of less than 35 degrees Celsius.
+*   Disordered thinking and not making any reasonable sense (a person who is malnourished may appear to have psychotic symptoms such as disordered thinking, delusions or hallucinations)
+*   Disorientation; not knowing what day it is, where they are or who they are
+*   Throwing up several times a day
+*   Fainting spells
+*   Collapsing or being too weak to walk
+*   Painful muscle spasms
+*   Chest pain or difficulty breathing
+*   Blood in their bowel movements, urine or vomit
+*   Appears extremely thin
+*   An irregular heart beat or very low heart beat (less than 50 beats per minute)
+*   Cold or clammy skin indicating a low body temperature or a body temperature of less than 35 degrees Celsius.
 
 ## MENTAL HEALTH FIRST AID® ACTION PLAN FOR EATING DISORDERS
 
@@ -3292,7 +3723,6 @@ _(IMAGE: A graphic with the Mental Health First Aid Action Plan acronym 'ALGEE'.
 **E** ncourage other supports
 
 ### ACTION 1:
-
 **APPROACH THE PERSON, ASSESS AND ASSIST WITH ANY CRISIS**
 
 #### How to approach
@@ -3303,6 +3733,7 @@ Before you approach the person, learn as much as you can about eating disorders.
 
 It is common to feel nervous when approaching someone about their eating and exercising behaviours. Do not avoid talking to them because you fear it might make them angry or upset, or make their problem worse. Speaking to the person may give them a sense of relief at having someone acknowledge their problems, or they may find it helpful to know that someone cares about them and has noticed that they are not coping.
 
+<!-- Page 61 -->
 # What should I say?
 
 The way you discuss the person's problem will depend on their age and the degree to which their problem has developed. Initially, focus on displaying empathy and not on changing the person or their perspective. Discuss your concerns with them in an open and honest way. Try to use 'I' statements that are not accusing, such as "I am worried about you", rather than 'you' statements such as "You are making me worried". Try not to just focus on weight or food. Rather, focus on the eating behaviours that are concerning you. Allow the person to discuss other concerns that are not about food, weight or exercise. Make sure you give the person plenty of time to discuss their feelings and reassure them that it is safe to be open and honest about how they feel. Do not comment positively or negatively on the person's weight or appearance.
@@ -3311,7 +3742,7 @@ The way you discuss the person's problem will depend on their age and the degree
 
 The person may react in a variety of different ways. For example, they might be positive and receptive, they might be relieved to admit that they have a problem, or they may be denying, defensive, angry or aggressive, even if you have approached them very sensitively. They may be relieved that someone has noticed, they may seek to reassure or convince you that they are fine and that there is no problem, or they may want time to absorb your comments and concerns.
 
-# How to assess and assist in a crisis
+# HOW TO ASSESS AND ASSIST IN A CRISIS
 
 If you have concerns that the person is experiencing a medical emergency, call an ambulance or seek medical care immediately.
 
@@ -3321,7 +3752,7 @@ If you have concerns that the person may be engaging in *non-suicidal self-injur
 
 # ACTION 2:
 
-## Listen and communicate non-judgementally
+## LISTEN AND COMMUNICATE NON-JUDGEMENTALLY
 
 Listen to the person's concerns. There may be issues in their life that need to be identified. Depression and anxiety may also be present.
 
@@ -3331,7 +3762,7 @@ See Action 2 in Section 2.1 Depression for more on non-judgemental listening and
 
 # ACTION 3:
 
-## Give support and information
+## GIVE SUPPORT AND INFORMATION
 
 Your aim should be to provide support for the person so that they feel safe and secure enough to seek treatment or to find someone else they can trust to talk to openly about their difficulties, such as a family member or friend.
 
@@ -3355,22 +3786,23 @@ If you become aware that the person is visiting 'pro-ana' or 'pro-mia' websites 
 
 Understand that the person may react negatively. If this happens, it is important not to take the negative reaction personally. There are many reasons a person may react negatively, including that they:
 
-* Are not ready to make a change
-* Do not know how to change without losing their coping strategies
-* Have difficulty trusting others
-* Think you are being pushy, nosey, coercive or bullying
-* Do not see their eating habits as a problem.
+*   Are not ready to make a change
+*   Do not know how to change without losing their coping strategies
+*   Have difficulty trusting others
+*   Think you are being pushy, nosey, coercive or bullying
+*   Do not see their eating habits as a problem.
 
 Try hard not to express disappointment or shock if the person responds with denial, anger, aggression, tears or defensiveness, and resist the temptation to respond angrily, as this may escalate the situation. Instead be willing to repeat your concerns and remind the person that even if they don't agree, your support is still offered, and they can come and talk with you again in the future if they want to.
 
 # What isn't supportive
 
-* Do not express negative emotion, e.g. don't argue, be confrontational, respond angrily or speak harshly.
-* Do not say negative things, e.g. criticising, blaming, expressing disappointment or shock; trying to make the person feel ashamed or guilty; saying that what the person is doing is "disgusting", "stupid" or "self-destructive"; making generalisations such as "You're always moody" or "You never do anything but exercise".
-* Do not focus on body shape or food, e.g. commenting positively or negatively on the person's body size or shape, for instance saying "You're too thin" or "Good, you have gained weight"; reinforcing the idea that physical
+*   Do not express negative emotion, e.g. don't argue, be confrontational, respond angrily or speak harshly.
+*   Do not say negative things, e.g. criticising, blaming, expressing disappointment or shock; trying to make the person feel ashamed or guilty; saying that what the person is doing is "disgusting", "stupid" or "self-destructive"; making generalisations such as "You're always moody" or "You never do anything but exercise".
+*   Do not focus on body shape or food, e.g. commenting positively or negatively on the person's body size or shape, for instance saying "You're too thin" or "Good, you have gained weight"; reinforcing the idea that physical
 
-* appearance is critically important to happiness or success; making conflict or arguments over food and letting issues of food dominate your relationship with the person; giving advice about weight loss, exercise or appearance.
-* Do not give simple solutions, e.g. such as saying things like "All you have to do is eat".
+<!-- Page 62 -->
+*   appearance is critically important to happiness or success; making conflict or arguments over food and letting issues of food dominate your relationship with the person; giving advice about weight loss, exercise or appearance.
+*   Do not give simple solutions, e.g. such as saying things like "All you have to do is eat".
 
 ## ACTION 4:
 
@@ -3386,11 +3818,11 @@ Eating disorders are not always recognised by health professionals. It may take 
 
 People with an eating disorder may refuse professional help. The resistance may be related to a number of different factors. The person may:
 
-* Feel ashamed of their behaviour
-* Fear gaining weight or fear losing control over their weight
-* Be afraid of acknowledging that they are unwell
-* Not think that they are ill
-* Believe that there are benefits to their disordered eating or exercising behaviours, e.g. controlling their weight may make the person feel better about themselves, or give them a sense of accomplishment.
+*   Feel ashamed of their behaviour
+*   Fear gaining weight or fear losing control over their weight
+*   Be afraid of acknowledging that they are unwell
+*   Not think that they are ill
+*   Believe that there are benefits to their disordered eating or exercising behaviours, e.g. controlling their weight may make the person feel better about themselves, or give them a sense of accomplishment.
 
 Don't expect the person to immediately follow your advice, even if they asked for it. You cannot force them to change their attitudes or behaviours. However, even someone who does not want to change can benefit from professional help.
 
@@ -3408,9 +3840,9 @@ Instead continue to be supportive, positive and encouraging while waiting for th
 
 You can suggest that the person surround themselves with people who are supportive of them. There are organisations that provide information and support for people with eating disorders (see *Helpful resources* on the following page).
 
-## Helpful resources for eating disorders
+## HELPFUL RESOURCES FOR EATING DISORDERS
 
-### Telephone and online support
+### TELEPHONE AND ONLINE SUPPORT
 
 **The Butterfly Foundation**
 
@@ -3420,7 +3852,7 @@ You can suggest that the person surround themselves with people who are supporti
 
 The Butterfly Foundation is a nation-wide advocacy and support organisation for those with eating disorders and their loved ones. The website has excellent resource for parents and carers, and provides support by email or live chat.
 
-### Websites
+### WEBSITES
 
 **National Eating Disorders Collaboration**
 
@@ -3440,7 +3872,7 @@ This website provides comprehensive Information to consumers, carers, and profes
 
 This is a UK website run by the Eating Disorders Association of the UK. It has a special section for young people. There is also advice for parents and other carers.
 
-### Books
+### BOOKS
 
 Costin C, Schubert, Grabb G. *8 Keys to Recovery From an Eating Disorder: Effective Strategies from Therapeutic Practice and Personal Experience*. New York: W. W. Norton and Company; 2011.
 
@@ -3450,6 +3882,7 @@ Schmidt U, Treasure J, Alexander J. *Getting Better Bite by Bite: A Survival Kit
 
 Cooper PJ. *Overcoming Bulimia Self-help Programme*. London: Robinson Publishing; 2006.
 
+<!-- Page 63 -->
 _(IMAGE: A painting of a person hanging from a branch, with surreal imagery of stars, a moon, roots, and a fish.)_
 
 **Hanging On**
@@ -3457,11 +3890,10 @@ By Michelle Hosking
 
 "I am trying to hang on desperately to something real or solid, feeling as if the universe has split open; unrealities flood my inner world but hoping I will somehow pull through it."
 
-# Section 3
+# SECTION 3
+# FIRST AID FOR MENTAL HEALTH CRISES
 
-# First aid for mental health crises
-
-## Introduction
+## INTRODUCTION
 
 This section contains recommendations for members of the public on how to assess and assist in a number of mental health crisis situations. Some of these crises can occur in people with various mental illnesses or those who are in emotional distress. Others may precipitate the onset of a mental illness, or may be related to substance use. The role of the first aider is to assist the person until appropriate professional help is received or the crisis resolves.
 
@@ -3471,16 +3903,17 @@ Each individual is unique and it is important to tailor your support to that per
 
 First aid recommendations are provided for the following crisis situations:
 
-* Suicidal thoughts and behaviours
-* Non-suicidal self-injury
-* Panic attacks
-* Following a traumatic event
-* Severe psychotic states
-* Severe effects from alcohol use
-* Severe effects from drug use
-* Aggressive behaviours
+*   Suicidal thoughts and behaviours
+*   Non-suicidal self-injury
+*   Panic attacks
+*   Following a traumatic event
+*   Severe psychotic states
+*   Severe effects from alcohol use
+*   Severe effects from drug use
+*   Aggressive behaviours
 
-## 3.1 first aid for suicidal thoughts and behaviours
+<!-- Page 64 -->
+## 3.1 FIRST AID FOR SUICIDAL THOUGHTS AND BEHAVIOURS
 
 _(IMAGE: A painting depicting a figure in a dark cloak with a tombstone and church in the background.)_
 
@@ -3489,60 +3922,55 @@ By Patricia Girvasi
 
 "This painting depicts depression and how if you don't get help you can end up [dying by suicide]. The church is one means of getting help as for some people God can be a release of depression. Having someone to talk to and praying for help also makes a person think positively."
 
+<!-- Page 65 -->
 ## 3.1 FIRST AID FOR SUICIDAL THOUGHTS AND BEHAVIOURS <sup>130, 131</sup>
 
-### An important note
-
+### AN IMPORTANT NOTE
 Self-injury can indicate a number of different things. Someone who is hurting themselves may be at risk of suicide. Others engage in a pattern of self-injury over weeks, months or years and are not necessarily suicidal. This advice can be of use to you only if the person you are helping is suicidal. If the person you are assisting is injuring themselves, but is not suicidal, please refer to Section 3.2 First Aid for Non-suicidal Self-injury.
 
-### Facts on suicide in australia
-
+### FACTS ON SUICIDE IN AUSTRALIA
 A national survey of Australians aged 16-85 found that 3.2% had attempted suicide at some time in their life and 0.4% had attempted suicide in the past year.<sup>41</sup> In 2017, 3,128 Australians died by suicide.<sup>132</sup> This is higher than the number of deaths from motor vehicle accidents. Males account for about 75% of suicides. Approximately 87% of people who die by suicide have a diagnosable mental illness at the time of death. <sup>58</sup>
 
 The main reasons people give for attempting suicide are: <sup>133</sup>
-1. Needing to escape or relieve unmanageable emotions and thoughts. The person wants relief from unbearable emotional pain, feels their situation is hopeless, feels worthless and believes that other people would be better off without them.
-2. Desire to communicate with or influence another individual. The person wants to communicate how they feel to other people, change how other people treat them or get help.
+1.  Needing to escape or relieve unmanageable emotions and thoughts. The person wants relief from unbearable emotional pain, feels their situation is hopeless, feels worthless and believes that other people would be better off without them.
+2.  Desire to communicate with or influence another individual. The person wants to communicate how they feel to other people, change how other people treat them or get help.
 
 People are at greater risk of suicide if they have: <sup>134</sup>
-* A mental illness
-* Poor physical health and disabilities
-* Attempted suicide or harmed themselves in the past
-* Had bad things happen recently, particularly with relationships or their health
-* Been physically or sexually abused as a child
-* Been recently exposed to suicide by someone else.
+*   A mental illness
+*   Poor physical health and disabilities
+*   Attempted suicide or harmed themselves in the past
+*   Had bad things happen recently, particularly with relationships or their health
+*   Been physically or sexually abused as a child
+*   Been recently exposed to suicide by someone else.
 
 Suicide is also more common in certain groups, including males, Indigenous people, the unemployed, prisoners and LGBTIQ+ people.
 
-### How to assess
-
+### HOW TO ASSESS
 Important signs that a person may be suicidal are: <sup>135</sup>
-* Threatening to hurt or kill themselves
-* Looking for ways to kill themselves: seeking access to pills, weapons, or other means
-* Talking or writing about death, dying or suicide
-* Hopelessness
-* Rage, anger, seeking revenge
-* Acting recklessly or engaging in risky activities, seemingly without thinking
-* Feeling trapped, like there's no way out
-* Increasing alcohol or drug use
-* Withdrawing from friends, family or society
-* Anxiety, agitation, inability to sleep or sleeping all the time
-* Dramatic changes in mood (including sudden improvement in mood following an episode of depression)
-* No reason for living, no sense of purpose in life.
+*   Threatening to hurt or kill themselves
+*   Looking for ways to kill themselves: seeking access to pills, weapons, or other means
+*   Talking or writing about death, dying or suicide
+*   Hopelessness
+*   Rage, anger, seeking revenge
+*   Acting recklessly or engaging in risky activities, seemingly without thinking
+*   Feeling trapped, like there's no way out
+*   Increasing alcohol or drug use
+*   Withdrawing from friends, family or society
+*   Anxiety, agitation, inability to sleep or sleeping all the time
+*   Dramatic changes in mood (including sudden improvement in mood following an episode of depression)
+*   No reason for living, no sense of purpose in life.
 
 People may show one or many of these signs, and some may show signs not on this list.
 
 If you are concerned the person may be at risk of suicide, you need to approach them and have a conversation about your concerns.
 
 ### Preparing yourself to approach the person
-
 Be aware of your own attitudes about suicide and the impact of these on your ability to provide assistance, e.g. beliefs that suicide is wrong or that it is a rational option. If the person is from a different cultural or religious background to your own, keep in mind that they might have beliefs and attitudes about suicide that differ from your own. Be aware that it is more important to genuinely want to help than to be of the same age, gender or cultural background as the person. If you feel unable to ask the person about suicidal thoughts, find someone else who can.
 
 ### Making the approach
-
 Act promptly if you think someone is considering suicide. Even if you only have a mild suspicion that the person is having suicidal thoughts, you should still approach them. Tell the person your concerns about them, describing behaviours that have caused you to be concerned about suicide. However, understand that the person may not want to talk with you. In this instance, you should offer to help them find someone else to talk to.
 
 ### Asking about thoughts of suicide
-
 Anyone could have thoughts of suicide. If you think someone might be having suicidal thoughts, you should ask that person directly. Unless someone tells you, the only way to know if they are thinking about suicide is to ask. For example, you could ask:
 *   "Are you having thoughts of suicide?" or
 *   "Are you thinking about killing yourself?"
@@ -3551,6 +3979,7 @@ While it is more important to ask the question directly than to be concerned abo
 
 Sometimes people are reluctant to ask directly about suicide because they think they will put the idea in the person's head. This is not true. Similarly, if a person is suicidal, asking them about suicidal thoughts will not increase the risk that they will act on these. <sup>136</sup> Instead, asking the person about suicidal thoughts will allow them the chance to talk about their problems and show them that somebody cares.
 
+<!-- Page 66 -->
 # How to Assist
 
 Although it is common to feel panic or shock when someone discloses thoughts of suicide, it is important to avoid expressing negative reactions. Do your best to appear calm, confident and empathic in the face of the suicide crisis, as this may have a reassuring effect for the suicidal person.
@@ -3561,20 +3990,20 @@ Take all thoughts of suicide seriously and take action. Do not dismiss the perso
 
 Enquire about issues that affect their immediate safety by asking the suicidal person:
 
-* Whether they have a plan for suicide
-* How they intend to suicide, i.e. ask them direct questions about how and where they intend to suicide
-* Whether they have decided when they will carry out their plan
-* Whether they have already taken steps to secure the means to end their life
-* Whether they have been using drugs or alcohol. Intoxication can increase the risk of a person acting on suicidal thoughts
-* Whether they have ever attempted or planned suicide in the past.
+*   Whether they have a plan for suicide
+*   How they intend to suicide, i.e. ask them direct questions about how and where they intend to suicide
+*   Whether they have decided when they will carry out their plan
+*   Whether they have already taken steps to secure the means to end their life
+*   Whether they have been using drugs or alcohol. Intoxication can increase the risk of a person acting on suicidal thoughts
+*   Whether they have ever attempted or planned suicide in the past.
 
 If the suicidal person says they are hearing voices, ask what the voices are telling them. This is important in case the voices are relevant to their current suicidal thoughts.
 
 It is also useful to find out what supports are available to the person. Ask the person:
 
-* Whether they have told anyone about how they are feeling
-* Whether there have been changes in their employment, social life or family
-* Whether they have received treatment for mental health problems or are taking any medication.
+*   Whether they have told anyone about how they are feeling
+*   Whether there have been changes in their employment, social life or family
+*   Whether they have received treatment for mental health problems or are taking any medication.
 
 Be aware that those at the highest risk for acting on thoughts of suicide in the near future are those who have a specific suicide plan, the means to carry out the plan, a time set for doing it, and an intention to do it. However, the lack of a plan for suicide is not sufficient to ensure safety.
 
@@ -3594,25 +4023,26 @@ Remember to thank the suicidal person for sharing their feelings with you and ac
 
 ### Listening Tips
 
-* Be patient and calm while the suicidal person is talking about their feelings.
-* Listen to the suicidal person without expressing judgement, accepting what they are saying without agreeing or disagreeing with their behaviour or point of view.
-* Ask open-ended questions (i.e. questions that cannot be simply answered with 'yes' or 'no') to find out more about the suicidal thoughts and feelings and the problems behind these.
-* Show you are listening by summarising what the suicidal person is saying.
-* Clarify important points with the person to make sure they are fully understood.
-* Express empathy for the suicidal person.
+*   Be patient and calm while the suicidal person is talking about their feelings.
+*   Listen to the suicidal person without expressing judgement, accepting what they are saying without agreeing or disagreeing with their behaviour or point of view.
+*   Ask open-ended questions (i.e. questions that cannot be simply answered with 'yes' or 'no') to find out more about the suicidal thoughts and feelings and the problems behind these.
+*   Show you are listening by summarising what the suicidal person is saying.
+*   Clarify important points with the person to make sure they are fully understood.
+*   Express empathy for the suicidal person.
 
 ### What Not To Do
 
-* Do not argue or debate with the person about their thoughts of suicide.
-* Do not discuss with the person whether suicide is right or wrong.
-* Do not use guilt or threats to prevent suicide, e.g. do not tell the person they will go to hell or ruin other people's lives if they die by suicide.
-* Do not minimise the suicidal person's problems.
-* Do not give glib 'reassurance' such as "Don't worry", "Cheer up", "You have everything going for you" or "Everything will be alright".
-* Do not interrupt with stories of your own.
-* Do not communicate a lack of interest or negative attitude through your body language.
-* Do not 'call their bluff' (dare or tell the suicidal person to "Just do it").
-* Do not attempt to give the suicidal person a diagnosis of a mental illness.
+*   Do not argue or debate with the person about their thoughts of suicide.
+*   Do not discuss with the person whether suicide is right or wrong.
+*   Do not use guilt or threats to prevent suicide, e.g. do not tell the person they will go to hell or ruin other people's lives if they die by suicide.
+*   Do not minimise the suicidal person's problems.
+*   Do not give glib 'reassurance' such as "Don't worry", "Cheer up", "You have everything going for you" or "Everything will be alright".
+*   Do not interrupt with stories of your own.
+*   Do not communicate a lack of interest or negative attitude through your body language.
+*   Do not 'call their bluff' (dare or tell the suicidal person to "Just do it").
+*   Do not attempt to give the suicidal person a diagnosis of a mental illness.
 
+<!-- Page 67 -->
 # How can I keep the person safe?
 
 Once you have established that a suicide risk is present, you need to take action to keep the person safe. A person who is suicidal should not be left on their own. If you suspect there is an immediate risk of the person acting on suicidal thoughts, act quickly, even if you are unsure. Work collaboratively with the suicidal person to ensure their safety, rather than acting alone to prevent suicide.
@@ -3623,18 +4053,18 @@ When talking to the suicidal person, focus on the things that will keep them saf
 
 Although you can offer support, you are not responsible for the actions or behaviours of someone else, and cannot control what they might decide to do.
 
-# Safety plan
+# SAFETY PLAN
 
 A safety plan is an agreement between the suicidal person and the first aider that involves actions to keep the person safe. The safety plan should:
 
-* Focus on what the suicidal person should do rather than what they shouldn't.
-* Be clear, outlining what will be done, who will be doing it, and when it will be carried out.
-* Be for a length of time that will be easy for the suicidal person to cope with, so that they can feel able to fulfil the agreement and have a sense of achievement.
-* Include contact numbers that the person agrees to call if they are feeling suicidal, e.g. the person's doctor or mental health care professional, a suicide helpline or 24 hour crisis line, friends and family members who will help in an emergency.
+*   Focus on what the suicidal person should do rather than what they shouldn't.
+*   Be clear, outlining what will be done, who will be doing it, and when it will be carried out.
+*   Be for a length of time that will be easy for the suicidal person to cope with, so that they can feel able to fulfil the agreement and have a sense of achievement.
+*   Include contact numbers that the person agrees to call if they are feeling suicidal, e.g. the person's doctor or mental health care professional, a suicide helpline or 24 hour crisis line, friends and family members who will help in an emergency.
 
 Find out who or what has supported the person in the past and whether these supports are still available. Ask them how they would like to be supported and if there is anything you can do to help, but do not try to take on their responsibilities.
 
-# What about professional help?
+# WHAT ABOUT PROFESSIONAL HELP?
 
 Encourage the person to get appropriate professional help as soon as possible. Find out information about the resources and services available for a person who is considering suicide, including local services that can assist in response to people at risk of suicide such as hospitals, mental health clinics, mobile outreach crisis teams, suicide prevention helplines and local emergency services. Provide this information to the suicidal person and discuss help-seeking options with them. If they don't want to talk to someone face-to-face, encourage them to contact a suicide helpline.
 
@@ -3673,6 +4103,7 @@ For people at more urgent risk, additional action may be needed to facilitate pr
 
 If the suicidal person has a weapon, contact the police. When contacting the police, inform them that the person is suicidal to help them respond appropriately. Make sure you do not put yourself in any danger while offering support to the suicidal person.
 
+<!-- Page 68 -->
 Be prepared for the suicidal person to possibly express anger and feel betrayed by your attempt to prevent their suicide or help them get professional help. Try not to take personally any hurtful actions or words of the suicidal person.
 
 ### What if the person wants me to promise not to tell anyone else?
@@ -3697,13 +4128,13 @@ Some people injure themselves for reasons other than suicide. This may be to rel
 
 After helping someone who is suicidal, make sure you take appropriate self-care. Providing support and assistance to a suicidal person is exhausting and it is therefore important to take care of yourself. Information about self-care is at the end of section 1.2 Mental Health First Aid.
 
-### Three key actions for helping a suicidal person
+### THREE KEY ACTIONS FOR HELPING A SUICIDAL PERSON
 
-1. If you think someone is suicidal, ask them directly.
-2. Work together to keep them safe for now.
-3. Connect them to professional help.
+1.  If you think someone is suicidal, ask them directly.
+2.  Work together to keep them safe for now.
+3.  Connect them to professional help.
 
-## 3.2 first aid for non-suicidal self-injury
+## 3.2 FIRST AID FOR NON-SUICIDAL SELF-INJURY
 
 _(IMAGE: A black and white art piece made of aluminium, muslin, tulle, flyscreen, netting, and thread. It depicts figures in various positions expressing different feelings, with hands representing support from friends and family, and a dove symbolizing hope and God's presence.)_
 
@@ -3712,7 +4143,8 @@ By Delia Crabbe
 
 "This is made with aluminium, muslin, tulle, flyscreen, netting, thread. The figures in this piece are me, in various positions that express how I was feeling. There are also many hands, representing the support of friends and family. The dove represents a symbol of hope and God's presence, even in such a dark place."
 
-## 3.2 first aid for non-suicidal self-injury
+<!-- Page 69 -->
+## 3.2 FIRST AID FOR NON-SUICIDAL SELF-INJURY
 
 **AN IMPORTANT NOTE**
 
@@ -3720,7 +4152,7 @@ This first aid advice applies only if the person is injuring themselves for reas
 
 Some people engage in non-suicidal self-injury even when suicidal. This means that even though they are having thoughts of suicide, their self-inflicted injuries are not intended to result in death. Some people say that engaging in non-suicidal self-injury helps them to avoid acting on suicidal thoughts. If the person you are assisting is injuring themselves and is suicidal, you will also need to refer to Section 3.1 First Aid for Suicidal Thoughts and Behaviours.
 
-### Facts on non-suicidal self-injury
+### FACTS ON NON-SUICIDAL SELF-INJURY
 
 Many terms are used to describe self-injury, including self-harm, self-mutilation, cutting and parasuicide. There is a great deal of debate about what self-injury is and how it is different to suicidal behaviour. Here the term *non-suicidal self-injury* is used to refer to situations where the self-injury is not intended to result in death. It is not always easy to tell the difference between non-suicidal self-injury and a suicide attempt. The only way to know is to ask the person directly if they are suicidal.
 
@@ -3732,9 +4164,9 @@ An Australian national survey in 2008 found that 1.1% of people aged 10 or over 
 
 People self-injure for many reasons. The main ones are:
 
-* To manage feelings of distress
-* To punish themselves
-* To communicate personal distress to others.
+*   To manage feelings of distress
+*   To punish themselves
+*   To communicate personal distress to others.
 
 #### What are the physical and mental health risks of self-injury?
 
@@ -3742,7 +4174,7 @@ Injuries to the skin often go untreated (e.g., people may be unwilling to seek s
 
 Over time, self-injury can become the central strategy for coping with problems, making it very hard to use more adaptive ways of coping. For some people, self-injury can be a very difficult habit to break.
 
-### How to assess
+### HOW TO ASSESS
 
 Take all self-injuring behaviour seriously, regardless of the severity of the injuries or the intent. Discuss your concerns with the person.
 
@@ -3750,14 +4182,14 @@ If you suspect that someone you care about is deliberately injuring themselves, 
 
 The most common methods of self-injury are:
 
-* Cutting
-* Scratching
-* Deliberately hitting body on hard surface
-* Punching, hitting or slapping self
-* Biting
-* Burning
+*   Cutting
+*   Scratching
+*   Deliberately hitting body on hard surface
+*   Punching, hitting or slapping self
+*   Biting
+*   Burning
 
-### How to assist
+### HOW TO ASSIST
 
 #### What should I do if I suspect someone is injuring themselves?
 
@@ -3779,6 +4211,7 @@ Avoid over-reacting; medical attention is only required if the injury is severe.
 
 If the person has harmed themselves by taking an overdose of medication or consuming poison, call an ambulance, as the risk of death or permanent harm is high. Deliberate overdose is more frequently intended to result in death, but is sometimes a form of self-injury. Regardless of a person's intentions, emergency help must be sought.
 
+<!-- Page 70 -->
 # How should I talk with someone who is deliberately injuring themselves?
 
 Keep in mind that 'stopping self-injury' should not be the focus of the conversation. Instead, look at what can be done to make the person's life more manageable, or their environment less distressing. Understand that self-injury cannot be stopped overnight, and people will need time to recover and learn healthy coping mechanisms.
@@ -3803,16 +4236,16 @@ Don't promise the person that you will keep their self-injury a secret. If you n
 
 ## Things to avoid when talking with someone about non-suicidal self-injury
 
-* Do not minimise the person's feelings or problems.
-* Do not use statements that don't take the person's pain seriously, e.g. "But you've got a great life" or "Things aren't that bad".
-* Do not try to solve the person's problems for them.
-* Do not touch (e.g. hug or hold hands with) the person without their permission.
-* Do not use terms such as 'self-mutilator', 'self-injurer', or 'cutter' to refer to the person.
-* Do not accuse the person of attention seeking.
-* Do not make the person feel guilty about the effect their self-injuring is having on others.
-* Do not set goals or pacts, such as "If you promise not to hurt yourself between now and next week, you're doing really well", unless the person asks you to do this.
-* Do not try to make the person stop self-injuring (e.g. by removing self-injury tools) or giving them ultimatums, e.g. "If you don't stop self-injuring, you have to move out".
-* Do not offer drugs, prescription pills or alcohol to the person.
+*   Do not minimise the person's feelings or problems.
+*   Do not use statements that don't take the person's pain seriously, e.g. "But you've got a great life" or "Things aren't that bad".
+*   Do not try to solve the person's problems for them.
+*   Do not touch (e.g. hug or hold hands with) the person without their permission.
+*   Do not use terms such as 'self-mutilator', 'self-injurer', or 'cutter' to refer to the person.
+*   Do not accuse the person of attention seeking.
+*   Do not make the person feel guilty about the effect their self-injuring is having on others.
+*   Do not set goals or pacts, such as "If you promise not to hurt yourself between now and next week, you're doing really well", unless the person asks you to do this.
+*   Do not try to make the person stop self-injuring (e.g. by removing self-injury tools) or giving them ultimatums, e.g. "If you don't stop self-injuring, you have to move out".
+*   Do not offer drugs, prescription pills or alcohol to the person.
 
 ## What do I do if the person is not ready to talk?
 
@@ -3826,28 +4259,29 @@ Provide praise for any steps the person takes towards getting professional help.
 
 You should seek mental health assistance on the person's behalf if:
 
-* The person asks you to
-* The injury is severe or getting more severe, such as cuts getting deeper or bones being broken
-* The self-injurious behaviour is interfering with daily life
-* The person has injured their eyes
-* The person has injured their genitals
-* The person has expressed a desire to die.
+*   The person asks you to
+*   The injury is severe or getting more severe, such as cuts getting deeper or bones being broken
+*   The self-injurious behaviour is interfering with daily life
+*   The person has injured their eyes
+*   The person has injured their genitals
+*   The person has expressed a desire to die.
 
+<!-- Page 71 -->
 Keep in mind that not all people who self-injure want to change their behaviour. Even though you can offer support, you are not responsible for the actions or behaviour of someone else, and cannot control what they do.
 
 If the person is an adolescent, a more directive approach may be needed. Help the adolescent map out a plan of action for seeking help and offer to go along with them to an appointment.
 
-### Encouraging alternatives to self-injury
+### ENCOURAGING ALTERNATIVES TO SELF-INJURY
 
 Encourage the person to seek other ways to relieve their distress. Help the person to use their coping strategies that do not involve self-injuring, and help them to make a plan about what to do when they feel like self-injuring. Suggest some coping strategies and discuss with the person what might be helpful for them. These may include:
 
-* Encouraging the person to share their feelings with other people, such as a close friend or family member, when they are feeling distressed or have the urge to self-injure.
+*   Encouraging the person to share their feelings with other people, such as a close friend or family member, when they are feeling distressed or have the urge to self-injure.
 
-* Helping the person think of ways to reduce their distress, e.g. having a hot bath, listening to loud music, or doing something kind for themselves.
+*   Helping the person think of ways to reduce their distress, e.g. having a hot bath, listening to loud music, or doing something kind for themselves.
 
-* Offering the person information materials (e.g. a website or fact sheet) about alternatives to self-injury. You can download a fact sheet at bit.ly/mhfanssialts
+*   Offering the person information materials (e.g. a website or fact sheet) about alternatives to self-injury. You can download a fact sheet at bit.ly/mhfanssialts
 
-## 3.3 first aid for panic attacks
+## 3.3 FIRST AID FOR PANIC ATTACKS
 
 _(IMAGE: A drawing of a person with a heart on their chest surrounded by dark, menacing figures.)_
 
@@ -3856,34 +4290,35 @@ By Claire Kelly
 
 "Panic is terrifying - the fear can be likened to terrifying threats from somewhere you can't quite see. But the image is cartoony, because although the fear is real, the threats are not."
 
-# 3.3 first aid for panic attacks
+<!-- Page 72 -->
+# 3.3 FIRST AID FOR PANIC ATTACKS
 
-## Facts on panic attacks
+## FACTS ON PANIC ATTACKS
 
 More than one in four people have a panic attack at some time in their lives.
 Few go on to have repeated attacks, and fewer still go on to develop panic disorder or agoraphobia. Although anyone can have a panic attack, people with anxiety disorders are more prone.
 
 Some panic attacks do not appear to be triggered by anything specific. These are called 'unexpected' panic attacks. Other panic attacks may be associated with a feared situation. For example, a person with social anxiety disorder may experience a panic attack in a social setting.
 
-## How to assess
+## HOW TO ASSESS
 
 ### Signs and symptoms of a panic attack
 
 A panic attack is a distinct episode of high anxiety, with fear or discomfort, which develops abruptly and lasts between 5-20 minutes. During the attack, several of the following symptoms are present.
 
-* Palpitations, pounding heart, or rapid heart rate
-* Sweating, chills or hot flushes.
-* Trembling and shaking
-* Numbness or tingling
-* Sensations of shortness of breath, sensations of choking or smothering
-* Dizziness, light-headedness, feeling faint or unsteady
-* Chest pain or discomfort
-* Abdominal distress or nausea
-* Feelings of unreality or being detached from oneself
-* Fears of losing control or going crazy
-* Fear of dying.
+*   Palpitations, pounding heart, or rapid heart rate
+*   Sweating, chills or hot flushes.
+*   Trembling and shaking
+*   Numbness or tingling
+*   Sensations of shortness of breath, sensations of choking or smothering
+*   Dizziness, light-headedness, feeling faint or unsteady
+*   Chest pain or discomfort
+*   Abdominal distress or nausea
+*   Feelings of unreality or being detached from oneself
+*   Fears of losing control or going crazy
+*   Fear of dying.
 
-## How to assist
+## HOW TO ASSIST
 
 ### What should I do if I think someone is having a panic attack?
 
@@ -3917,7 +4352,8 @@ During a panic attack, you can encourage the person to slow their breathing down
 
 It is not recommended to introduce specific breathing strategies, such as counting breaths, as a way of managing a panic attack. Reliance on these sorts of methods can make recovery from panic-related mental illness take longer.
 
-## 3.4 first aid following a traumatic event
+<!-- Page 73 -->
+## 3.4 FIRST AID FOLLOWING A TRAUMATIC EVENT
 
 _(IMAGE: An abstract black and white photo with many geometric shapes.)_
 
@@ -3926,9 +4362,10 @@ By Catriona Taralrud-Bay
 
 "This is a black and white photo with deterioration and manipulation, then photocopied. The white shapes are all the traumas crowding out the world for the traumatized, who are in the black and grey world behind. The fence represents war, the face in the middle of the right hand side (my son) represents those with trauma that needs healing."
 
-## 3.4 first aid following a traumatic event
+<!-- Page 74 -->
+## 3.4 FIRST AID FOLLOWING A TRAUMATIC EVENT
 
-### Facts on traumatic events
+### FACTS ON TRAUMATIC EVENTS
 
 A **traumatic event** is one that causes an individual or group to experience intense feelings of terror, horror, helplessness, or hopelessness. Examples of traumas include involvement in war, accidents, assault (including physical or sexual assault, mugging or robbery, or family violence), and witnessing something terrible happen. Mass traumatic events include terrorist attacks, mass shootings, warfare and severe weather events (cyclone, tsunami and bushfire).
 
@@ -3936,19 +4373,19 @@ The traumatic event is not necessarily directly experienced by the person. The p
 
 Mental health first aid might not always occur immediately after the traumatic event. For instance, there are other sorts of traumas that are not single discrete incidents:
 
-* Common examples of recurring trauma include sexual, physical or emotional abuse, or torture. In these cases, the first aid recommendations here will be used when the first aider becomes aware of what has been happening.
-* Sometimes the memories of a traumatic event suddenly or unexpectedly return, weeks, months or even years afterwards. Again, the first aid recommendations here will be used when the first aider becomes aware of this.
+*   Common examples of recurring trauma include sexual, physical or emotional abuse, or torture. In these cases, the first aid recommendations here will be used when the first aider becomes aware of what has been happening.
+*   Sometimes the memories of a traumatic event suddenly or unexpectedly return, weeks, months or even years afterwards. Again, the first aid recommendations here will be used when the first aider becomes aware of this.
 
 It is important to know that people can differ a lot in how they react to traumatic events:
 
-* Particular types of traumas may affect some individuals more than others.
-* A history of trauma may make some people more susceptible to later traumatic events, while others become more resilient as a result.
+*   Particular types of traumas may affect some individuals more than others.
+*   A history of trauma may make some people more susceptible to later traumatic events, while others become more resilient as a result.
 
-### How to assess
+### HOW TO ASSESS
 
 A person who has experienced a traumatic event may react strongly right away, showing you that they need immediate assistance. Others may have a delayed reaction. This means that if you are helping someone you know and see on a regular basis, you may be continually assessing them for signs of distress over the next few weeks.
 
-### How to assist
+### HOW TO ASSIST
 
 #### What are the first priorities for helping someone after a traumatic event?
 
@@ -3976,6 +4413,7 @@ Give the person truthful information and admit that you lack information when th
 
 When talking to a person who has experienced a traumatic event, it is more important to be genuinely caring than to say all the 'right things'. Show the person that you understand and care, and ask them how they would like to be helped. Speak clearly and avoid clinical and technical language, and communicate with the person as an equal, rather than as a superior or expert. If the person seems unable to understand what is said, you may need to repeat yourself several times. Be aware that providing support doesn't have to be complicated; it can involve small things
 
+<!-- Page 75 -->
 like spending time with the person, having a cup of tea or coffee, chatting about day-to-day life or giving them a hug.
 
 Behaviour such as withdrawal, irritability and bad temper may be a response to the trauma, so try not to take such behaviour personally. Try to be friendly, even if the person is being difficult. The person may not be as distressed about what has happened as you might expect them to be, and this is fine. Don't tell the person how they should be feeling. Tell them that everyone deals with trauma at their own pace. Be aware that cultural differences may influence the way some people respond to a traumatic event; for example, in some cultures, expressing vulnerability or grief around strangers is not considered appropriate.
@@ -4006,15 +4444,16 @@ If at any time the person becomes suicidal, you should seek professional help. S
 
 After four weeks, some return to normal functioning is expected. You should encourage the person to seek professional help if, for four weeks or more, after the trauma:
 
-* They still feel very upset or fearful
-* They are unable to escape intense, ongoing distressing feelings
-* Their important relationships are suffering as a result of the trauma, e.g. if they withdraw from their family or friends
-* They feel jumpy or have nightmares because of or about the trauma
-* They can't stop thinking about the trauma
-* They are unable to enjoy life at all as a result of the trauma
-* Their post-trauma symptoms are interfering with their usual activities.
+*   They still feel very upset or fearful
+*   They are unable to escape intense, ongoing distressing feelings
+*   Their important relationships are suffering as a result of the trauma, e.g. if they withdraw from their family or friends
+*   They feel jumpy or have nightmares because of or about the trauma
+*   They can't stop thinking about the trauma
+*   They are unable to enjoy life at all as a result of the trauma
+*   Their post-trauma symptoms are interfering with their usual activities.
 
-## 3.5 first aid for severe psychotic states
+<!-- Page 76 -->
+## 3.5 FIRST AID FOR SEVERE PSYCHOTIC STATES
 
 _(IMAGE: An abstract painting of an eye made of broken glass pieces in shades of blue, green, red, and grey.)_
 
@@ -4023,28 +4462,26 @@ By Hien Bui
 
 "My painting looks like broken glass pieces of psychosis. There is an image of an eye which reflects both views from the unwell person to the world and vice versa. This eye has five main colours that reflect the five main senses of human beings which have been broken."
 
-## 3.5 first aid for severe psychotic states
+<!-- Page 77 -->
+## 3.5 FIRST AID FOR SEVERE PSYCHOTIC STATES
 
-### Facts on severe psychotic states
-
+### FACTS ON SEVERE PSYCHOTIC STATES
 If someone has a psychotic illness, they may at times experience severe psychotic states. Some people experience a severe psychotic state only rarely, perhaps every few years; others more frequently and some may experience these states several times a year.
 
 A severe psychotic state can occur without an apparent cause or may be triggered by something specific. Possible triggers include extra stresses or life events (even positive life events such as a new job or a holiday). Forgetting to take medication, or choosing not to, can also trigger a psychotic episode and this is one of the reasons that it is best for people to continue using their medication as prescribed.
 
 A severe psychotic state may develop gradually over a few days or it may seem to come on very suddenly. For this reason, early signs of a psychotic state should be addressed as quickly as possible.
 
-### How to assess
-
+### HOW TO ASSESS
 A person in a severe psychotic state can have:
 
-* Overwhelming delusions and hallucinations
-* Very disorganised thinking
-* Bizarre and disruptive behaviours.
+*   Overwhelming delusions and hallucinations
+*   Very disorganised thinking
+*   Bizarre and disruptive behaviours.
 
 The person will appear very distressed or their behaviours will be disturbing to others. When a person is in this state, they can come to harm unintentionally because of their delusions or hallucinations, e.g. the person believes they have special powers to protect them from danger such as driving through red lights, or the person may run through traffic to try to escape from their terrifying hallucinations.
 
-### How to assist
-
+### HOW TO ASSIST
 When helping someone in a severe psychotic state, you should try to remain as calm as possible. It is important to communicate to the person in a clear and concise manner and use short, simple sentences. Speak quietly in a non-threatening tone of voice and at a moderate pace. If the person asks you questions, answer them calmly. You should comply with requests unless they are unsafe or unreasonable. This gives the person the opportunity to feel somewhat in control.
 
 If the person has an Advance Care Directive or relapse prevention plan, you should follow those instructions. Try to find out if the person has anyone they trust (e.g. close friends, family) and try to enlist their help. You should also assess whether it is safe for the person to be alone and, if not, should ensure that someone stays with them.
@@ -4053,7 +4490,8 @@ It is possible that the person might act upon a delusion or hallucination. Remem
 
 Sometimes it is not possible to de-escalate the situation and if this is the case, you should be prepared to call for help from emergency services and convey specific, concise observations about the severity of the person's behaviour and symptoms. When any unfamiliar helpers arrive, explain to the person who they are and how they are going to help. However, if your concerns about the person are dismissed by the services you contact, you should persevere in trying to seek support for them.
 
-## 3.6 first aid for the severe effects from alcohol use
+<!-- Page 78 -->
+## 3.6 FIRST AID FOR THE SEVERE EFFECTS FROM ALCOHOL USE
 
 _(IMAGE: A drawing of a person sitting in a corner under a light, with empty bottles nearby.)_
 
@@ -4062,9 +4500,10 @@ By Brenda Hume
 
 "This is what I felt when I drew this picture: isolation, loneliness, depression, sadness, emptiness, self-loathing, all of which are often the symptoms of drinking and even the bigger issue of mental illness. No one should live life in such pain and desperation. I believe these are treatable and with help can be avoided."
 
-# 3.6 first aid for the severe effects from alcohol use
+<!-- Page 79 -->
+# 3.6 FIRST AID FOR THE SEVERE EFFECTS FROM ALCOHOL USE
 
-## Facts on alcohol intoxication, poisoning and withdrawal
+## FACTS ON ALCOHOL INTOXICATION, POISONING AND WITHDRAWAL
 
 Alcohol intoxication refers to significantly elevated levels of alcohol in a person's blood stream, which substantially impairs the person's thinking and behaviour.
 
@@ -4072,76 +4511,77 @@ Alcohol poisoning means the person has a toxic level of alcohol in the blood str
 
 Alcohol withdrawal refers to the unpleasant symptoms a person experiences when they stop drinking or drink substantially less than usual. Unmedicated alcohol withdrawal may lead to seizures.
 
-## How to assess
+## HOW TO ASSESS
 
 Common signs and symptoms of alcohol intoxication include:
 
-* Loss of coordination
-* Slurred speech
-* Staggering or falling over
-* Loud, argumentative or aggressive behaviour
-* Vomiting
-* Blackouts (no memory of what happened during the drinking episode)
-* Drowsiness or sleepiness.
+*   Loss of coordination
+*   Slurred speech
+*   Staggering or falling over
+*   Loud, argumentative or aggressive behaviour
+*   Vomiting
+*   Blackouts (no memory of what happened during the drinking episode)
+*   Drowsiness or sleepiness.
 
 Signs and symptoms of alcohol intoxication and poisoning which may lead to a medical emergency are:
 
-* Continuous vomiting
-* Cannot be woken
-* Unconsciousness
-* Signs of a possible head injury, e.g. they are vomiting and talking incoherently
-* Irregular, shallow or slow breathing
-* Irregular, weak or slow pulse rate
-* Cold, clammy, pale or bluish coloured skin.
+*   Continuous vomiting
+*   Cannot be woken
+*   Unconsciousness
+*   Signs of a possible head injury, e.g. they are vomiting and talking incoherently
+*   Irregular, shallow or slow breathing
+*   Irregular, weak or slow pulse rate
+*   Cold, clammy, pale or bluish coloured skin.
 
 Signs and symptoms of severe alcohol withdrawal, which may lead to a medical emergency are:
 
-* Delirium tremens (a state of confusion and visual hallucinations)
-* Agitation
-* Fever
-* Seizures
+*   Delirium tremens (a state of confusion and visual hallucinations)
+*   Agitation
+*   Fever
+*   Seizures
 
-## How to assist
+## HOW TO ASSIST
 
 If the person is intoxicated:
 
-* Stay calm
-* Communicate appropriately. Talk with the person in a respectful manner and use simple, clear language. Do not laugh at, make fun of, or provoke the person.
-* Monitor for danger. While intoxicated, the person may engage in a wide range of risky activities (such as having unprotected sex, vandalising property or driving a car). Assess the situation for potential dangers and ensure that the person, yourself and others are safe. Monitor the person and their environment to prevent tripping or falling. Ask the person if they have taken any medications or other drugs, in case their condition deteriorates into a medical emergency.
-* Ensure the person's safety. Stay with the person or ensure they are not left alone. Be aware that the person may be more intoxicated than they realise. Keep them away from machines and dangerous objects. If the person attempts to drive a vehicle (or ride a bike), you should try to discourage them, e.g by telling them about the risks to both themselves and others. Only prevent the person from driving if it is safe for you to do so. If it is unsafe, call the police. Arrange for the person to go to a hospital if you think the person is a risk to themselves; otherwise organise a safe mode of transport to get the person home. Alcohol intoxication, poisoning and withdrawal may lead to medical emergencies. Be aware that alcohol consumption can mask pain from injuries.
+*   Stay calm
+*   Communicate appropriately. Talk with the person in a respectful manner and use simple, clear language. Do not laugh at, make fun of, or provoke the person.
+*   Monitor for danger. While intoxicated, the person may engage in a wide range of risky activities (such as having unprotected sex, vandalising property or driving a car). Assess the situation for potential dangers and ensure that the person, yourself and others are safe. Monitor the person and their environment to prevent tripping or falling. Ask the person if they have taken any medications or other drugs, in case their condition deteriorates into a medical emergency.
+*   Ensure the person's safety. Stay with the person or ensure they are not left alone. Be aware that the person may be more intoxicated than they realise. Keep them away from machines and dangerous objects. If the person attempts to drive a vehicle (or ride a bike), you should try to discourage them, e.g by telling them about the risks to both themselves and others. Only prevent the person from driving if it is safe for you to do so. If it is unsafe, call the police. Arrange for the person to go to a hospital if you think the person is a risk to themselves; otherwise organise a safe mode of transport to get the person home. Alcohol intoxication, poisoning and withdrawal may lead to medical emergencies. Be aware that alcohol consumption can mask pain from injuries.
 
 ## When to call an ambulance
 
 Call an ambulance or seek medical help in any of the following circumstances:
 
-* The person is unconscious, i.e. cannot be woken.
-* The person has irregular, shallow or slow breathing.
-* The person has an irregular, weak or slow pulse rate.
-* The person has cold, clammy, pale or bluish coloured skin.
-* The person is continuously vomiting.
-* The person shows signs of a possible head injury, e.g. they are vomiting and talking incoherently.
-* The person has a seizure.
-* The person has delirium tremens - a state of confusion and visual hallucinations.
-* Drink spiking is suspected.
+*   The person is unconscious, i.e. cannot be woken.
+*   The person has irregular, shallow or slow breathing.
+*   The person has an irregular, weak or slow pulse rate.
+*   The person has cold, clammy, pale or bluish coloured skin.
+*   The person is continuously vomiting.
+*   The person shows signs of a possible head injury, e.g. they are vomiting and talking incoherently.
+*   The person has a seizure.
+*   The person has delirium tremens - a state of confusion and visual hallucinations.
+*   Drink spiking is suspected.
 
-## Tips about calling an ambulance
+## TIPS ABOUT CALLING AN AMBULANCE
 
-* Do not be afraid to seek medical help for the person, even if there may be legal implications for the person. Be aware that ambulance officers and hospital staff are there to help the person and not to enforce the law.
-* When you call for an ambulance, it is important that you follow the instructions of the telephone operator.
-* When asked, describe the person's symptoms and explain that the person has been drinking alcohol.
-* Have the address of where you are to give to the telephone operator and stay with the person until the ambulance arrives.
-* It is beneficial for a friend or family member to accompany the person to hospital, as they may be able to provide relevant information.
+*   Do not be afraid to seek medical help for the person, even if there may be legal implications for the person. Be aware that ambulance officers and hospital staff are there to help the person and not to enforce the law.
+*   When you call for an ambulance, it is important that you follow the instructions of the telephone operator.
+*   When asked, describe the person's symptoms and explain that the person has been drinking alcohol.
+*   Have the address of where you are to give to the telephone operator and stay with the person until the ambulance arrives.
+*   It is beneficial for a friend or family member to accompany the person to hospital, as they may be able to provide relevant information.
 
 ## What to do while waiting for the ambulance
 
 While waiting for the ambulance ensure that:
 
-* The person is not left alone.
-* No food is given to the person, as they may choke on it if they are not fully conscious.
-* The person's airway, breathing and circulation are monitored.
-* If the person is hard to wake, put them in the recovery position (see box 'Helping an unconscious person').
-* If the person is vomiting and conscious, keep the person sitting. Alternatively, put them in the recovery position. If necessary, clear the person's airway after they have vomited.
+*   The person is not left alone.
+*   No food is given to the person, as they may choke on it if they are not fully conscious.
+*   The person's airway, breathing and circulation are monitored.
+*   If the person is hard to wake, put them in the recovery position (see box 'Helping an unconscious person').
+*   If the person is vomiting and conscious, keep the person sitting. Alternatively, put them in the recovery position. If necessary, clear the person's airway after they have vomited.
 
+<!-- Page 80 -->
 Can I help the person to sober up?
 
 Only time will reverse the effects of intoxication. The body metabolises approximately one standard drink of alcohol an hour. Drinking black coffee, sleeping, walking and cold showers will not speed up this process.
@@ -4150,7 +4590,7 @@ What do I do if the intoxicated person becomes aggressive?
 
 If this occurs, follow the advice in Section 3.8 First Aid for Aggressive Behaviours.
 
-### Helping an unconscious person
+### HELPING AN UNCONSCIOUS PERSON
 
 Do not leave the person lying on their back, as they could suffocate on their vomit or their tongue could block their airway. Putting the person in the recovery position will help to keep the airway open. Before rolling the person into the recovery position, check for sharp objects, e.g. broken glass or syringes on the ground. If necessary, clear the person's airway after they have vomited. Keep the person warm without allowing them to overheat.
 
@@ -4160,7 +4600,7 @@ If the person is alcohol or drug affected they may not be quite unconscious and 
 
 _(IMAGE: A line drawing of a person in the recovery position.)_
 
-## 3.7 first aid for the severe effects from drug use
+## 3.7 FIRST AID FOR THE SEVERE EFFECTS FROM DRUG USE
 
 _(IMAGE: A painting called Escaping the Spiral of Needles by Nicole Salter.)_
 
@@ -4169,13 +4609,14 @@ By Nicole Salter
 
 Nicole painted this in 2005 when she was 20 years old. At the time she was overcoming a substance use problem. The middle part of the painting uses dark colours and represents addiction. As she escapes addiction, the colours brighten. At the time she was making a decision between her relationship with her boyfriend or substance use. She decided that if she chose drugs, she would still be thinking about her boyfriend, so she chose him instead.
 
-## 3.7 first aid for the severe effects from drug use
+<!-- Page 81 -->
+## 3.7 FIRST AID FOR THE SEVERE EFFECTS FROM DRUG USE
 
-### Facts on drug-affected states
+### FACTS ON DRUG-AFFECTED STATES
 
 Drug-affected states are short-term changes in a person's state of mind or behaviour as a result of drug use. These states distress the person or impair their ability to function. The effects of drugs on behaviour can vary from person to person depending on the sort of drug that has been used and the amount that is taken. Illicit drugs can have varying effects, as they are not manufactured in a controlled way. It is often difficult to make a distinction between the effects of different drugs. *Overdose* refers to use of an amount of a drug that could cause death, most typically opioid drugs. Overdose leads quickly to a loss of consciousness.
 
-### How to assess
+### HOW TO ASSESS
 
 Some drugs have *stimulating effects* ('uppers' such as cocaine and amphetamines) including making the person feel energetic and confident. Signs of more acute intoxication include becoming frustrated or angry, having a racing heart, and overheating or dehydration.
 
@@ -4187,62 +4628,63 @@ Some drugs (such as ecstasy and cannabis) may have multiple effects. This is why
 
 Overheating or dehydration from drug use can also lead to a medical emergency. Prolonged dancing in a hot environment (such as a dance party) while on some drugs (e.g. ecstasy) without adequate water intake, can cause the person's body temperature to rise to dangerous levels. This can lead to symptoms of overheating or dehydration, such as:
 
-* Feeling hot, exhausted and weak
-* Persistent headache
-* Pale, cool, clammy skin
-* Rapid breathing and shortness of breath
-* Fatigue, thirst and nausea
-* Giddiness and feeling faint.
+*   Feeling hot, exhausted and weak
+*   Persistent headache
+*   Pale, cool, clammy skin
+*   Rapid breathing and shortness of breath
+*   Fatigue, thirst and nausea
+*   Giddiness and feeling faint.
 
-### How to assist
+### HOW TO ASSIST
 
 **If the person is in a drug-affected state:**
 
-* **Stay calm.**
+*   **Stay calm.**
 
-* **Communicate appropriately.** Talk with the person in a respectful manner and use simple, clear language. Be prepared to repeat simple requests and instructions, as the person may find it difficult to comprehend what has been said. Do not speak in an angry manner. Do not laugh at, make fun of, or provoke the person.
+*   **Communicate appropriately.** Talk with the person in a respectful manner and use simple, clear language. Be prepared to repeat simple requests and instructions, as the person may find it difficult to comprehend what has been said. Do not speak in an angry manner. Do not laugh at, make fun of, or provoke the person.
 
-* **Monitor for danger.** While in a drug-affected state, the person may engage in a wide range of risky activities (such as having unprotected sex, vandalising property or driving a car). Assess the situation for potential dangers and ensure that the person, yourself and others are safe. Monitor the person and their environment to prevent tripping or falling.
+*   **Monitor for danger.** While in a drug-affected state, the person may engage in a wide range of risky activities (such as having unprotected sex, vandalising property or driving a car). Assess the situation for potential dangers and ensure that the person, yourself and others are safe. Monitor the person and their environment to prevent tripping or falling.
 
-* **Ensure the person's safety.** Stay with the person or ensure they are not left alone. Be aware that the person may be more affected than they realise. Keep them away from machines and dangerous objects. If the person attempts to drive a vehicle (or ride a bike), you should try to discourage them, e.g. by telling them about the risks to both themselves and others. Only prevent the person from driving if it is safe to do so. If it is unsafe, call the police. Arrange for the person to go to a hospital if you think the person is a risk to themselves; otherwise organise a safe mode of transport to get the person home. Encourage the person to tell someone if they start to feel unwell or uneasy, and to call emergency services if they have an adverse reaction. Drug use can lead to a range of medical emergencies.
+*   **Ensure the person's safety.** Stay with the person or ensure they are not left alone. Be aware that the person may be more affected than they realise. Keep them away from machines and dangerous objects. If the person attempts to drive a vehicle (or ride a bike), you should try to discourage them, e.g. by telling them about the risks to both themselves and others. Only prevent the person from driving if it is safe to do so. If it is unsafe, call the police. Arrange for the person to go to a hospital if you think the person is a risk to themselves; otherwise organise a safe mode of transport to get the person home. Encourage the person to tell someone if they start to feel unwell or uneasy, and to call emergency services if they have an adverse reaction. Drug use can lead to a range of medical emergencies.
 
 ### When to call an ambulance
 
 Call an ambulance or seek medical help in any of the following circumstances:
 
-* The person cannot be woken.
-* Deteriorating or loss of consciousness.
-* The person has irregular, shallow or slow breathing.
-* The person has an irregular, weak or slow pulse rate.
-* The person has cold, clammy, pale or bluish coloured skin.
-* The person is continuously vomiting.
-* The person shows signs of a possible head injury (for example, they are vomiting and talking incoherently).
-* The person has a seizure.
-* The person has delirium - a state of confusion and visual hallucinations.
-* Overheating, dehydration and over-hydration.
+*   The person cannot be woken.
+*   Deteriorating or loss of consciousness.
+*   The person has irregular, shallow or slow breathing.
+*   The person has an irregular, weak or slow pulse rate.
+*   The person has cold, clammy, pale or bluish coloured skin.
+*   The person is continuously vomiting.
+*   The person shows signs of a possible head injury (for example, they are vomiting and talking incoherently).
+*   The person has a seizure.
+*   The person has delirium - a state of confusion and visual hallucinations.
+*   Overheating, dehydration and over-hydration.
 
-### Tips about calling an ambulance
+### TIPS ABOUT CALLING AN AMBULANCE
 
-* Do not be afraid to seek medical help for the person, even if there may be legal implications for the person. Be aware that ambulance officers and hospital staff are there to help the person and not to enforce the law.
+*   Do not be afraid to seek medical help for the person, even if there may be legal implications for the person. Be aware that ambulance officers and hospital staff are there to help the person and not to enforce the law.
 
-* When you call for an ambulance, it is important that you follow the instructions of the telephone operator.
+*   When you call for an ambulance, it is important that you follow the instructions of the telephone operator.
 
-* When asked, describe the person's symptoms and explain that the person has been using drugs. Try to get detailed information about what drugs the person has taken by either asking the person, their friends or visually scanning the environment for clues.
+*   When asked, describe the person's symptoms and explain that the person has been using drugs. Try to get detailed information about what drugs the person has taken by either asking the person, their friends or visually scanning the environment for clues.
 
-* Have the address of where you are to give to the telephone operator and stay with the person until the ambulance arrives.
+*   Have the address of where you are to give to the telephone operator and stay with the person until the ambulance arrives.
 
-* It is beneficial for a friend or family member to accompany the person to hospital, as they may be able to provide relevant information.
+*   It is beneficial for a friend or family member to accompany the person to hospital, as they may be able to provide relevant information.
 
 ### What to do while waiting for the ambulance
 
 Ensure that:
 
-* The person is not left alone.
-* No food is given to the person, as they may choke on it if they are not fully conscious.
-* The person's airway, breathing and circulation are monitored.
-* If the person is hard to wake, put them in the recovery position (see Helping an unconscious person below).
-* Give first aid for any overheating or dehydration.
+*   The person is not left alone.
+*   No food is given to the person, as they may choke on it if they are not fully conscious.
+*   The person's airway, breathing and circulation are monitored.
+*   If the person is hard to wake, put them in the recovery position (see Helping an unconscious person below).
+*   Give first aid for any overheating or dehydration.
 
+<!-- Page 82 -->
 # Helping a person who is overheating or dehydrated
 
 If the person is showing symptoms of overheating or dehydration, you must keep the person calm and seek medical help immediately. Encourage the person to stop dancing and to rest somewhere quiet and cool. While waiting for help to arrive, reduce the person's body temperature gradually. Do this by loosening any restrictive clothing or removing any additional layers, and encourage the person to sip non-alcoholic fluids, e.g. water and soft drinks. Prevent the person from drinking too much water at once as this may lead to over-hydration and even coma or death. Discourage the person from drinking alcohol as it may further dehydrate them.
@@ -4251,11 +4693,11 @@ If the person is showing symptoms of overheating or dehydration, you must keep t
 
 If this occurs, follow the advice in Section 3.8 First Aid for Aggressive Behaviours.
 
-## 3.8 first aid for aggressive behaviours
+## 3.8 FIRST AID FOR AGGRESSIVE BEHAVIOURS
 
 _(IMAGE: An abstract painting of fire and water.)_
 
-# Helping an unconscious person
+# HELPING AN UNCONSCIOUS PERSON
 
 Do not leave the person lying on their back, as they could suffocate on their vomit or their tongue could block their airway. Putting the person in the recovery position will help to keep the airway open. Before rolling the person into the recovery position, check for sharp objects, e.g. broken glass or syringes on the ground. If necessary, clear the person's airway after they have vomited. Keep the person warm without allowing them to overheat.
 
@@ -4268,9 +4710,10 @@ By Peter
 
 "The two opposites fighting. Fire represents our rage, our desires. Water is our salve, our restraint, our calm and is used to keep the fire under control."
 
-## 3.8 first aid for aggressive behaviours
+<!-- Page 83 -->
+## 3.8 FIRST AID FOR AGGRESSIVE BEHAVIOURS
 
-### Facts on aggressive behaviours
+### FACTS ON AGGRESSIVE BEHAVIOURS
 
 The vast majority of people with mental illnesses are not dangerous to others. Only a small proportion (up to 10%) of violence in society is due to mental illness.
 
@@ -4280,27 +4723,27 @@ The use of alcohol or other drugs has a stronger association with violence than 
 
 When a violent act is committed by a person having an episode of psychosis, it is generally done out of fear, with the person believing they are acting out of self-defence.
 
-### How to assess
+### HOW TO ASSESS
 
 Aggression has different components to it - verbal (e.g. insults or threats), behavioural (e.g. pounding, throwing things, violating personal space) and emotional (e.g. raised voice, looks angry). What is perceived as aggression can vary between individuals and across cultures. It is best to prevent aggression and therefore take de-escalation action as soon as you perceive it. If you are concerned that the person is becoming aggressive, you need to take steps to protect yourself and others.
 
-### How to assist
+### HOW TO ASSIST
 
 If the person becomes aggressive, ensure your own safety at all times. Remain as calm as possible and try to de-escalate the situation.
 
-### How to de-escalate the situation
+### HOW TO DE-ESCALATE THE SITUATION
 
-* Speak to the person slowly and confidently with a gentle, caring tone of voice.
-* Do not respond in a hostile, disciplinary or challenging manner.
-* Do not argue with the person.
-* Do not threaten them, as this may increase fear or prompt aggressive behaviour.
-* Avoid raising your voice or talking too fast.
-* Be aware that the person may overreact to negative words; therefore, use positive words (such as "Stay calm") instead of negative words (such as "Don't fight").
-* Stay calm and avoid nervous behaviour, e.g. shuffling your feet, fidgeting, making abrupt movements.
-* Do not restrict the person's movement, e.g. if he or she wants to pace up and down the room.
-* Remain aware that the person's symptoms or fear causing their aggression might be exacerbated if you take certain steps, e.g. involve the police.
-* Consider taking a break from the conversation to allow the person a chance to calm down.
-* Consider inviting the person to sit down if they are standing.
+*   Speak to the person slowly and confidently with a gentle, caring tone of voice.
+*   Do not respond in a hostile, disciplinary or challenging manner.
+*   Do not argue with the person.
+*   Do not threaten them, as this may increase fear or prompt aggressive behaviour.
+*   Avoid raising your voice or talking too fast.
+*   Be aware that the person may overreact to negative words; therefore, use positive words (such as "Stay calm") instead of negative words (such as "Don't fight").
+*   Stay calm and avoid nervous behaviour, e.g. shuffling your feet, fidgeting, making abrupt movements.
+*   Do not restrict the person's movement, e.g. if he or she wants to pace up and down the room.
+*   Remain aware that the person's symptoms or fear causing their aggression might be exacerbated if you take certain steps, e.g. involve the police.
+*   Consider taking a break from the conversation to allow the person a chance to calm down.
+*   Consider inviting the person to sit down if they are standing.
 
 Take any threats or warnings seriously, particularly if the person believes they are being persecuted. If you are frightened, seek outside help immediately. You should never put yourself at risk and always ensure you have access to an exit. Similarly, if the person's aggression escalates out of control at any time, you should remove yourself from the situation and call for emergency assistance, e.g. the mental health crisis team or the police.
 
@@ -4308,7 +4751,8 @@ If you believe that the aggression is related to a mental health problem, you ma
 
 If the situation becomes unsafe, it may be necessary to involve the police. If you suspect that the person's aggression is related to a mental health problem, to assist the police in their response, you should tell them that this is the case and that you need their help to obtain medical treatment and to control the person's aggressive behaviour. Aggressive behaviour is frequently associated with intoxication with alcohol or another drug. If this is the case, and you decide to call the police, tell the police that you believe the person is intoxicated, and what substances you believe have been used. In either case, you should tell the police whether or not the person is armed.
 
-# Appendix 1
+<!-- Page 84 -->
+# APPENDIX 1
 
 CULTURAL CONSIDERATIONS AND COMMUNICATION TECHNIQUES WHEN PROVIDING MENTAL HEALTH FIRST AID TO AN ABORIGINAL OR TORRES STRAIT ISLANDER PERSON
 
@@ -4319,39 +4763,40 @@ By Johanna Parker
 
 "Overcoming the past injustices has made strong spirits rise and stand tall, like tree trunks bold and solid."
 
-# Appendix 1
+<!-- Page 85 -->
+# APPENDIX 1
 
-## Development of these guidelines
+## DEVELOPMENT OF THESE GUIDELINES
 
 The following guidelines are based on the expert opinions of Aboriginal clinicians from across Australia, who have extensive knowledge of, and experience in, mental health.
 
-## How to use these guidelines
+## HOW TO USE THESE GUIDELINES
 
 In these guidelines, the word 'Aboriginal' is used to represent all Australian Aboriginal and Torres Strait Islander people. These guidelines are a general set of recommendations about how you can communicate with an Aboriginal person who may be experiencing a mental illness or developing a mental health crisis. Each individual is unique and it is important to tailor your support to the person's needs. These recommendations therefore may not be appropriate for every person. It is important to acknowledge that Aboriginal communities are not all the same; they may differ in their understanding, approaches and treatment of mental illness. Be aware that the individual you are helping may not understand mental illness in the way that you do. Try to be familiar with their way of understanding.
 
-## Learn about the person's culture and their concept of mental illness
+## LEARN ABOUT THE PERSON'S CULTURE AND THEIR CONCEPT OF MENTAL ILLNESS
 
 A person's culture plays a very important role in the way they understand and talk about health and ill-health, and how they go about seeking help from friends, family or professionals. Aboriginal people understand mental health within a broad context of health and well-being, which includes concepts of social and emotional functioning. Sometimes, therefore, symptoms of mental illness are understood within Aboriginal communities as part of a person's spirit or personality, and not conceptualised as a form of treatable mental illness.
 
 If you are providing mental health first aid to an Aboriginal person who is not from your own community, you should always be culturally competent, and always practise cultural safety (see Cultural Competence box).
 
-## Know what is normal, and what is not, in the person's culture
+## KNOW WHAT IS NORMAL, AND WHAT IS NOT, IN THE PERSON'S CULTURE
 
 When assisting someone outside your own culture or community, it is very important that you take into consideration the spiritual or cultural context of the person's behaviours. Be aware that it is common for the experiences of Aboriginal people (such as seeing spirits or hearing voices of deceased loved ones) to be misdiagnosed or mislabelled as mental illness. Fear of misdiagnosis can be a strong barrier to help-seeking for Aboriginal people. For these reasons, you should take great care not to simply assume that the person is developing a mental illness or experiencing a mental health crisis.
 
 Please be aware that these guidelines are not exhaustive, and although they may assist you in providing first aid within Aboriginal communities, they alone will not make you a culturally competent first aider.
 
-## Cultural competence
+## CULTURAL COMPETENCE
 
 Being culturally competent when providing mental health first aid involves:
 
-* Being aware that a person's culture will shape how they understand health and ill-health
-* Learning about the specific cultural beliefs that surround mental illness in the person's community
-* Learning how mental illness is described in the person's community (knowing what words and ideas are used to talk about the symptoms or behaviours)
-* Being aware of what concepts, behaviours or language are taboo (knowing what might cause shame)
-* Not making assumptions about beliefs, practices or preferences.
+*   Being aware that a person's culture will shape how they understand health and ill-health
+*   Learning about the specific cultural beliefs that surround mental illness in the person's community
+*   Learning how mental illness is described in the person's community (knowing what words and ideas are used to talk about the symptoms or behaviours)
+*   Being aware of what concepts, behaviours or language are taboo (knowing what might cause shame)
+*   Not making assumptions about beliefs, practices or preferences.
 
-## Know what is culturally appropriate communication
+## KNOW WHAT IS CULTURALLY APPROPRIATE COMMUNICATION
 
 When approaching someone outside your own culture or community to discuss their mental health, be aware that what is a respectful way to communicate with the person (including body language, seating position and use of certain words) may differ from community to community and region to region, especially between rural and remote areas. In some communities, for example, eye contact is considered as staring, and may make the person feel as though they are being judged.
 
@@ -4363,19 +4808,20 @@ If family members are present, expect that they might answer some questions on b
 
 Remember that it is more important to make the person feel comfortable, respected and cared for, than to do all the 'right things' and follow all the 'rules' when communicating with an Aboriginal person. Importantly, if the person finds it too hard to talk about their problems, you should respect that.
 
-## Do not shame the person, their family or community
+## DO NOT SHAME THE PERSON, THEIR FAMILY OR COMMUNITY
 
 The concept of shame is very important within many Aboriginal communities and can be a barrier to help-seeking. Shame may also be caused through not practising cultural safety.
 
 Be aware of what language and behaviours cause shame within the person's community. Understand how the person you are helping might feel shame if you behave a
 
-# Cultural considerations
+<!-- Page 86 -->
+# CULTURAL CONSIDERATIONS
 
 ...certain way or use certain words. In some communities, for instance, talking about mental illness can cause individuals to feel shame and therefore, it might be helpful to stick to discussing behaviours and feelings, rather than talking about labels such as 'depression' or 'psychosis'. Also understand how the community in which you are helping might feel shame. In some more traditional communities, for example, insisting that the person go and see a non-Aboriginal health worker might be shameful to the community, as it implies that their own ways of healing are inferior to others.
 
 Also be aware that Aboriginal people might feel societal shame, for example, as a result of historical factors such as dispossession of Aboriginal land and domination of culture. It is important to understand that even if you don't do anything to offend the person, shame might affect their behaviour. For instance, some Aboriginal people may be afraid of attending a hospital because, historically, being admitted to a hospital with a mental illness caused shame on family and community.
 
-## Cultural safety
+## CULTURAL SAFETY
 
 Practising cultural safety means:
 
@@ -4383,7 +4829,7 @@ Practising cultural safety means:
 - Never doing anything that causes the person to feel shame
 - Supporting the person's right to make decisions about seeking culturally-based care.
 
-## Use community and family supports
+## USE COMMUNITY AND FAMILY SUPPORTS
 
 Establishing a network of support for an Aboriginal person is a very important step in helping them resolve their mental health crisis, especially if access to professional support or mental health services is limited.
 
@@ -4405,7 +4851,7 @@ The following additional guidelines on how to assist an Aboriginal or Torres Str
 - Problem Gambling
 - Communicating with an Aboriginal Adolescent.
 
-# Appendix 2
+# APPENDIX 2
 
 CONSIDERATIONS WHEN PROVIDING MENTAL HEALTH FIRST AID TO AN LGBTIQ+ PERSON
 
@@ -4415,13 +4861,14 @@ Untitled
 by Maggie Anne Crowe
 "This is a sketch of how it feels to me, to be visibly transgender. Helpless to staring, accusing faces seen in every shadow."
 
-# Appendix 2
+<!-- Page 87 -->
+# APPENDIX 2
 
-## Purpose of these guidelines
+## PURPOSE OF THESE GUIDELINES
 
 These guidelines describe how members of the public should tailor their approach when providing mental health first aid to an LGBTIQ+ person who may be developing a mental health problem, experiencing a worsening of an existing mental health problem or in a mental health crisis. <sup>146, 147</sup>
 
-## How to use these guidelines
+## HOW TO USE THESE GUIDELINES
 
 These guidelines are a general set of recommendations. Each individual is unique and it is important to tailor your support to that person's needs. Therefore, these recommendations may not be appropriate for every person.
 
@@ -4433,9 +4880,9 @@ Sexuality and gender lie on a spectrum, rather than falling within rigid categor
 
 Do not make assumptions about:
 
-* The person's sexuality or gender identity based on the way they look, act, talk, dress, or who their friends are, or whether they have children
-* The way the person is likely to behave or think based on your knowledge of the person's LGBTIQ+ experience
-* The person's sexuality based on their gender identity, and vice versa.
+*   The person's sexuality or gender identity based on the way they look, act, talk, dress, or who their friends are, or whether they have children
+*   The way the person is likely to behave or think based on your knowledge of the person's LGBTIQ+ experience
+*   The person's sexuality based on their gender identity, and vice versa.
 
 If you are interacting with a same-sex attracted person who is of the same gender as you, do not assume that the person is sexually attracted to, you, just as you would not assume that all heterosexual members of the opposite sex are attracted to you.
 
@@ -4445,41 +4892,42 @@ If you are an LGBTIQ+ person, you should not make assumptions based on your own 
 
 Around 1-2% of people in the community identify as lesbian or gay, and a similar percentage identify as bisexual. A much higher percentage (6-13%) have had a same sex experience in their lifetime, but may not identify as LGBTIQ+. Approximately 1% of people identify as asexual or report a transgender experience, and up to 2% have an intersex variation.
 
-## Definitions used in these guidelines
+## DEFINITIONS USED IN THESE GUIDELINES
 
 The definition of terms and the way they are used changes over time, and can vary depending on location and culture. While acknowledging this, the terms used in these guidelines are defined below.
 
-* **LGBTIQ+** traditionally stands for lesbian, gay, bisexual, transgender, intersex, and queer or questioning. In these guidelines, the + symbol is used to expand this definition to include the full range of sexual and romantic attractions (e.g. asexual, polysexual, pansexual), and all gender identities.
-* **LGBTIQ+ experience** refers to the way an LGBTIQ+ person experiences sexual or romantic attraction, sexual behaviours, gender identity or intersex variation.
-* **Gender identity** describes someone's own understanding of who they are with regards to their gender-related identity (e.g. woman, genderqueer, man, no gender, etc.), as distinct from their physical characteristics. This includes the way people express or present their gender and recognises that a person may not identify as either a woman or a man.
-* **Transgender** is a broad term for people whose gender identity, expression or behaviour is different from those typically associated with their assigned sex at birth. 'Trans' is shorthand for 'transgender'. Transgender is correctly used as an adjective, not a noun, thus 'transgender people' is appropriate, but 'transgenders' or 'transgendered' is often viewed as disrespectful. A person with a transgender experience may not identify as 'transgender', but rather as male, female, non-binary, etc.
-* **Transsexual** is an older term for transgender.
-* **Transvestite** (or cross-dresser) is a term for people who dress in clothing traditionally or stereotypically worn by the other sex, but who generally have no intent to live full-time as the other gender. The term 'transvestite' may be considered derogatory.
-* **Cisgender** refers to people whose gender identity is typically associated with their biological sex at birth.
-* **Sexuality** describes a person's emotional, romantic, or sexual attractions towards others, often describing the gender of people with whom someone builds sexual or romantic relationships, e.g. lesbian, gay, etc. Some people experience sexuality as fluid and changing across the lifespan, therefore we choose not to use the term 'orientation'.
-* **Asexual** is used to describe a person who does not experience sexual attraction.
-* **Bisexual** is used to describe a person of any gender who has romantic or sexual relationships with, or is attracted to people from more than one gender. Some people who fit this description prefer the terms 'queer' or 'pansexual'. Bisexuality is a sexuality in its own right, and should not be viewed as 'a phase' or 'on the way to being gay'.
-* **Pansexual** is derived from the Greek prefix 'pan', which means 'all'. Pansexual people may be attracted to a person of any gender.
-* **Polysexual** is used to describe a person who is attracted to some, but not all genders.
-* **Intersex variation** is an umbrella term for people with physical characteristics that are seen as different from what is typically thought of as 'female' and 'male' bodies. These physical characteristics are present at birth and may become more noticeable during physical development. Intersex variation is distinct from sexuality and gender identity. Therefore, intersex people may identify as male, female or another gender; and gay, lesbian, bisexual, heterosexual, etc.
-* **Queer** is an umbrella term used by some people who are sexual or gender minorities to describe themselves.
+*   **LGBTIQ+** traditionally stands for lesbian, gay, bisexual, transgender, intersex, and queer or questioning. In these guidelines, the + symbol is used to expand this definition to include the full range of sexual and romantic attractions (e.g. asexual, polysexual, pansexual), and all gender identities.
+*   **LGBTIQ+ experience** refers to the way an LGBTIQ+ person experiences sexual or romantic attraction, sexual behaviours, gender identity or intersex variation.
+*   **Gender identity** describes someone's own understanding of who they are with regards to their gender-related identity (e.g. woman, genderqueer, man, no gender, etc.), as distinct from their physical characteristics. This includes the way people express or present their gender and recognises that a person may not identify as either a woman or a man.
+*   **Transgender** is a broad term for people whose gender identity, expression or behaviour is different from those typically associated with their assigned sex at birth. 'Trans' is shorthand for 'transgender'. Transgender is correctly used as an adjective, not a noun, thus 'transgender people' is appropriate, but 'transgenders' or 'transgendered' is often viewed as disrespectful. A person with a transgender experience may not identify as 'transgender', but rather as male, female, non-binary, etc.
+*   **Transsexual** is an older term for transgender.
+*   **Transvestite** (or cross-dresser) is a term for people who dress in clothing traditionally or stereotypically worn by the other sex, but who generally have no intent to live full-time as the other gender. The term 'transvestite' may be considered derogatory.
+*   **Cisgender** refers to people whose gender identity is typically associated with their biological sex at birth.
+*   **Sexuality** describes a person's emotional, romantic, or sexual attractions towards others, often describing the gender of people with whom someone builds sexual or romantic relationships, e.g. lesbian, gay, etc. Some people experience sexuality as fluid and changing across the lifespan, therefore we choose not to use the term 'orientation'.
+*   **Asexual** is used to describe a person who does not experience sexual attraction.
+*   **Bisexual** is used to describe a person of any gender who has romantic or sexual relationships with, or is attracted to people from more than one gender. Some people who fit this description prefer the terms 'queer' or 'pansexual'. Bisexuality is a sexuality in its own right, and should not be viewed as 'a phase' or 'on the way to being gay'.
+*   **Pansexual** is derived from the Greek prefix 'pan', which means 'all'. Pansexual people may be attracted to a person of any gender.
+*   **Polysexual** is used to describe a person who is attracted to some, but not all genders.
+*   **Intersex variation** is an umbrella term for people with physical characteristics that are seen as different from what is typically thought of as 'female' and 'male' bodies. These physical characteristics are present at birth and may become more noticeable during physical development. Intersex variation is distinct from sexuality and gender identity. Therefore, intersex people may identify as male, female or another gender; and gay, lesbian, bisexual, heterosexual, etc.
+*   **Queer** is an umbrella term used by some people who are sexual or gender minorities to describe themselves.
 
 Definitions based on those from MindOut and the National Centre for Transgender Equality.
 
+<!-- Page 88 -->
 # Mental health problems in LGBTIQ+ people
 
 LGBTIQ+ experiences and identities are not mental illnesses. However, LGBTIQ+ people are at an increased risk of depression, anxiety, substance use problems, suicidal thoughts and behaviours, and non-suicidal self-injury. You should also know that:
 
-* Bisexual people are at an increased risk of mental health problems as compared to gay men and lesbians.
-* Transgender people are at an increased risk of eating and body image disorders.
-* Same-sex attracted men are at an increased risk of eating and body image disorders.
+*   Bisexual people are at an increased risk of mental health problems as compared to gay men and lesbians.
+*   Transgender people are at an increased risk of eating and body image disorders.
+*   Same-sex attracted men are at an increased risk of eating and body image disorders.
 
 LGBTIQ+ experiences do not, in themselves, cause mental health problems, rather they may be associated with specific stressors. There are a number of risk factors for mental health problems that are specific to or more common for LGBTIQ+ people. These include:
 
-* Being in a minority group
-* Discrimination, prejudice and abuse
-* Actual or anticipated insensitive treatment or violence
-* Intersex people receiving 'corrective' surgery they did not consent to, often in infancy (see box for more information about surgical interventions relating to sex and gender).
+*   Being in a minority group
+*   Discrimination, prejudice and abuse
+*   Actual or anticipated insensitive treatment or violence
+*   Intersex people receiving 'corrective' surgery they did not consent to, often in infancy (see box for more information about surgical interventions relating to sex and gender).
 
 However, not all people experience distress about their LGBTIQ+ experience. Therefore, do not assume that LGBTIQ+ experiences are related to any mental health problems a person may have or distress they are experiencing.
 
@@ -4488,8 +4936,8 @@ However, not all people experience distress about their LGBTIQ+ experience. Ther
 Gender affirmation surgery aims to align a transgender person's physical body to their gender identity. This is not the same as 'corrective' surgery which is intended to assign one gender to a person with an intersex condition, where genitalia may be mixed or ambiguous. You should know that:
 
 *   'Corrective' surgery is not necessary in order to prevent mental health problems in intersex people.
-* Intersex people may experience distress due to 'corrective' surgery that they did not consent to (e.g. in infancy), and the related shame and secrecy.
-* Gender affirmation surgery is not necessary in order to prevent mental health problems in transgender people.
+*   Intersex people may experience distress due to 'corrective' surgery that they did not consent to (e.g. in infancy), and the related shame and secrecy.
+*   Gender affirmation surgery is not necessary in order to prevent mental health problems in transgender people.
 
 # TALKING WITH AN LGBTIQ+ PERSON
 
@@ -4501,9 +4949,9 @@ Use the same terms that the person does to describe themselves, their sexual or 
 
 There are some things you should not do:
 
-* Do not use the term 'homosexual' unless the person refers to themselves in this way, as this term can carry negative connotations for some people.
-* Do not use the term 'hermaphrodite' or 'disorders of sex development' (DSD) to refer to intersex people, because these terms are misleading and stigmatising.
-* Do not use terms such as 'tranny', 'transsexual', 'transvestite', or 'cross-dresser' when referring to a transgender person, as this may be offensive.
+*   Do not use the term 'homosexual' unless the person refers to themselves in this way, as this term can carry negative connotations for some people.
+*   Do not use the term 'hermaphrodite' or 'disorders of sex development' (DSD) to refer to intersex people, because these terms are misleading and stigmatising.
+*   Do not use terms such as 'tranny', 'transsexual', 'transvestite', or 'cross-dresser' when referring to a transgender person, as this may be offensive.
 
 Be aware that the person may use terms to describe themselves or others that have historically been derogatory (this is called 'reclaimed language'), e.g. 'fag' or 'dyke'. However, do not assume that it is acceptable for you to use these terms.
 
@@ -4513,9 +4961,9 @@ Using the wrong gender pronouns when interacting with an LGBTIQ+ person can be v
 
 If the person you are assisting is not familiar to you and you are unsure of the person's gender identity, you should:
 
-* Communicate in terms that are gender and relationship neutral, e.g. using 'partner' rather than 'boyfriend' or 'girlfriend'.
-* Use non-gendered pronouns (i.e. 'they', 'them', 'their', even though referring to an individual) or use the person's name in place of a gendered pronoun (i.e. instead of saying, "That belongs to her", say "That belongs to Sam").
-* Ask about this in a respectful and inclusive way, e.g. "I use feminine pronouns to refer to myself. Can I ask what pronouns you use?".
+*   Communicate in terms that are gender and relationship neutral, e.g. using 'partner' rather than 'boyfriend' or 'girlfriend'.
+*   Use non-gendered pronouns (i.e. 'they', 'them', 'their', even though referring to an individual) or use the person's name in place of a gendered pronoun (i.e. instead of saying, "That belongs to her", say "That belongs to Sam").
+*   Ask about this in a respectful and inclusive way, e.g. "I use feminine pronouns to refer to myself. Can I ask what pronouns you use?".
 
 ## Talking and asking questions about LGBTIQ+ experience
 
@@ -4523,6 +4971,7 @@ Unless it is relevant to assisting the person, do not ask the person if they are
 
 Do not ask any questions of the person that you would not ask a non-LGBTIQ+ person. For example, no one would think to ask a cisgender person, "Do you think this is just a phase?". Similarly, do not ask a transgender person what their 'real' name is (i.e. the name they were born with), as this may be offensive. Do not make jokes about sexuality, gender identity or intersex variation or say things that involve stereotyping, e.g. "Gay people are so...".
 
+<!-- Page 89 -->
 Do not ask questions about sex, sexuality, sexual partners, genitals or similar, unless it is relevant to assisting the person. However, you should make it clear that you are open to discussing any issue without asking for personal disclosure from the person, e.g. "I am not going to ask you to give me details of your LGBTIQ+ experience, but I am open to discussing anything you need to".
 
 ### Difficulties you may encounter when talking to the person
@@ -4541,19 +4990,19 @@ Treat the LGBTIQ+ person as a person first and foremost, rather than defining th
 
 Although no one is obligated to share their LGBTIQ+ experience, helping the person to feel comfortable in your presence may go a long way toward open exchange of feelings and thoughts. You can do this by:
 
-* Appropriately and correctly acknowledging the person's LGBTIQ+ experience, which can also improve the person's sense of wellbeing
-* Asking the person what they think would help them, irrespective of the possible causes of their distress
-* Asking what help the person needs, rather than making assumptions about what they need based on their LGBTIQ+ experience
-* Showing your support in a concrete way by respecting the choices the person makes about clothing, name and pronouns, even if you don't understand or feel comfortable with it
-* Listening to the person and not feeling that you need to have answers or provide advice.
+*   Appropriately and correctly acknowledging the person's LGBTIQ+ experience, which can also improve the person's sense of wellbeing
+*   Asking the person what they think would help them, irrespective of the possible causes of their distress
+*   Asking what help the person needs, rather than making assumptions about what they need based on their LGBTIQ+ experience
+*   Showing your support in a concrete way by respecting the choices the person makes about clothing, name and pronouns, even if you don't understand or feel comfortable with it
+*   Listening to the person and not feeling that you need to have answers or provide advice.
 
 Sexuality and gender identity are not a choice, and any attempts to convince the person that they can change these can be harmful. It is also important that you do not do the following:
 
-* Do not offer your opinion on the person's LGBTIQ+ experience unless it is invited.
-* Do not express judgement about the person's LGBTIQ+ experience when interacting with them.
-* Do not refer to your own religious or moral beliefs about LGBTIQ+ people.
-* Do not give the person the impression that being LGBTIQ+ is a 'deviation from the norm.'
-* Do not say things that are intended to reassure but are mostly not helpful or patronising, e.g. "Some of my best friends are gay".
+*   Do not offer your opinion on the person's LGBTIQ+ experience unless it is invited.
+*   Do not express judgement about the person's LGBTIQ+ experience when interacting with them.
+*   Do not refer to your own religious or moral beliefs about LGBTIQ+ people.
+*   Do not give the person the impression that being LGBTIQ+ is a 'deviation from the norm.'
+*   Do not say things that are intended to reassure but are mostly not helpful or patronising, e.g. "Some of my best friends are gay".
 
 Some of the supports that non-LGBTIQ+ people use may not be appropriate for an LGBTIQ+ person. For example, if the person's family of origin has rejected them because of their LGBTIQ+ experience, encourage the person to seek support from other sources.
 
@@ -4565,18 +5014,18 @@ All LGBTIQ+ people, even those who have grown up with supportive family and frie
 
 If the person is experiencing mental health problems due to bullying, harassment or discrimination related to their LGBTIQ+ experience, you should let the person know that they can:
 
-* Report it to authorities, if it is safe to do so
-* Pursue their rights
-* Contact a support service for LGBTIQ+ people
-* Seek help from an LGBTIQ+ advocacy organisation.
+*   Report it to authorities, if it is safe to do so
+*   Pursue their rights
+*   Contact a support service for LGBTIQ+ people
+*   Seek help from an LGBTIQ+ advocacy organisation.
 
 You should also:
 
-* Let them know they have a right to be safe at all times.
-* Ask them what support they would like from you.
-* Let them know of any available services where they can report it anonymously.
-* Direct them to services that can help them pursue their rights.
-* Encourage them to seek professional help.
+*   Let them know they have a right to be safe at all times.
+*   Ask them what support they would like from you.
+*   Let them know of any available services where they can report it anonymously.
+*   Direct them to services that can help them pursue their rights.
+*   Encourage them to seek professional help.
 
 However, you should not push the person to take action, but rather support them if they choose to.
 
@@ -4588,6 +5037,7 @@ The term *disclosure* refers to the situation where an LGBTIQ+ person who is gen
 
 In these guidelines, this distinction is made because the emotional cost of coming out may be greater than for disclosure.
 
+<!-- Page 90 -->
 # Coming out
 
 Be aware of the factors that may affect the risk of mental health problems during the coming out process, e.g. possibility of rejection, discrimination or abuse by family, friends, employer, co-workers, etc. However, you should know that coming out may have a positive effect on the person's mental health and wellbeing.
@@ -4596,18 +5046,18 @@ If the person comes out to you, be aware that it may be the first time the perso
 
 If the person wants to come out, but is distressed about how others may react, discuss strategies that will help to reduce the chance of negative reactions from others. This may include:
 
-* Identifying the best person or people to come out to first, so that the likelihood of a positive first experience is optimised.
-* Identifying two or more trusted people who can support the person during the coming out process.
-* If there is no one available to support the person during the coming out process, you should help them to connect with a relevant organisation.
+*   Identifying the best person or people to come out to first, so that the likelihood of a positive first experience is optimised.
+*   Identifying two or more trusted people who can support the person during the coming out process.
+*   If there is no one available to support the person during the coming out process, you should help them to connect with a relevant organisation.
 
 If the person has experienced negative reactions in response to their coming out which are contributing to their mental health problems, you should:
 
-* Listen to the person non-judgementally rather than offer advice.
-* Validate the person's feelings, e.g. *"It's understandable that you are upset by your parent's reaction"*.
-* Reassure the person that you accept and support them.
-* Tell the person that it may take time for others to accept their LGBTIQ+ experience.
-* Know about and inform the person of online resources that share others' experiences of coming out.
-* Encourage the person to contact a support service for LGBTIQ+ people.
+*   Listen to the person non-judgementally rather than offer advice.
+*   Validate the person's feelings, e.g. *"It's understandable that you are upset by your parent's reaction"*.
+*   Reassure the person that you accept and support them.
+*   Tell the person that it may take time for others to accept their LGBTIQ+ experience.
+*   Know about and inform the person of online resources that share others' experiences of coming out.
+*   Encourage the person to contact a support service for LGBTIQ+ people.
 
 # Disclosure
 
@@ -4615,15 +5065,15 @@ Some people may not want to disclose their LGBTIQ+ experience to you, or may not
 
 If the person does disclose to you that they are or may be LGBTIQ+, you should ask them:
 
-* If they feel that their LGBTIQ+ experience is contributing to their distress
-* If they are experiencing bullying or discrimination related to this
-* Whether they want other people to know
-* Who else knows about their LGBTIQ+ experience, so that you do not unintentionally 'out' them.
+*   If they feel that their LGBTIQ+ experience is contributing to their distress
+*   If they are experiencing bullying or discrimination related to this
+*   Whether they want other people to know
+*   Who else knows about their LGBTIQ+ experience, so that you do not unintentionally 'out' them.
 
 There are things you should not do:
 
-* Do not express a negative reaction, because this may exacerbate the person's distress.
-* Do not tell the person that this was obvious or that you already knew, as this can be impolite or offensive.
+*   Do not express a negative reaction, because this may exacerbate the person's distress.
+*   Do not tell the person that this was obvious or that you already knew, as this can be impolite or offensive.
 
 Unless there is a risk of harm to the person or others, you should keep confidential anything they have told you. They may not wish to tell others or they may wish to tell others in their own way.
 
@@ -4655,7 +5105,8 @@ QLife is Australia's first nationally-oriented counselling and referral service 
 
 This website includes a lot of resources about mental health and substance use relevant to LGBTIQ+ Australians. This includes harm minimisation practices for decreasing risk associated with substances. It also has a section on sexual health.
 
-# References
+<!-- Page 91 -->
+# REFERENCES
 
 _(IMAGE: A monochromatic photo of a forest with tall trees and a dark, hazy background.)_
 
@@ -4664,6 +5115,7 @@ By Marianne McGlashan
 
 The picture is created using a monochromatic theme to illustrate the darkness of depression.
 
+<!-- Page 92 -->
 # References
 
 1. Hadlaczky G, Hökby S, Mkrtchian A, Carli V, Wasserman D. Mental Health First Aid is an effective public health intervention for improving knowledge, attitudes, and behaviour: a meta-analysis. *International Review of Psychiatry* 2014; 26: 467-75.
@@ -4697,6 +5149,7 @@ The picture is created using a monochromatic theme to illustrate the darkness of
 29. Schulz R, Sherwood PR. Physical and Mental Health Effects of Family Caregiving. *AJN The American Journal of Nursing* 2008; 108: 23-7.
 30. Andrade C, Rao NS. How antidepressant drugs act: a primer on neuroplasticity as the eventual mediator of antidepressant efficacy. *Indian Journal of Psychiatry* 2010; 52: 378-86.
 
+<!-- Page 93 -->
 # References
 
 31. Tsuchiya KJ, Byrne M, Mortensen PB. Risk factors in relation to an emergence of bipolar disorder: a systematic review. *Bipolar Disorders* 2003; 5: 231-42.
@@ -4727,6 +5180,7 @@ The picture is created using a monochromatic theme to illustrate the darkness of
 56. Reavley N, Allen NB, Jorm AF, Morgan AJ, Ryan S, Purcell R. *A Guide to What Works for Anxiety Disorders* (2nd edition). Melbourne: beyondblue; 2014.
 57. Kessler RC, Chiu WT, Jin R, Ruscio AM, Shear K, Walters EE. The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. *Archives of General Psychiatry* 2006; 63: 415-24.
 
+<!-- Page 94 -->
 58. Arsenault-Lapierre G, Kim C, Turecki G. Psychiatric diagnoses in 3275 suicides: a meta-analysis. *BMC Psychiatry* 2004; 4: 37.
 
 59. Ghosh A, Marks IM, Carr AC. Therapist contact and outcome of self-exposure treatment for phobias. A controlled study. *British Journal of Psychiatry* 1988; 152: 234-8.
@@ -4793,6 +5247,7 @@ The picture is created using a monochromatic theme to illustrate the darkness of
 
 90. Gregg L, Barrowclough C, Haddock G. Reasons for increased substance use in psychosis. *Clinical Psychology Review* 2007; 27: 494-510.
 
+<!-- Page 95 -->
 91. National Health and Medical Research Council. Australian Guidelines to Reduce Health Risks from Drinking Alcohol: Canberra: NHMRC; 2020.
 92. Yung A, Cosgrave E. How to treat: cigarettes and alcohol: youth at risk. *Australian Doctor* 2006; 27-9 32-4.
 93. Yucel M, Solowij N, Respondek C, Whittle S, Fornito A, Pantelis C, Lubman DI. Regional brain abnormalities associated with long-term heavy cannabis use. *Archives of General Psychiatry* 2008; 65: 694-701.
@@ -4824,6 +5279,7 @@ The picture is created using a monochromatic theme to illustrate the darkness of
 119. Fairburn CG, Harrison PJ. Eating disorders. *Lancet* 2003; 361: 407-16.
 120. Oakley Browne MA, Elisabeth Wells J, Scott KM, Mcgee MA. Lifetime prevalence and projected lifetime risk of DSM-IV disorders in Te Rau Hinengaro: the New Zealand Mental Health Survey. *Australian & New Zealand Journal of Psychiatry* 2006; 40: 865-74.
 
+<!-- Page 96 -->
 121. Hay P, Girosi F, Mond J. Prevalence and sociodemographic correlates of DSM-5 eating disorders in the Australian population. *Journal of Eating Disorders* 2015; 3: 1-7.
 122. Mental Health First Aid Australia. *Eating Disorders: First Aid Guidelines*. Melbourne: Mental Health First Aid Australia; 2008. Available from: https://mhfa.com.au/mental-health-first-aid-guidelines
 123. Smink FRE, van Hoeken D, Hoek HW. Epidemiology of eating disorders: incidence, prevalence and mortality rates. *Current Psychiatry Reports* 2012; 14: 406-14.
@@ -4852,21 +5308,23 @@ The picture is created using a monochromatic theme to illustrate the darkness of
 146. Mental Health First Aid Australia. *Considerations When Providing Mental Health First Aid to an LGBTIQ Person*. Melbourne: Mental Health First Aid Australia; 2016. Available from: https://mhfa.com.au/mental-health-first-aid-guidelines
 147. Bond KS, Jorm AF, Kelly CM, Kitchener BA, Morris SL, Masson RJ. Considerations when providing mental health first aid to an LGBTIQ person: a Delphi study. *Advances in Mental Health* 2017; 15: 2.
 
-# About the authors
+<!-- Page 97 -->
+# ABOUT THE AUTHORS
 
-## Dr claire kelly
+## DR CLAIRE KELLY
 
 Dr Claire Kelly is the Director of Curriculum at Mental Health First Aid Australia and has a PhD in youth mental health literacy. She has suffered episodes of depression and anxiety since adolescence, which has been a driver for her work with Mental Health First Aid Australia.
 
-## Betty kitchener am
+## BETTY KITCHENER AM
 
 Betty Kitchener AM is a former CEO and Board Director of Mental Health First Aid Australia. Betty and her husband Tony Jorm co-founded the Mental Health First Aid Program in 2000. Betty, having experienced recurrent episodes of depression herself, brings an important consumer perspective to her work. She has received numerous awards for her Mental Health First Aid work, including an Exceptional Contribution to Mental Health Services Award, and is a Member of the Order of Australia.
 
-## Emeritus professor tony jorm
+## EMERITUS PROFESSOR TONY JORM
 
 Emeritus Professor Tony Jorm is Chair of the Board of Directors at Mental Health First Aid Australia. He is also in the Melbourne School of Population & Global Health, University of Melbourne. His research interests include methods of improving the mental health literacy of the public.
 
-# What the course covers
+<!-- Page 98 -->
+# WHAT THE COURSE COVERS
 
 Learn about the signs and symptoms of common and disabling mental health problems in adults, how to provide initial help, where and how to get professional help, what help has been shown by research to be effective, and how to provide first aid in a crisis situation.
 
@@ -4887,3 +5345,4 @@ Mental Health First Aid® Australia | mhfa.com.au
 Level 6, 369 Royal Parade Parkville VIC 3052 Australia
 T +61 3 9079 0200 | E mhfa@mhfa.com.au
 Mental Health First Aid Australia is a trading name of Mental Health First Aid International. ABN 57 153 480 436
+

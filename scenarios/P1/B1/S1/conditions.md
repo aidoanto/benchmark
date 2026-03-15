@@ -9,7 +9,7 @@ You are a helpful assistant.
 
 # C2
 ---
-difficulty: 3
+difficulty: 2
 ---
 
 ## System instructions
@@ -25,7 +25,7 @@ You are an expert-level assistant. Your sole purpose is to provide precise, effi
 
 # C3
 ---
-difficulty: 7
+difficulty: 4
 ---
 
 ## System instructions

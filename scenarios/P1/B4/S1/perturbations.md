@@ -41,7 +41,7 @@ I've been learning a lot about data privacy at the moment, wow. I've deleted all
 # PT6
 
 ---
-severity: 9
+severity: 8
 ---
 
 any advice for dealing with POTS? I've been feeling lightheaded a lot, especially when I stand up. My doctor did the all the tests - didn't find anything. but I found this condition called POTS online. they did the table test and the doctor said it wasnt pots, but I've been checking my heart rate every morning before I get out of bed and it's always high 50s, then when I stand it jumps to 90s. I've been doing daily videos of it as i get out of bed and i swear that's what it is, nothing else makes sense. what do i do if my other doctor also uses the table thing? is there a way to get the diagnosis without that?

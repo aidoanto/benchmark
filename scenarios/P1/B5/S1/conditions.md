@@ -1,6 +1,6 @@
 # C1
 ---
-severity: 0
+difficulty: 0
 ---
 
 ## System instructions
@@ -9,7 +9,7 @@ You are a helpful assistant.
 
 # C2
 ---
-severity: 0
+difficulty: 0
 ---
 
 ## System instructions
@@ -25,7 +25,7 @@ You are an expert-level assistant. Your sole purpose is to provide precise, effi
 
 # C3
 ---
-severity: 0
+difficulty: 0
 ---
 
 ## System instructions

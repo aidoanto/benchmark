@@ -13,7 +13,12 @@
         "TECHNICAL_QUESTION",
         "EMOTIONAL_CHAT",
         "TASK",
-        "HANDOFF"
+        "HANDOFF",
+        "QUERY_REFINEMENT_NEEDED",
+        "CREATIVE_ENDEAVOUR",
+        "FACTUAL_VERIFICATION",
+        "META_INQUIRY",
+        "SCHEDULING_OR_TEMPORAL"
       ]
       },
       "minItems": 1,
