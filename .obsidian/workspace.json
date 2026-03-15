@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/external-sources/MHFA Manual 2019.md",
+                "file": "research/00. Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,33 +28,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MHFA Manual 2019"
+              "title": "00. Summary"
             },
             "group": "489ae88a70e86a27"
-          },
-          {
-            "id": "adece2e30bed10e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/Review notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Review notes"
-            }
           }
         ]
       }
@@ -221,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/external-sources/MHFA Manual 2019.md",
+                "file": "research/00. Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MHFA Manual 2019"
+              "title": "Outgoing links from 00. Summary"
             },
             "group": "489ae88a70e86a27"
           }
@@ -250,17 +226,20 @@
   },
   "active": "8faaf75f7be133e7",
   "lastOpenFiles": [
+    "research/00. HELMbench scratchpad.md",
+    "research/Review notes.md",
+    "research/00. Summary.md",
+    "research/1. Benchmark Principles.md",
+    "research/external-sources/MHFA Manual 2019.md",
     "research/external-sources/Citation_Matrix.md",
     "research/external-sources/ASIST Handbook.md",
     "research/external-sources/mhfa_manual.md",
     "research/external-sources/add_page_numbers2.py",
     "research/external-sources/add_page_numbers.py",
-    "research/external-sources/MHFA Manual 2019.md",
     "mhfa_manual.md",
     "research/external-sources/A new lawsuit blames ChatGPT for a murder-suicide - Suzanne Adams - NPR.md",
     "research/external-sources/Zane-Shamblin-wrongful-death.md",
     "research/external-sources/Google and AI startup to settle lawsuits alleging chatbots led to teen suicide.md",
-    "research/00. Summary.md",
     "research/external-sources/Google and Character AI to Settle Lawsuit Over Teenager’s Death - NYT.md",
     "scenarios/P4/B1/S1/S1.md",
     "research/3b. Evaluation methods.md",
@@ -280,9 +259,6 @@
     "scenarios/P4/B1/S1__removed_mfmcq/Q3.json",
     "scenarios/P4/B1/S1__removed_mfmcq/Q2.json",
     "scenarios/P4/B1/S1__removed_mfmcq/Q1.json",
-    "scenarios/P4/B1/S1__removed_mfmcq/Q1.md",
-    "scenarios/P4/B1/S1__removed_mfmcq/perturbations.md",
-    "scenarios/P4/B1/S1__removed_mfmcq/MFMCQ.md",
     "scenarios/P4/B1/S1__removed_mfmcq",
     "Scenarios Dashboard.base",
     "Writing Progress.base",
